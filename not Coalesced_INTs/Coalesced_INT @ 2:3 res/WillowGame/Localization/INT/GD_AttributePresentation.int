@@ -1,0 +1,2028 @@
+[ActiveSkill.AttrPresent_ActiveSkillCooldownConsumptionRate AttributePresentationDefinition]
+Description=Cooldown Reduction
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Ammo.AttrPresent_Att_Ammunition AttributePresentationDefinition]
+Description=Ammunition
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Combat_Rifle_CurrentValue AttributePresentationDefinition]
+Description=Assault Rifle Bullets
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Combat_Shotgun_CurrentValue AttributePresentationDefinition]
+Description=Shotgun Shells
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Grenade_ProteanCurrentValue AttributePresentationDefinition]
+Description=Grenades
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Patrol_SMG_CurrentValue AttributePresentationDefinition]
+Description=SMG Bullets
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Repeater_Pistol_CurrentValue AttributePresentationDefinition]
+Description=Repeater Pistol Bullets
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Rocket_Launcher_CurrentValue AttributePresentationDefinition]
+Description=Rockets
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoPickups.AttrPresent_Ammo_Sniper_Rifle_CurrentValue AttributePresentationDefinition]
+Description=Sniper Rifle Bullets
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_CombatRifle AttributePresentationDefinition]
+Description=Assault Rifle Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_Grenades AttributePresentationDefinition]
+Description=Max Grenade Count
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_Launcher AttributePresentationDefinition]
+Description=Launcher Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_Pistol AttributePresentationDefinition]
+Description=Pistol Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_Shotgun AttributePresentationDefinition]
+Description=Shotgun Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_SMG AttributePresentationDefinition]
+Description=SMG Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoMaxValue_SniperRifle AttributePresentationDefinition]
+Description=Sniper Rifle Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Combat_Rifle AttributePresentationDefinition]
+Description=Assault Rifle Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Combat_Shotgun AttributePresentationDefinition]
+Description=Shotgun Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Grenade_Protean AttributePresentationDefinition]
+Description=Grenade Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Patrol_SMG AttributePresentationDefinition]
+Description=SMG Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Repeater_Pistol AttributePresentationDefinition]
+Description=Repeater Pistol Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Rocket_Launcher AttributePresentationDefinition]
+Description=Launcher Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AmmoUpgradeLevel_Sniper_Rifle AttributePresentationDefinition]
+Description=Sniper Rifle Ammo Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Combat_Rifle AttributePresentationDefinition]
+Description=Use to increase your Assault Rifle Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Grenade AttributePresentationDefinition]
+Description=Use to increase your Grenade Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Launcher AttributePresentationDefinition]
+Description=Use to increase your Launcher Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Repeater AttributePresentationDefinition]
+Description=Use to increase your Repeater Pistol Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Shotgun AttributePresentationDefinition]
+Description=Use to increase your Shotgun Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_SMG AttributePresentationDefinition]
+Description=Use to increase your SMG Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AmmoUpgrades.AttrPresent_AttrSlotGrade_Sniper AttributePresentationDefinition]
+Description=Use to increase your Sniper Rifle Ammo Capacity to $NUMBER$.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactActionSkillCooldownRate AttributePresentationDefinition]
+Description=Cooldown Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAfterburnerMaxValue AttributePresentationDefinition]
+Description=Boost Capacity
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAfterburnerOnIdleRegenDelay AttributePresentationDefinition]
+Description=Boost Recharge Delay
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAfterburnerOnIdleRegenRate AttributePresentationDefinition]
+Description=Boost Recharge Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_CombatRifle AttributePresentationDefinition]
+Description=Assault Rifle Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_Grenades AttributePresentationDefinition]
+Description=Max Grenade Count
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_Launcher AttributePresentationDefinition]
+Description=Launcher Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_Pistol AttributePresentationDefinition]
+Description=Pistol Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_Shotgun AttributePresentationDefinition]
+Description=Shotgun Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_SMG AttributePresentationDefinition]
+Description=SMG Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmmoMaxValue_SniperRifle AttributePresentationDefinition]
+Description=Sniper Rifle Max Ammo
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactAmpImpactDamageModifier AttributePresentationDefinition]
+Description=Slag Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactCorrosiveImpactDamageModifier AttributePresentationDefinition]
+Description=Corrosive Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactExperienceGainedFromCombat AttributePresentationDefinition]
+Description=XP Gained from Combat
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactExplosiveImpactDamageModifier AttributePresentationDefinition]
+Description=Explosive Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactGearLevelRequirementBonus AttributePresentationDefinition]
+Description=Gear Level Requirement
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactHealthMaxValue_Player AttributePresentationDefinition]
+Description=Max Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactHealthRegenPercent AttributePresentationDefinition]
+Description=Health Regen/second
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactIncendiaryImpactDamageModifier AttributePresentationDefinition]
+Description=Fire Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedAmpDamageModifier AttributePresentationDefinition]
+Description=Slag Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedCorrosiveDamageModifier AttributePresentationDefinition]
+Description=Corrosive Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedCorrosiveStatusDamageModifier AttributePresentationDefinition]
+Description=Corrode Damage/sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedExplosiveDamageModifier AttributePresentationDefinition]
+Description=Explosive Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedIncendiaryDamageModifier AttributePresentationDefinition]
+Description=Fire Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedIncendiaryStatusDamageModifier AttributePresentationDefinition]
+Description=Burn Damage/sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedMeleeDamageModifier AttributePresentationDefinition]
+Description=Melee Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedShockDamageModifier AttributePresentationDefinition]
+Description=Shock Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactInstigatedShockStatusDamageModifier AttributePresentationDefinition]
+Description=Electrocute Damage/sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactMeleeSkillCooldownConsRate AttributePresentationDefinition]
+Description=Override Cooldown Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsAssaultRifles AttributePresentationDefinition]
+Description=Assault Rifle
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsBandit AttributePresentationDefinition]
+Description=Bandit
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsDahl AttributePresentationDefinition]
+Description=Dahl
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsHyperion AttributePresentationDefinition]
+Description=Hyperion
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsJakobs AttributePresentationDefinition]
+Description=Jakobs
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsLaunchers AttributePresentationDefinition]
+Description=Launcher
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsMaliwan AttributePresentationDefinition]
+Description=Maliwan
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsPistols AttributePresentationDefinition]
+Description=Pistol
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsShotguns AttributePresentationDefinition]
+Description=Shotgun
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsSMGs AttributePresentationDefinition]
+Description=SMG
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsSniperRifles AttributePresentationDefinition]
+Description=Sniper Rifle
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsTediore AttributePresentationDefinition]
+Description=Tediore
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsTorgue AttributePresentationDefinition]
+Description=Torgue
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactModsVladof AttributePresentationDefinition]
+Description=Vladof
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactNormalImpactDamageModifier AttributePresentationDefinition]
+Description=Non-Elemental Resist
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactRareWeightModifier AttributePresentationDefinition]
+Description=Rare Loot Drops
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactRevivalHealthMultiplier AttributePresentationDefinition]
+Description=Second Wind Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactShieldMaxValue AttributePresentationDefinition]
+Description=Shield Capacity
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactShieldOnIdleRegenerationRate AttributePresentationDefinition]
+Description=Shield Recharge Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactShockImpactDamageModifier AttributePresentationDefinition]
+Description=Shock Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactShopTimerRate AttributePresentationDefinition]
+Description=Shop Timer Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactTimeToBeRevivedMultiplier AttributePresentationDefinition]
+Description=Fight for Your Life Time
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponAccuracyMaxValue AttributePresentationDefinition]
+Description=Max Accuracy
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponAccuracyOnIdleRegenRate AttributePresentationDefinition]
+Description=Acc. Recovery
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponBurstInterval AttributePresentationDefinition]
+Description=Burst Delay
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponClipSize AttributePresentationDefinition]
+Description=Magazine Size
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponDamage AttributePresentationDefinition]
+Description=Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponFireRate AttributePresentationDefinition]
+Description=Fire Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponPerShotAccuracyImpulse AttributePresentationDefinition]
+Description=Recoil
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Artifacts.AttrPresent_ArtifactWeaponReloadSpeed AttributePresentationDefinition]
+Description=Reload Speed
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AttrPresent_Ammo_Grenade_ProteanActiveRegenerationRate AttributePresentationDefinition]
+Description=Grenade Regeneration Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AttrPresent_Att_InstaHealing AttributePresentationDefinition]
+Description=Feeling Weak?
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AttrPresent_CorrosiveStatusEffectDamageModifier AttributePresentationDefinition]
+Description=Corrode Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AttrPresent_HealthMaxValue_Player AttributePresentationDefinition]
+Description=Max Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[AttrPresent_PercentChanceToAbsorbAmmo AttributePresentationDefinition]
+Description=Absorb Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[BlackMarket.AttrPresent_Att_BlackMarketUpgrade_TopStat AttributePresentationDefinition]
+Description=Storage Deck Upgrade
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_AccuracyMinValue AttributePresentationDefinition]
+Description=Accuracy
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ClassMod_ActiveSkillCooldownConsumptionRate AttributePresentationDefinition]
+Description=Cooldown Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ExplosiveImpactDamageModifier AttributePresentationDefinition]
+Description=Explosive Damage Resist
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_HealthMaxValue_Player AttributePresentationDefinition]
+Description=Max Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_HealthOnIdleRegenerationRate AttributePresentationDefinition]
+Description=Health Regen
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedCorrosiveStatusChanceModifier AttributePresentationDefinition]
+Description=Corrode Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedCorrosiveStatusDamageModifier AttributePresentationDefinition]
+Description=Corrode Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedGrenadeDamageModifier AttributePresentationDefinition]
+Description=Grenade Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedIncendiaryStatusChanceModifier AttributePresentationDefinition]
+Description=Burn Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedIncendiaryStatusDamageModifier AttributePresentationDefinition]
+Description=Burn Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedMeleeDamageModifier AttributePresentationDefinition]
+Description=Melee Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedShockDamageModifier AttributePresentationDefinition]
+Description=Electrocute Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_InstigatedShockStatusDamageModifier AttributePresentationDefinition]
+Description=Electrocute Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_PlayerCriticalHitBonus AttributePresentationDefinition]
+Description=Critical Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ShieldMaxValue AttributePresentationDefinition]
+Description=Shield Capacity
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ShieldOnIdleRegenerationDelay AttributePresentationDefinition]
+Description=Shield Recharge Delay
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ShieldOnIdleRegenerationRate AttributePresentationDefinition]
+Description=Shield Recharge Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_ShockImpactDamageModifier AttributePresentationDefinition]
+Description=Shock Damage Resist
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_WeaponClipSize AttributePresentationDefinition]
+Description=Magazine Size
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_WeaponDamage AttributePresentationDefinition]
+Description=Gun Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_WeaponFireInterval AttributePresentationDefinition]
+Description=Fire Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[ClassMods_Only.AttrPresent_WeaponReloadSpeed AttributePresentationDefinition]
+Description=Reload Speed
+NoConstraintText=
+Suffix=
+Prefix=
+
+[CriticalHits.AttrPresent_PlayerCriticalHitBonus AttributePresentationDefinition]
+Description=Critical Hit Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedBulletDamageModifier AttributePresentationDefinition]
+Description=Bullet Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedCorrosiveStatusChanceModifier AttributePresentationDefinition]
+Description=Corrode Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedGrenadeDamageModifier AttributePresentationDefinition]
+Description=Grenade Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedIncendiaryStatusChanceModifier AttributePresentationDefinition]
+Description=Chance to Ignite enemies
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedIncendiaryStatusDamageModifier AttributePresentationDefinition]
+Description=Ignite Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedMeleeDamageModifier AttributePresentationDefinition]
+Description=Melee Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedRocketDamageModifier AttributePresentationDefinition]
+Description=Rocket Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_InstigatedStatusEffectDamageModifier AttributePresentationDefinition]
+Description=Elemental Effect Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ProjectileDamage AttributePresentationDefinition]
+Description=Grenade Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ReceivedBulletDamageModifier AttributePresentationDefinition]
+Description=Bullet Damage Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ReceivedGrenadeDamageModifier AttributePresentationDefinition]
+Description=Grenade Damage Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ReceivedMeleeDamageModifier AttributePresentationDefinition]
+Description=Melee Damage Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ReceivedRocketDamageModifier AttributePresentationDefinition]
+Description=Rocket Damage Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ReceivedStatusEffectDamageModifier AttributePresentationDefinition]
+Description=Elemental Effect Damage Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Damage.AttrPresent_ShockStatusEffectDamageModifier AttributePresentationDefinition]
+Description=Electrocute Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_CorrosiveChanceResistanceModifier AttributePresentationDefinition]
+Description=Corrosive Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_CorrosiveDurationResistanceModifier AttributePresentationDefinition]
+Description=Corrosive Duration Reduction
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_CorrosiveImpactDamageModifier AttributePresentationDefinition]
+Description=Corrosive Impact Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_CorrosivePassiveDamageModifier AttributePresentationDefinition]
+Description=Corrode Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_ExplosiveImpactDamageModifier AttributePresentationDefinition]
+Description=Explosive Impact Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_IgniteChanceResistanceModifier AttributePresentationDefinition]
+Description=Ignite Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_IgniteDurationResistanceModifier AttributePresentationDefinition]
+Description=Ignite Duration Reduction
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_IncendiaryImpactDamageModifier AttributePresentationDefinition]
+Description=Fire Impact Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_IncendiaryPassiveDamageModifier AttributePresentationDefinition]
+Description=Ignite Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_NormalImpactDamageModifier AttributePresentationDefinition]
+Description=Impact Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_NormalPassiveDamageModifier AttributePresentationDefinition]
+Description=Impact Passive Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_ShockChanceResistanceModifier AttributePresentationDefinition]
+Description=Shock chance resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_ShockDurationResistanceModifier AttributePresentationDefinition]
+Description=Shock Duration Reduction
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_ShockImpactDamageModifier AttributePresentationDefinition]
+Description=Shock Impact Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[DamageTypes.AttrPresent_ShockPassiveDamageModifier AttributePresentationDefinition]
+Description=Electrocute Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Echo.AttrPresent_Att_DummyECHO AttributePresentationDefinition]
+Description=ECHO
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Echo.AttrPresent_Att_DummyShieldBooster AttributePresentationDefinition]
+Description=Instantly recharges shields by 25%
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Experience.AttrPresent_ExperienceCurrentValue AttributePresentationDefinition]
+Description=Experience
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Experience.AttrPresent_ExperiencePointsFromCombatScale AttributePresentationDefinition]
+Description=Extra Experience
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModBlastRadius AttributePresentationDefinition]
+Description=Blast Radius
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModFuseTime AttributePresentationDefinition]
+Description=Fuse Time
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModGrenadeDamage AttributePresentationDefinition]
+Description=Grenade Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModIsCorrosive AttributePresentationDefinition]
+Description=[corrosive]Corrode
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModIsIncendiary AttributePresentationDefinition]
+Description=[incendiary]Burn
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModIsShock AttributePresentationDefinition]
+Description=[shock]Electrocute
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModIsSlag AttributePresentationDefinition]
+Description=[slag]Slag
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModNumberOfChildProjectiles AttributePresentationDefinition]
+Description=Spawns $NUMBER$ Child Grenades
+NoConstraintText=
+Suffix=[-projectilecount]
+Prefix=[projectilecount]x
+
+[GrenadeMod.AttrPresent_GrenadeModStatusEffectChanceModifier AttributePresentationDefinition]
+Description=chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[GrenadeMod.AttrPresent_GrenadeModStatusEffectDamage AttributePresentationDefinition]
+Description=Damage per sec.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Health.AttrPresent_HealthActiveRegenerationRate AttributePresentationDefinition]
+Description=Health Regeneration
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Health.AttrPresent_HealthCurrentValue AttributePresentationDefinition]
+Description=Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Health.AttrPresent_HealthMaxValue AttributePresentationDefinition]
+Description=Maximum Health
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Health.AttrPresent_HealthPassiveRegenerationRate AttributePresentationDefinition]
+Description=Health Regeneration
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Inventory.AttrPresent_InstigatedMeleeDamageAddedBuff AttributePresentationDefinition]
+Description=Bonus Melee Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Inventory.AttrPresent_InventorySlotMax_Misc AttributePresentationDefinition]
+Description=Inventory Capacity
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Inventory.AttrPresent_InventoryWeaponEquipMax AttributePresentationDefinition]
+Description=Weapon Equip Slots
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Inventory.AttrPresent_MeleeSkillCooldownConsumptionRate AttributePresentationDefinition]
+Description=Special Melee Cooldown
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Loot.AttrPresent_AwesomeLevel AttributePresentationDefinition]
+Description=Find Rare Items
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Money.AttrPresent_PlayerCurrencyOnHand AttributePresentationDefinition]
+Description=Money
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_BoosterShield_ProcChance AttributePresentationDefinition]
+Description=Booster Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ChimeraShield_Resistance AttributePresentationDefinition]
+Description=Elemental Resistance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ImpactShield_Consumption AttributePresentationDefinition]
+Description=Firing empowered shots consumes $NUMBER$ of your Shield.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ImpactShield_DamageBonus AttributePresentationDefinition]
+Description=When your Shield is full your next shot is Empowered with $NUMBER$ Damage.
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_RoidShield_MeleeDamage AttributePresentationDefinition]
+Description=Roid Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaDamage_Corrosive AttributePresentationDefinition]
+Description=Nova Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaDamage_Explosive AttributePresentationDefinition]
+Description=Nova Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaDamage_Fire AttributePresentationDefinition]
+Description=Nova Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaDamage_Shock AttributePresentationDefinition]
+Description=Nova Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaSize_Corrosive AttributePresentationDefinition]
+Description=Nova Radius
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaSize_Explosive AttributePresentationDefinition]
+Description=Nova Radius
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaSize_Fire AttributePresentationDefinition]
+Description=Nova Radius
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldNovaSize_Shock AttributePresentationDefinition]
+Description=Nova Radius
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldSpikeDamage_Corrosive AttributePresentationDefinition]
+Description=Spike Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldSpikeDamage_Explosive AttributePresentationDefinition]
+Description=Spike Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldSpikeDamage_Fire AttributePresentationDefinition]
+Description=Spike Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_Att_ShieldSpikeDamage_Shock AttributePresentationDefinition]
+Description=Spike Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ImpactDamageBonus AttributePresentationDefinition]
+Description=Amp Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ImpactShield_ConsumptionOnEmpower AttributePresentationDefinition]
+Description=Amp Shot Drain
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ShieldMaxValue AttributePresentationDefinition]
+Description=Capacity
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ShieldOnIdleRegenerationDelay AttributePresentationDefinition]
+Description=Recharge Delay
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ShieldOnIdleRegenerationRate AttributePresentationDefinition]
+Description=Recharge Rate
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Shields.AttrPresent_ShieldPassiveRegenerationRate AttributePresentationDefinition]
+Description=Regeneration
+NoConstraintText=Shield
+Suffix=
+Prefix=
+
+[Skills.AttrPresent_ActionSkillCooldownTime AttributePresentationDefinition]
+Description=Action Skill Cooldown
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills.AttrPresent_InstinctSkillImpulse AttributePresentationDefinition]
+Description=Adrenaline Gain
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Ambush AttributePresentationDefinition]
+Description=Ambush Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_AngelofDeath AttributePresentationDefinition]
+Description=Angel of Death Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Backstab AttributePresentationDefinition]
+Description=Backstab Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_BeLikeWater AttributePresentationDefinition]
+Description=Be Like Water Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_BloodyTrails AttributePresentationDefinition]
+Description=Bl00dy Trails Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_BoomHeadShot AttributePresentationDefinition]
+Description=Headsh0t Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Bore AttributePresentationDefinition]
+Description=B0re Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_CounterStrike AttributePresentationDefinition]
+Description=C0unter Strike Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_FastHands AttributePresentationDefinition]
+Description=Fast Hands Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Fearless AttributePresentationDefinition]
+Description=Fearless Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Followthrough AttributePresentationDefinition]
+Description=F0ll0w Thr0ugh Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Grim AttributePresentationDefinition]
+Description=Grim Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_HeadShot AttributePresentationDefinition]
+Description=Head Sh0t Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_ImpossibleReach AttributePresentationDefinition]
+Description=Imp0ssible Reach Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_IronHand AttributePresentationDefinition]
+Description=Ir0n Hand Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_KillConfirmed AttributePresentationDefinition]
+Description=Kill C0nfirmed Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Killer AttributePresentationDefinition]
+Description=Killer Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_KillingBlow AttributePresentationDefinition]
+Description=Killing Bl0w Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_OneShotOneKill AttributePresentationDefinition]
+Description=0ne Sh0t 0ne Kill Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Optics AttributePresentationDefinition]
+Description=0ptics Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Precision AttributePresentationDefinition]
+Description=Precision Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Resurgence AttributePresentationDefinition]
+Description=Resurgence Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_RisingShot AttributePresentationDefinition]
+Description=Rising Sh0t Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_TakeDown AttributePresentationDefinition]
+Description=Take D0wn Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_TwoFang AttributePresentationDefinition]
+Description=Tw0 Fang Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Unforeseen AttributePresentationDefinition]
+Description=Unf0reseen Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Assassin.AttrPresent_Velocity AttributePresentationDefinition]
+Description=Vel0city Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_5Shotsor6 AttributePresentationDefinition]
+Description=5 Shots or 6 Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_AllIneedIsOne AttributePresentationDefinition]
+Description=All I Need is One Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_Asbestos AttributePresentationDefinition]
+Description=Asbestos Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_DivergentLikeness AttributePresentationDefinition]
+Description=Divergent Likeness Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_Exploit AttributePresentationDefinition]
+Description=Exploit Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_FilledtotheBrim AttributePresentationDefinition]
+Description=Filled to the Brim Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_HardToKill AttributePresentationDefinition]
+Description=Hard to Kill Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_ImTheJuggernaut AttributePresentationDefinition]
+Description=I'm the Juggernaut Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_ImYourHuckleberry AttributePresentationDefinition]
+Description=I'm your Huckleberry Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_Incite AttributePresentationDefinition]
+Description=Incite Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_Inconceivable AttributePresentationDefinition]
+Description=Inconceivable Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_JustGotReal AttributePresentationDefinition]
+Description=Just Got Real Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_LastLonger AttributePresentationDefinition]
+Description=Last Longer Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_LayWaste AttributePresentationDefinition]
+Description=Lay Waste Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_LockedandLoaded AttributePresentationDefinition]
+Description=Locked and Loaded Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_MoneyShot AttributePresentationDefinition]
+Description=Money Shot Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_NoKillLikeOverkill AttributePresentationDefinition]
+Description=No Kill Like Overkill Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_NoTimeToBleed AttributePresentationDefinition]
+Description=No Time to Bleed Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_OutOfBubblegum AttributePresentationDefinition]
+Description=Out of Bubblegum Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_QuickDraw AttributePresentationDefinition]
+Description=Quick Draw Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_SexualTyrannosaurus AttributePresentationDefinition]
+Description=Sexual Tyrannosaurus Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Merc.AttrPresent_YippeeKiYay AttributePresentationDefinition]
+Description=Yippee-Ki-Yay Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Accelerate AttributePresentationDefinition]
+Description=Accelerate Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Backdraft AttributePresentationDefinition]
+Description=Backdraft Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_BlightPhoenix AttributePresentationDefinition]
+Description=Blight Phoenix Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_ChainReaction AttributePresentationDefinition]
+Description=Chain Reaction Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Elated AttributePresentationDefinition]
+Description=Elated Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Fleet AttributePresentationDefinition]
+Description=Fleet Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Flicker AttributePresentationDefinition]
+Description=Flicker Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Foresight AttributePresentationDefinition]
+Description=Foresight Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Helios AttributePresentationDefinition]
+Description=Helios Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Immolate AttributePresentationDefinition]
+Description=Immolate Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Inertia AttributePresentationDefinition]
+Description=Inertia Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_KineticReflection AttributePresentationDefinition]
+Description=Kinetic Reflection Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_LifeTap AttributePresentationDefinition]
+Description=Life Tap Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_MindsEye AttributePresentationDefinition]
+Description=Mind's Eye Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Quicken AttributePresentationDefinition]
+Description=Quicken Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Reaper AttributePresentationDefinition]
+Description=Reaper Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Recompense AttributePresentationDefinition]
+Description=Recompense Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Restoration AttributePresentationDefinition]
+Description=Restoration Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Suspension AttributePresentationDefinition]
+Description=Suspension Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Sustenance AttributePresentationDefinition]
+Description=Sustenance Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_SweetRelease AttributePresentationDefinition]
+Description=Sweet Release Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Ward AttributePresentationDefinition]
+Description=Ward Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Siren.AttrPresent_Wreck AttributePresentationDefinition]
+Description=Wreck Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Battlefront AttributePresentationDefinition]
+Description=Battlefront Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_DutyCalls AttributePresentationDefinition]
+Description=Duty Calls Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Expertise AttributePresentationDefinition]
+Description=Expertise Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_ExtendedBurst AttributePresentationDefinition]
+Description=Extended Burst Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Forbearance AttributePresentationDefinition]
+Description=Forbearance Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Grenadier AttributePresentationDefinition]
+Description=Grenadier Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Grit AttributePresentationDefinition]
+Description=Grit Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_HealthY AttributePresentationDefinition]
+Description=Healthy Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Impact AttributePresentationDefinition]
+Description=Impact Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_LastDitchEffort AttributePresentationDefinition]
+Description=Last Ditch Effort Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_MetalStorm AttributePresentationDefinition]
+Description=Metal Storm Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Onslaught AttributePresentationDefinition]
+Description=Onslaught Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Overload AttributePresentationDefinition]
+Description=Overload Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Preparation AttributePresentationDefinition]
+Description=Preparation Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Pressure AttributePresentationDefinition]
+Description=Pressure Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_QuickCharge AttributePresentationDefinition]
+Description=Quick Charge Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Ready AttributePresentationDefinition]
+Description=Ready Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Resourceful AttributePresentationDefinition]
+Description=Resourceful Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Sentry AttributePresentationDefinition]
+Description=Sentry Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Skills_Soldier.AttrPresent_Steady AttributePresentationDefinition]
+Description=Steady Skill
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Team.AttrPresent_ATT_TeamConstraint AttributePresentationDefinition]
+Description=Team
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Team.AttrPresent_ATT_TeamConstraint_Shield AttributePresentationDefinition]
+Description=Team Shield
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_AccuracyMaxValue AttributePresentationDefinition]
+Description=Accuracy
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_AccuracyMinValue AttributePresentationDefinition]
+Description=Accuracy
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_AccuracyOnIdleRegenerationRate AttributePresentationDefinition]
+Description=Accuracy Recovery
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_InstigatedMeleeDamageModifier AttributePresentationDefinition]
+Description=
+NoConstraintText=
+Suffix=melee damage
+Prefix=
+
+[Weapons.AttrPresent_PlayerCurrentWeaponAmmoRegenerationMultiplier AttributePresentationDefinition]
+Description=Bullet Regeneration
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_TechActiveRegenerationRate AttributePresentationDefinition]
+Description=Elemental Effect chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_Combat_Rifle AttributePresentationDefinition]
+Description=Assault Rifle
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_Pistol AttributePresentationDefinition]
+Description=Pistol
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_RocketLauncher AttributePresentationDefinition]
+Description=Launcher
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_Shotgun AttributePresentationDefinition]
+Description=Shotgun
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_SMG AttributePresentationDefinition]
+Description=SMG
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_Weapon_Is_Sniper_Rifle AttributePresentationDefinition]
+Description=Sniper Rifle
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponAutomaticBurstCount AttributePresentationDefinition]
+Description=Burst Fire Count
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponClipSize AttributePresentationDefinition]
+Description=Magazine Size
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponClipSize_ItemOverride AttributePresentationDefinition]
+Description=Magazine Size
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponCombinedStatusEffectChanceModifier AttributePresentationDefinition]
+Description=
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponDamage AttributePresentationDefinition]
+Description=Damage
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponDamage_Is_Corrosive AttributePresentationDefinition]
+Description=Corrosive
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponFireRate AttributePresentationDefinition]
+Description=Fire Rate
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponKnockback AttributePresentationDefinition]
+Description=Knockback
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponMeleeDamage AttributePresentationDefinition]
+Description=Melee Damage
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponPerShotAccuracyImpulse AttributePresentationDefinition]
+Description=Recoil Reduction
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponProficiencyGainBonus AttributePresentationDefinition]
+Description=Proficiency Bonus
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponProjectilesPerShot AttributePresentationDefinition]
+Description=Projectiles Fired
+NoConstraintText=Weapon
+Suffix=[-projectilecount]
+Prefix=[projectilecount]x
+
+[Weapons.AttrPresent_WeaponReloadSpeed AttributePresentationDefinition]
+Description=Reload Speed
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponShotCost AttributePresentationDefinition]
+Description=
+NoConstraintText=
+Suffix=ammo per shot
+Prefix=Consumes 
+
+[Weapons.AttrPresent_WeaponSpread AttributePresentationDefinition]
+Description=Accuracy
+NoConstraintText=Weapon
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponStatusEffectChanceModifier AttributePresentationDefinition]
+Description=Status Effect Chance
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponStatusEffectDamage AttributePresentationDefinition]
+Description=Status Effect Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.AttrPresent_WeaponZoomEndFOV AttributePresentationDefinition]
+Description=$NUMBER$x Weapon Zoom
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.WeapStatusEffectAttrPresent_CombinedStatusEffectChance WeaponStatusEffectAttributePresentationDefinition]
+Description=ERROR
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.WeapStatusEffectAttrPresent_StatusEffectChance WeaponStatusEffectAttributePresentationDefinition]
+Description=ERROR
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons.WeapStatusEffectAttrPresent_StatusEffectDamage WeaponStatusEffectAttributePresentationDefinition]
+Description=ERROR
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponAmpCombinedStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Slag
+NoConstraintText=
+Suffix=%
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponAmpStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Slag
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponAmpStatusEffectDamage AttributePresentationDefinition]
+Description=Slag Dmg/Sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponCorrosiveCombinedStatusEffectChance AttributePresentationDefinition]
+Description=Chance to corrode
+NoConstraintText=
+Suffix=%
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponCorrosiveStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Corrode
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponCorrosiveStatusEffectDamage AttributePresentationDefinition]
+Description=Corrosive Dmg/Sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponExplosiveStatusEffectChance AttributePresentationDefinition]
+Description=Chance to explode
+NoConstraintText=
+Suffix=%
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponExplosiveStatusEffectDamage AttributePresentationDefinition]
+Description=Explosive Damage
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponFireCombinedStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Ignite
+NoConstraintText=
+Suffix=%
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponFireStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Ignite
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponFireStatusEffectDamage AttributePresentationDefinition]
+Description=Burn Dmg/Sec
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponShockCombinedStatusEffectChance AttributePresentationDefinition]
+Description=Chance to shock
+NoConstraintText=
+Suffix=%
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponShockStatusEffectChance AttributePresentationDefinition]
+Description=Chance to Electrocute
+NoConstraintText=
+Suffix=
+Prefix=
+
+[Weapons_ElementalDamage.AttrPresent_WeaponShockStatusEffectDamage AttributePresentationDefinition]
+Description=Electrocute Dmg/Sec
+NoConstraintText=
+Suffix=
+Prefix=
+

@@ -1,0 +1,11 @@
+[General]
+SaveGameDetail=
+SaveGameNoSpace=There is insufficient space on the HDD to save this game, please delete save data to continue.  If you do not free at least %dKB this game will not be saved.
+SaveGameSubtitle=Profile data
+SaveGameTitle=Borderlands 2
+SaveGameTooMany=You have too many Borderlands™ 2 save games, you must delete one before you can save this game.  If you do not free at least %dKB this game will not be saved.
+SplitScreenUserSelect=Select a User
+SaveGameDifferentOwner=Unable to load save data from a different user.  Please select another save or begin a new game.
+ProfileDifferentOwner=Unable to load profile data from a different user.  This profile will be overwritten with default values.
+ProfileCorrupt=Unable to load profile data because it was corrupt.  This profile will be overwritten with default values.
+

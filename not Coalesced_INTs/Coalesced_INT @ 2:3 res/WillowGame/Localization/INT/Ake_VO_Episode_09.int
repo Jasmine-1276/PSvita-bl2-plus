@@ -1,0 +1,635 @@
+[vo_ep9_pt1_01_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've been following Jack's orders from the beginning. Jack modified the power core you found to have a Hyperion Network uplink. Through it, I was able to access Sanctuary's defenses and lower them. It was all... part of Jack's plan.",Time=0)
+
+[vo_ep9_pt1_01a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I learned a lot from observing Pandora. Learned a lot about survival. About greed. But most of all? I learned no matter how badass they may be, anyone will happily lay down their life for a pretty girl, with big, blue eyes.",Time=0)
+
+[vo_ep9_pt1_01b_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shame that Wilhelm had to let you kill him. Heck of a soldier - not too many people would volunteer to die, just so you'd think I didn't want you to have that power core. But - spoiler alert: I did.",Time=0)
+
+[vo_ep9_pt1_01c_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, Wilhelm nearly killed your Vault Hunter friends a couple years ago, and you just blow him away like any other grunt? Yeah, that's cause I poisoned him before you guys fought. Worth it, though, to make you think I didn't want you to have that power core. But, uh - psst - spoilers: I did.",Time=0)
+
+[vo_ep9_pt1_01d_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're kinda pissing me off here, kiddo. You trusted Angel and fell for my trap just like your idiot friends did five years ago. But you - you were supposed to help Angel and I destroy Sanctuary. But you didn't. Sanctuary's still safe. Which makes killing you... my top priority. Congratulations.",Time=0)
+
+[vo_ep9_pt1_02_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Five years ago, I tricked Roland and his friends into opening the Vault. I told them it was to protect Pandora from a great evil. That was a lie. Jack knew he could make a fortune off the Eridium held within the Vault, but he was too much of a coward to open it himself. Through me, he got the Vault Hunters to do his dirty work. I am so tired of manipulating people...",Time=0)
+
+[vo_ep9_pt1_02a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="All these years, I told myself Jack had the planet's best interests in mind. But what he just had me do to Sanctuary? To people he had never met, who had never done anything to him? He's not a hero. He's a murderer. And I won't be his puppet anymore.",Time=0)
+
+[vo_ep9_pt1_03_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Without you, Pandora has no hope. You have no reason to trust me. I get that. But if you're going to stop Jack from controlling the Warrior, you'll need my help. Because I know where the Key is. It's with me.",Time=0)
+
+[vo_ep9_pt1_04_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's with me.",Time=0)
+
+[vo_ep9_pt1_05_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sensing something big - your friends might be around here somewhere.",Time=0)
+
+[vo_ep9_pt1_05a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Son of a - witch. The door's iced over. Let me help you with that.",Time=0)
+
+[vo_ep9_pt1_06_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Annnnd... I'm awesome. Hey, killer. I phased the city. No big deal. Find a way back here as quick as you can.",Time=0)
+
+[vo_ep9_pt1_07_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I got the shields back up, yo! We should be safe as houses. You can thank me later.",Time=0)
+
+[vo_ep9_pt1_08_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've found a way to get you back to Sanctuary - head to the Hyperion Extraction plant nearby.",Time=0)
+
+[vo_ep9_pt1_09_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Woah woah woah, fingerlicker! Don't be bustin' holes in my ride!",Time=0)
+
+[vo_ep9_pt1_10_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you can cross the river and steal a supply beacon, we can get Sanctuary back onto the fast-travel network. I promise. Little as I'm sure that means right now.",Time=0)
+
+[vo_ep9_pt1_10a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Darn - that exploder took out the bridge controls. Find another way across the river!",Time=0)
+
+[vo_ep9_pt1_10b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm detecting a cargo mover in the area - maybe that can help you cross the river.",Time=0)
+
+[vo_ep9_pt1_10c_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Use the cargo mover to get across the river.",Time=0)
+
+[vo_ep9_pt1_11_echo_hypfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lunar supply drop incoming. Please take cover.",Time=0)
+
+[vo_ep9_pt1_12_echo_hypfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lunar supply drop complete. As you were.",Time=0)
+
+[vo_ep9_pt1_13_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's why we're here! If you can get the moonbase to drop you a fast-travel station, you can use it to link back up with Sanctuary. ",Time=0)
+
+[vo_ep9_pt1_13a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Did that thresher just eat the beacon? Uh... you'll need to get that back.",Time=0)
+
+[vo_ep9_pt1_14_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hunh. Well, we've got no plan to stop Jack, but at least the quakes from his drills aren't shaking the city anymore. Silver linings, you know?",Time=0)
+
+[vo_ep9_pt1_15_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't believe Jack was controlling the Angel all along. We almost got killed opening the Vault, just so we could bring that son-of-a-bitch into power!",Time=0)
+
+[vo_ep9_pt1_16_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, now we're almost-getting-killed just to get him out of power. Nice to know some things never change.",Time=0)
+
+[vo_ep9_pt2_01_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll need a quiet place to set up the beacon. Head to the town of Overlook. As long as the grinder's still running, the townsfolk won't disturb us.",Time=0)
+
+[vo_ep9_pt2_01a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is perfect - the townsfolk are too terrified of Jack's grinder to disturb us.",Time=0)
+
+[vo_ep9_pt2_01b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep9_pt2_01c_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep9_pt2_01d_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep9_pt2_02_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll wanna set up the beacon over there - once the moonbase processes our request, you should have a fast-travel station.",Time=0)
+
+[vo_ep9_pt2_03_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's transmitting the supply request now. We've just gotta wait a few minutes and --",Time=0)
+
+[vo_ep9_pt2_04_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel. That's enough. You can stop pretending to help the bad guys now. Angel?",Time=0)
+
+[vo_ep9_pt2_05_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AGH!",Time=0)
+
+[vo_ep9_pt2_06_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They're coming to stop the transmission. You have to defend the beacon.",Time=0)
+
+[vo_ep9_pt2_07_echo_hypfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uncalibrated fast-travel station request received. Estimated processing time: three to six weeks.",Time=0)
+
+[vo_ep9_pt2_08_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No! No no no - I'll move some data around, see if I can bump you up in the queue.",Time=0)
+
+[vo_ep9_pt2_09_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What did I just SAY?!",Time=0)
+
+[vo_ep9_pt2_10_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've increased your request's priority - T-Bone Junction can live without medical supplies for another few months.",Time=0)
+
+[vo_ep9_pt2_11_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Argh, this is so frustrating. Y'see, this is what I don't get about you bad guys. You know the hero's gonna win, but you just don't die quickly. Example: this one guy in New Haven, right? City's burning, people are dying left and right, yada yada yada. This jackhole rushes me with a spoon. A fricking spoon! And I'm dying laughing, right? So I scoop out his stupid little eyeballs with it, and his kids are all, 'waaahh!', and, he can't see where he's going, he's bumping in to stuff, and ah... I don't know, maybe you had to be there. The moral is: you're a total bitch.",Time=0)
+
+[vo_ep9_pt2_12_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God... darnit. The lunar engineers denied our request - I'll see what I can do.",Time=0)
+
+[vo_ep9_pt2_13_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I just shut off the moonbase's oxygen supply. I expect the engineers will launch your fast-travel station very soon.",Time=0)
+
+[vo_ep9_pt2_14_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They're launching the fast-travel station now! Nothing gets results like a death threat.",Time=0)
+
+[vo_ep9_pt2_15_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's almost here - just protect the beacon for another few seconds...",Time=0)
+
+[vo_ep9_pt2_15a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God dammit, Angel! What are you doing?! Those are the bad guys!",Time=0)
+
+[vo_ep9_pt2_16_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The fast-travel has landed! Use it, and get back to Roland! He'll need your help to shut me down!",Time=0)
+
+[vo_ep9_pt2_17_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Run all you want, bandit. We all know how this is gonna end.",Time=0)
+
+[vo_ep9_pt2_18_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They've damaged the beacon - repair it!",Time=0)
+
+[vo_ep9_pt2_19_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got to repair the beacon or the supply drop will never arrive!",Time=0)
+
+[vo_ep9_pt2_20_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you don't repair the beacon you can't get back to Sanctuary!",Time=0)
+
+[vo_ep9_pt2_21_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The beacon's been damaged, get back to it!",Time=0)
+
+[vo_ep9_pt2_22_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You have to repair the beacon!",Time=0)
+
+[vo_ep9_pt2_23_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get back to the beacon and repair it!",Time=0)
+
+[vo_ep9_pt2_24_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They've damaged the beacon again!",Time=0)
+
+[vo_ep9_pt2_25_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The beacon has been damaged!",Time=0)
+
+[vo_ep9_pt2_26_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Repair the beacon, quickly!",Time=0)
+
+[vo_ep9_pt2_27_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They've hit the beacon!",Time=0)
+
+[vo_ep9_pt2_28_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Repair the beacon!",Time=0)
+
+[vo_ep9_pt2_29_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you don't repair the beacon the supply request won't go through!",Time=0)
+
+[vo_ep9_pt2_30_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The beacon has been hit again!",Time=0)
+
+[vo_ep9_pt2_31_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got to repair the beacon!",Time=0)
+
+[vo_ep9_pt2_32_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can't get back to Sanctuary if you don't repair that beacon!",Time=0)
+
+[vo_ep9_pt2_33_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wow. You're really bad at protecting that beacon.",Time=0)
+
+[vo_ep9_pt2_34_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What makes you think you can take me down if you can't even repair that beacon?",Time=0)
+
+[vo_ep9_pt2_35_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The beacon's damaged, kiddo. And that's why you're gonna die here.",Time=0)
+
+[vo_ep9_pt2_36_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm accessing Overlook's computer grid. I bet I can find something to help you!",Time=0)
+
+[vo_ep9_pt2_37_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've gotten the defensive guns online!",Time=0)
+
+[vo_ep9_pt2_38_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm opening the Overlook armory! Head there for an ammo refill!",Time=0)
+
+[vo_ep9_pt2_39_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm moonshotting you some supplies!",Time=0)
+
+[vo_ep9_pt2_39a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending more supplies via moonshot!",Time=0)
+
+[vo_ep9_pt2_39b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending more supplies your way!",Time=0)
+
+[vo_ep9_pt2_40_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack had an old network of landmines set up around here. I'm revealing them, but you have to activate them!",Time=0)
+
+[vo_ep9_pt2_41_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm filling up Overlook's reserve fuel tanks. Stand way back before you shoot them!",Time=0)
+
+[vo_ep9_pt2_42_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've found a distress signal for the old Overlook air force. Set it off if you need backup!",Time=0)
+
+[vo_ep9_pt2_43_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending everything I have at you. EVERYTHING.",Time=0)
+
+[vo_ep9_pt2_44_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Send in the Constructors! I want those bastards dead now!",Time=0)
+
+[vo_ep9_pt2_45_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, if you can't even handle these Loaders, you're really going to disappoint me.",Time=0)
+
+[vo_ep9_pt4_01_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, good. You're not dead.",Time=0)
+
+[vo_ep9_pt4_02_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's his way of saying, ''Wow, you're a badass. I'm glad you're okay.''",Time=0)
+
+[vo_ep9_pt4_03_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Right. Sorry. We'd all be dead if it weren't for you. But we need a plan. Jack's getting closer and closer to digging up the Warrior, and we still don't know where he's got the Vault Key stashed.",Time=0)
+
+[vo_ep9_pt4_04_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can help you with that.",Time=0)
+
+[vo_ep9_pt4_04a_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You?! Dammit, we told you never to contact us again!",Time=0)
+
+[vo_ep9_pt4_04b_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Will you please just hear me out -- ",Time=0)
+
+[vo_ep9_pt4_05_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sure, let's listen to the crazy computer that just tried to kill us. Hey, remember that time she told us the Vault was full of loot?",Time=0)
+
+[vo_ep9_pt4_06_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, the good ol' days.",Time=0)
+
+[vo_ep9_pt4_07_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's with me! I'm charging the Vault Key!",Time=0)
+
+[vo_ep9_pt4_08_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Continue.",Time=0)
+
+[vo_ep9_pt4_09_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Key naturally charges itself once every two hundred years. Jack is patient, but he's not that patient - he's been using my power to forcibly charge the Key with Eridium. If you find me, you find the Vault Key.",Time=0)
+
+[vo_ep9_pt4_10_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Vault Key is housed in my AI Control Core atop Thousand Cuts. It's protected by three impassable security hurdles.",Time=0)
+
+[vo_ep9_pt4_11_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The first is a competitor deterrence field that will obliterate any non-Hyperion entity passing through it.",Time=0)
+
+[vo_ep9_pt4_12_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Beyond that lies the second hurdle: a defense bunker outfitted with the most high-tech weaponry Hyperion can afford.",Time=0)
+
+[vo_ep9_pt4_13_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Past the bunker, you'll have to get through the final hurdle: a door that will only open for Handsome Jack.",Time=0)
+
+[vo_ep9_pt4_14_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This will be your only opportunity to steal the Vault Key and stop Jack from controlling the Warrior. I'm out of time - do what you will, but promise me this: no matter what happens - do not allow Lilith into my chambers.",Time=0)
+
+[vo_ep9_pt4_15_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell's that supposed to mean?",Time=0)
+
+[vo_ep9_pt4_16_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If she was luring us into a trap, she would have made it sound a little bit possible.",Time=0)
+
+[vo_ep9_pt4_17_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If we're taking that bitch down, I'm coming - trap or not.",Time=0)
+
+[vo_ep9_pt4_18_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If anyone's going to shut her down, it has to be you, soldier. Head to the Hyperion Preserve - I think I know how to get past the first hurdle.",Time=0)
+
+[vo_ep9_pt4_19_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you manage to get past both of those obstacles, you'll have to get through the final hurdle: a door that will only open for Handsome Jack.",Time=0)
+
+[vo_ep9_pt5_01_live_rat]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Pisssss off, stranger!",Time=0)
+
+[vo_ep9_pt5_03_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The city may be safe right now, but what happens if Hyperion launches another barrage? We've got no shield.",Time=0)
+
+[vo_ep9_pt5_04_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah. Good point. Lemme get on the ECHO.",Time=0)
+
+[vo_ep9_pt5_05_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Listen up, Hyperion! If you've got any bright ideas to blast Sanctuary out of the sky, just remember - I can phase the city anywhere I want at the drop of a hat. But, if you wanna waste another few billion dollars launching mortars at us, be my guest.",Time=0)
+
+[vo_ep9_pt5_06_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, that's that taken care of.",Time=0)
+
+[vo_ep9_pt5_07_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well done. Was, uh... was any of that true?",Time=0)
+
+[vo_ep9_pt5_08_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What? Hell no. It's a miracle I didn't phase us into a mountain.",Time=0)
+
+[vo_ep9_pt5_08a_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What's wrong? You look pissed.",Time=0)
+
+[vo_ep9_pt5_09_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now that Sanctuary's reappeared, you can use any fast-travel station to get back to the Crimson Raiders. I'll mark the nearest one on your ECHO device.",Time=0)
+
+[vo_ep9_pt5_10_echo_roboticvoice]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Error. Location [Sanctuary] not found.",Time=0)
+
+[vo_ep9_pt5_11_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, no - the phase blast must have taken Sanctuary off the fast-travel network. Uh... okay. Head to the Eridium Extraction Plant nearby. I think I know how to get you back to your friends.",Time=0)
+
+[vo_ep9_pt5_12_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do you see those lunar supply shots? We need to steal a lunar supply beacon and get the moonbase to send you an uncalibrated fast-travel unit. You can use that to get Sanctuary back on the fast-travel network. Simple. Except not at all.",Time=0)
+
+[vo_ep9_pt5_13_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got the beacon? Good - we can use that to request an uncalibrated fast-travel unit from the moonbase. You'll need a quiet place to set up the beacon. Head to the town of Overlook. Thanks to Hyperion's mining operations, the people of Overlook suffer from the skull-shivers. They won't disturb us.",Time=0)
+
+[vo_ep9_pt5_14_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You found Overlook, huh? Used to be a nice little town, until Hyperion took over. Now everybody there's got the skull-shivers thanks to Jack's mining operations. Poor bastards are too sick to leave their homes.",Time=0)
+
+[vo_ep9_pt5_15_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We don't have long until Jack realizes I'm not helping him anymore. Defend that beacon!",Time=0)
+
+[vo_ep9_pt5_16_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The fast-travel has landed! Gimme a second while I calibrate it to Sanctuary's new position!",Time=0)
+
+[vo_ep9_pt5_17_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel, what the hell are you doing?!",Time=0)
+
+[vo_ep9_pt5_18_echo_roboticvoice]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Fast travel station calibrated. Location [Sanctuary] is now available for travel. ",Time=0)
+
+[vo_ep9_pt5_19_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Go, quickly - use the fast-travel station and get back to Sanctuary!",Time=0)
+
+[vo_ep9_pt5_20_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel, you and I are gonna have a serious talk.",Time=0)
+
+[vo_ep9_pt5_21_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="'Competitor deterrence field'? What, like, a death wall?",Time=0)
+
+[vo_ep9_pt5_22_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It is a field of pure thermosonic energy programmed to atomize any unauthorized personnel.",Time=0)
+
+[vo_ep9_pt5_23_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, yeah. A death wall.",Time=0)
+
+[vo_ep9_pt5_24_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Before you can think about getting the Vault Key, we need to find Sanctuary. I'm detecting something big - your friends might be around here somewhere.",Time=0)
+
+[vo_ep9_pt5_25_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know, I didn't lie to you about everything. You really are the only person who can stop Jack. Roland, Lilith, and Mordecai - he defeated them long ago. They can help you reach him, but in the end... it will be you who brings Jack down.",Time=0)
+
+[vo_ep9_pt5_26_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That doesn't sound good.",Time=0)
+
+[vo_ep9_pt5_27_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well that sounds even worse.",Time=0)
+
+[vo_ep9_pt5_28_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're at the entrance to The Fridge - just make your way through and your friends should be on the other side.",Time=0)
+

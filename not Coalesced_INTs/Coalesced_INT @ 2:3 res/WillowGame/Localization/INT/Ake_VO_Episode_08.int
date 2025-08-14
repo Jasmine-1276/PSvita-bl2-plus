@@ -1,0 +1,325 @@
+[vo_ep8_pt1_01_echox_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="As much as I hate using Hyperion tech, that core you found could keep our shields up permanently. Pop out that old core -- it's nearly burnt out anyway.",Time=0)
+
+[vo_ep8_pt1_02_echox_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, slam that core in harder than a shiv into a Truxican's sternum. Sorry -- old Crimson Lance saying.",Time=0)
+
+[vo_ep8_pt1_03_echox_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay, I think we are in bus--",Time=0)
+
+[vo_ep8_pt1_03a_echo_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion Uplink Established. Awaiting Commands.",Time=0)
+
+[vo_ep8_pt1_03b_echo_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell?!",Time=0)
+
+[vo_ep8_pt1_04_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sorry, friend...",Time=0)
+
+[vo_ep8_pt1_04a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...Lowering Sanctuary's shields, Jack.",Time=0)
+
+[vo_ep8_pt1_04b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Executing phase shift.",Time=0)
+
+[vo_ep8_pt1_05_echox_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The shields are down! The shields are down!",Time=0)
+
+[vo_ep8_pt1_06_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nicely done, Angel! Now -- let's kill ourselves some Vault Hunters.",Time=0)
+
+[vo_ep8_pt1_06a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, I'm sorry. Was that your shields that just went down? So you knew that I knew you were going for the power core -- and you just plugged it in? Even for you guys, that's pretty -- ah, man, that's pretty stupid. I mean, I told you, I always win.",Time=0)
+
+[vo_ep8_pt1_07_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm... so sorry.",Time=0)
+
+[vo_ep8_pt1_08_echox_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That wasn't a power core! RUN!",Time=0)
+
+[vo_ep8_pt1_09_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell? Did something just get through the shield?",Time=0)
+
+[vo_ep8_pt1_10_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shield's down, Roland! Oh, man, somebody start getting everybody underground. ",Time=0)
+
+[vo_ep8_pt1_11_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Everybody! I've got a really bad idea! Scooter, get Sanctuary in the air! Roland, get me some Eridium!",Time=0)
+
+[vo_ep8_pt1_11a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We don't have a choice, Scooter!",Time=0)
+
+[vo_ep8_pt1_12_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Not with the city stuck like this --",Time=0)
+
+[vo_ep8_pt1_13_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Soldier, get to the engine tower! Scooter, get us in the air - come on, let's go! Move it!",Time=0)
+
+[vo_ep8_pt1_14_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Meet me in the center of town, now! I'ma need your help real bad!",Time=0)
+
+[vo_ep8_pt1_15_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Pretty sure we can't do that without killing, I don't know, everyone in the city. It ain't ready to fly, Lily!",Time=0)
+
+[vo_ep8_pt2_01_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I love the way you Vault Hunters just up and trusted Angel. Never occured to you that she was working for me, did it? I did the same thing to the last four Vault Hunters, but I'll be entirely honest - tricking you guys this time? Way funnier.",Time=0)
+
+[vo_ep8_pt2_02_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, thanks for taking the bait and grabbing that power core. It was hard to concentrate on charging the Vault Key, what with Roland's buddies attacking my Eridium mines.",Time=0)
+
+[vo_ep8_pt2_03_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay, if we cycle the ignition primers, it'll get us somewhere!",Time=0)
+
+[vo_ep8_pt2_04_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, I got this one - all's you gotta do is hit the last switch!",Time=0)
+
+[vo_ep8_pt2_05_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, primers are shorting! Keep goin'!",Time=0)
+
+[vo_ep8_pt2_05a_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, we're primed! Everybody get ready!",Time=0)
+
+[vo_ep8_pt2_06_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I told you guys -- the hero always wins.",Time=0)
+
+[vo_ep8_pt2_07_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heroes don't murder children, Jack.",Time=0)
+
+[vo_ep8_pt2_08_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, get over it. I shot ONE baby. And, in fairness, it was being a dick.",Time=0)
+
+[vo_ep8_pt2_09_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, you son of a--",Time=0)
+
+[vo_ep8_pt2_10_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm pinned, soldier -- I can't get the Eridium to Lilith! Get to me, quick!",Time=0)
+
+[vo_ep8_pt2_11_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need that Eridium! Get to Roland!",Time=0)
+
+[vo_ep8_pt3_01_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland? Baby, come on, you're alive, I know it. Roland!",Time=0)
+
+[vo_ep8_pt3_02_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't worry about me! Grab as much Eridium as you can carry. Get it to Lilith!",Time=0)
+
+[vo_ep8_pt3_03_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got the Eridium? I need it -- get to the center of town!",Time=0)
+
+[vo_ep8_pt3_03a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Gimme the Eridium!",Time=0)
+
+[vo_ep8_pt3_04_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've never used this much. You might wanna hang onto something.",Time=0)
+
+[vo_ep8_pt3_05_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sorry, kid. That was an accident. I'll see you on the other side, though, I promise. Hit it, Scooter!",Time=0)
+
+[vo_ep8_pt3_06_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is one them moments. (Deep breath) CATCH A RIIIIDE!!!",Time=0)
+
+[vo_ep8_pt3_07_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's the best you got? A flying city? What could you chumps POSSIBLY have that makes you think you've got a chance against me?",Time=0)
+
+[vo_ep8_pt3_08_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="A Siren.",Time=0)
+
+[vo_ep8_pt3_09_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sup.",Time=0)
+
+[vo_ep8_pt3_10_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hm.",Time=0)
+
+[vo_ep8_pt3_11_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I know you're angry at me right now, but we don't have a lot of time. I'll explain everything -- just get to The Fridge -- it's the only way to reach the Highlands. I detect Lilith might have phased your city there.",Time=0)
+
+[vo_ep8_pt3_12_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll be able to reconnect with your friends after you get through the Fridge.",Time=0)
+
+[vo_ep8_pt3_13_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We're not friends anymore, are we?",Time=0)
+
+[vo_ep8_pt4_01_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll see to the wounded, but you gotta get us outta here first!",Time=0)
+
+[vo_ep8_pt4_02_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If this is the end, Vault Hunter, let me say -- it was a pleasure to have known you!",Time=0)
+
+[vo_ep8_pt4_03_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh man, you best get movin', else we gonna die!",Time=0)
+
+[vo_ep8_pt4_04_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Move, move!",Time=0)
+
+[vo_ep8_pt4_05_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get moving or we're dead!",Time=0)
+
+[vo_ep8_pt4_06_echox_moxxi]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell's going on out there?",Time=0)
+
+[vo_ep8_pt4_07_echox_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The hell are you doing in here? Get out there and do something!",Time=0)
+
+[vo_ep8_pt4_08_echox_patriciatannis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="While I thank you for the inquisitive prodding, do please get the hell away from me as we're being BOMBARDED BY EXPLOSIVES. Most appreciative.",Time=0)
+
+[vo_ep8_pt4_09_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="As much as I hate using Hyperion tech, that core you brought us earlier is nearly burnt up. Why doncha pop it out?",Time=0)
+
+[vo_ep8_pt4_10_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, shove in that new core you found harder than a shiv into a Truxican's sternum. Sorry -- old Crimson Lance saying.",Time=0)
+
+[vo_ep8_pt4_11_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay, I think we are in bus--",Time=0)
+
+[vo_ep8_pt4_11a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You know, I think it's finally time to tell you that little secret.",Time=0)
+
+[vo_ep8_pt4_11b_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel's working for me.",Time=0)
+
+[vo_ep8_pt4_12_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell --",Time=0)
+
+[vo_ep8_pt4_13_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's not a power core. Raiders, the shields are down, the shields --",Time=0)
+
+[vo_ep8_pt4_14_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got your orders, Scooter -- MOVE!",Time=0)
+
+[vo_ep8_pt4_15_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The door's frozen? Son of a...witch. Let me melt the ice -- once you get through The Fridge, you'll be able to reconnect with your friends on the other side.",Time=0)
+
+[vo_ep8_pt4_16_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You only survived our train ride together because I wanted you to. Five years ago, Roland and his friends opened the Vault because Angel and I tricked them into doing it. Everything you Vault Hunters have ever done -- it's all part of my plan. I'm such a rock star.",Time=0)
+

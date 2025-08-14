@@ -1,0 +1,19 @@
+[UnrealEd]
+DialogEditor_NewEvent=New Event
+DialogEditor_RenameEvent=Rename Event
+DialogEditor_DeleteEvent=Delete Event
+DialogEditor_CopyPathToEvent=Copy Event Path
+DialogEditor_FindEventInGenericBrowser=Find Event in Generic Browser
+DialogEditor_RenameDialogCaption=Rename EventTag
+DialogEditor_RenameDialogInstructions=New name:
+DialogEditor_FailedToRename=Failed to rename EventTag!
+DialogEditor_DeleteConfirmation=Permanently delete this EventTag?
+DialogEditor_FailedToDelete=Failed to delete EventTag!
+DialogEditor_RandomArgument=<Random Argument>
+DialogEditor_NewDialogCaption=New EventTag
+DialogEditor_NewDialogInstructions=Name the EventTag
+DialogEditor_RefreshEvents=Refresh Events
+DialogEditor_ConvertEventTag=Convert Event Tag...
+DialogEditor_TooManyEventTagClasses=<Too many to list>
+WwiseSync_ForceDeleteReferencedObjects=The remaining orphaned AK Objects are being referenced and must be force deleted.  Modified non-audio packages will not be automatically saved.  Do you wish to proceed?
+

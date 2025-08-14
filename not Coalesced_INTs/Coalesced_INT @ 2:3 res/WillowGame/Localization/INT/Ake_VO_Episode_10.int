@@ -1,0 +1,670 @@
+[vo_ep10_pt1_01_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If the Angel is lying, we're going to need another plan to deal with Jack.",Time=0)
+
+[vo_ep10_pt1_02_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've got two ideas.",Time=0)
+
+[vo_ep10_pt1_03_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Other than ignoring Jack entirely and making out until he decides to kill us.",Time=0)
+
+[vo_ep10_pt1_04_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...I've got one idea.",Time=0)
+
+[vo_ep10_pt1_05_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Would you please focus?",Time=0)
+
+[vo_ep10_pt1_06_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Really, though -- if we can't get the Vault Key, what's left? Fire our guns into the air and hope a bullet accidentally hits him? ",Time=0)
+
+[vo_ep10_pt1_07_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Evacuation.",Time=0)
+
+[vo_ep10_pt1_08_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Say again?",Time=0)
+
+[vo_ep10_pt1_09_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We can steal as many Hyperion ships as we can. And we leave Pandora. All of us. For good.",Time=0)
+
+[vo_ep10_pt1_10_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And do what? ",Time=0)
+
+[vo_ep10_pt1_11_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep out of sight. Get as far away from Hyperion's grip as we can, for as long as we can. It'd be the smart move, tactically.",Time=0)
+
+[vo_ep10_pt1_12_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Tactically, I'm not running.",Time=0)
+
+[vo_ep10_pt1_13_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You think everyone else in this city deserves to die because of our pride? ",Time=0)
+
+[vo_ep10_pt1_14_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Scooter might.",Time=0)
+
+[vo_ep10_pt1_14a_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Could you be serious for a second and --",Time=0)
+
+[vo_ep10_pt1_14b_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm staying, Roland. End of discussion.",Time=0)
+
+[vo_ep10_pt1_15_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I bet your friend Claptrap could get through that Hyperion forcefield. He's out of date, though -- he'll need a software upgrade. Mordecai should have what you need; he's camped out near the Preserve. Think he needs your help with something.",Time=0)
+
+[vo_ep10_pt2_01_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, over here. ",Time=0)
+
+[vo_ep10_pt2_01a_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, I heard about Sanctuary -- you alright? Sorry I missed the action. I saw some Hyperion movement out in Tundra Express, so Bloodwing and I checked it out. Didn't realize we were walking into a trap. Bloodwing gave me time to get away, but... the bastards grabbed her. Brought her here.",Time=0)
+
+[vo_ep10_pt2_02_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland ECHO'd ahead. All my data's on a chip in my bird Bloodwing's collar, including your Claptrap upgrade. But some Hyperion jackasses nabbed her and took her into the preserve over there. I'm glad you're here -- I've been scoutin' the place for the last half-hour, and it looks like at least a two-man job. If you can get inside through the shipyard, I can give you support and lead you to Bloodwing. You get my bird, you get your Claptrap upgrade.",Time=0)
+
+[vo_ep10_pt2_02a_echo_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Unauthorized access detected. Releasing Loaders.",Time=0)
+
+[vo_ep10_pt2_03_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, crap. Ooh -- if you gimp enough of those Loaders, but don't kill 'em, they'll have to open the door to send reinforcements.",Time=0)
+
+[vo_ep10_pt2_03a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I watched Mordecai a lot. You know, he may be a drunken loser, but he never kept Bloodwing in a cage. Never even raised his voice at her. Funny thing -- you wanna destroy a man, you don't need to kill him. You just need to kill what he loves.",Time=0)
+
+[vo_ep10_pt2_04_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just wound 'em, don't kill em -- the reinforcements won't show up otherwise.",Time=0)
+
+[vo_ep10_pt2_05_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great job! Now leave that one alone and gimp a few more.",Time=0)
+
+[vo_ep10_pt2_06_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! Try not to kill 'em. You'll need a pile of wounded bots to call out the Surveyors.",Time=0)
+
+[vo_ep10_pt2_06a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, hell -- I think ya killed so many of 'em they just gave up. Bad move, ese; you'll have to come back later when they've forgotten the unholy beatdown you just gave 'em.",Time=0)
+
+[vo_ep10_pt2_07_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't go for the kill! Just cripple 'em!",Time=0)
+
+[vo_ep10_pt2_07a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't kill em -- you need 'em to ask for repairs!",Time=0)
+
+[vo_ep10_pt2_07b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just cripple 'em, don't kill em. Otherwise you'll never get in.",Time=0)
+
+[vo_ep10_pt2_07c_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you kill em, they can't call for repairs and the door won't open. Just wound 'em.",Time=0)
+
+[vo_ep10_pt2_08_echox_hypfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Loaders damaged. Deploying reinforcements.",Time=0)
+
+[vo_ep10_pt2_09_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Groovy -- the door's open now. Get inside and find Bloodwing.",Time=0)
+
+[vo_ep10_pt2_10_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bloodwing should be in the holding cells at the other end of the facility. You find her, you'll find your Claptrap upgrade.",Time=0)
+
+[vo_ep10_pt2_11_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, hey, you're in the Preserve. I was gonna do this whole thing where I'd lure you in here and kill you, but you just -- you just kinda showed up. Thanks for saving me the trouble, kiddo.",Time=0)
+
+[vo_ep10_pt2_12_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you know how to use it, Slag isn't just some elemental damage amplifier. It's got much more...interesting applications.",Time=0)
+
+[vo_ep10_pt2_13_echo_tannis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slag mutation is a volatile, brutal science that flies in the face of human ethics. Needless to say, I am extremely interested in it. Get me some samples of the slag serum Hyperion is using on the wildlife.",Time=0)
+
+[vo_ep10_pt2_14_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bloodwing should be in one of these cells. Don't worry about the uglies in the other ones -- they can't get to you. Just get to Bloodwing and you'll have what you need to upgrade Claptrap and get through that death wall.",Time=0)
+
+[vo_ep10_pt2_15_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got the Angel back under control. WOMEN, am I right? So, you're here for the bird? Bleedwing? Bloodwing. Just to warn you -- you're really not gonna like this next part.",Time=0)
+
+[vo_ep10_pt2_15a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looking for Bloodwing? Oh, I moved her a few hours ago. Somewhere a little more...dramatic.",Time=0)
+
+[vo_ep10_pt2_16_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey - you know what I just remembered? It's feeding time.",Time=0)
+
+[vo_ep10_pt2_18_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, I'm sendin' you supplies.",Time=0)
+
+[vo_ep10_pt2_19_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If I know Bloodwing, they're gonna have the biggest badass they can find protectin' her. Shouldn't be a problem for you, but just a heads-up.",Time=0)
+
+[vo_ep10_pt2_20_echo_patriciatannis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've found the slag samples? Fantastic! Leave them with Roland once you finish whatever irrelevant thing you are doing right now.",Time=0)
+
+[vo_ep10_pt3_01_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Want Bloodwing back, huh? Shame -- I've been doing some really interesting Eridium experiments with her. Hate to see her go, but heck with it -- ",Time=0)
+
+[vo_ep10_pt3_02_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's all yours.",Time=0)
+
+[vo_ep10_pt3_02a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is what happens when you don't listen, bandit.",Time=0)
+
+[vo_ep10_pt3_03_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh my God...",Time=0)
+
+[vo_ep10_pt3_04_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goddammit! Just--just weaken her and I'll hit her with a tranq! ",Time=0)
+
+[vo_ep10_pt3_04a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good God -- I'm sorry, soldier, but you gotta beat Bloodwing down. Do what you can to save her, but if you can't... she's got what we need to get into Control Core Angel and grab the Vault Key. That's what matters here.",Time=0)
+
+[vo_ep10_pt3_05_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bloodwing, down! Heel! Never thought I'd say this, but stop fighting!",Time=0)
+
+[vo_ep10_pt3_05a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is gonna be fine -- just gotta tranq Bloodwing, get her back to Sanctuary, and, I dunno, maybe Zed can patch her up! ",Time=0)
+
+[vo_ep10_pt3_05b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get outta the way -- she's gonna divebomb!",Time=0)
+
+[vo_ep10_pt3_05c_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's divebombing! MOVE!",Time=0)
+
+[vo_ep10_pt3_05d_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's diving -- look out!",Time=0)
+
+[vo_ep10_pt3_05e_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Back up, she's slamming the ground!",Time=0)
+
+[vo_ep10_pt3_05f_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's gonna dive -- get away!",Time=0)
+
+[vo_ep10_pt3_05g_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goddammit, Jack! You better pray Bloodwing makes it outta this!",Time=0)
+
+[vo_ep10_pt3_05h_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch her claws!",Time=0)
+
+[vo_ep10_pt3_05i_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's comin' for ya -- look out!",Time=0)
+
+[vo_ep10_pt3_05j_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's bringin' out her claws -- watch it!",Time=0)
+
+[vo_ep10_pt3_05k_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's got her sights on you! MOVE!",Time=0)
+
+[vo_ep10_pt3_05l_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Calm down, Blood! Take it easy!",Time=0)
+
+[vo_ep10_pt3_05m_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Listen to me, girl! The Vault Hunter's your friend -- STOP fighting 'em!",Time=0)
+
+[vo_ep10_pt3_05n_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're gonna regret ever dragging Bloodwing into this, Jack! You're gonna watch her tear your throat out!",Time=0)
+
+[vo_ep10_pt3_05o_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heh. That's cute.",Time=0)
+
+[vo_ep10_pt3_05p_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Holy God, is she breathing FIRE?!",Time=0)
+
+[vo_ep10_pt3_05q_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's belchin' fire again! Jesus!",Time=0)
+
+[vo_ep10_pt3_05r_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch the electricity!",Time=0)
+
+[vo_ep10_pt3_05s_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's charged with electricity, watch out!",Time=0)
+
+[vo_ep10_pt3_06_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just give it up, kiddo. Bloodwing's got ALL the elements at her disposal! Fire! Electricity! Corrosion! Slag! And...and, uh...damn, I forgot the last one. What the hell was that, again?",Time=0)
+
+[vo_ep10_pt3_06a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slag, fire, electricity, corrosion...come on, Jack, you know this -- there's one more...",Time=0)
+
+[vo_ep10_pt3_07_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Fire!",Time=0)
+
+[vo_ep10_pt3_07a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Fire...what else is there?",Time=0)
+
+[vo_ep10_pt3_08_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Electricity!",Time=0)
+
+[vo_ep10_pt3_08a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Electricity...slag, fire, electricity, corrosion's coming up next -- what am I forgetting?",Time=0)
+
+[vo_ep10_pt3_09_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Corrosion!",Time=0)
+
+[vo_ep10_pt3_09a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Corrosion...yeah, I remember that one -- come on, what's left?",Time=0)
+
+[vo_ep10_pt3_10_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slag!",Time=0)
+
+[vo_ep10_pt3_10a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slag...yeah, I remember that one...",Time=0)
+
+[vo_ep10_pt3_11_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm loadin' the tranq dart! Tranquila, Blood -- this won't hurt, I promise.",Time=0)
+
+[vo_ep10_pt3_12_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay. She's still alive. Get the microchip from her collar, and we can get her back to Sanctuary. ",Time=0)
+
+[vo_ep10_pt3_13_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="NO!!!! ",Time=0)
+
+[vo_ep10_pt3_14_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, now I remember! EXPLOSIIIIIIVE!",Time=0)
+
+[vo_ep10_pt3_15_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="EXPLOSIIIIVE!",Time=0)
+
+[vo_ep10_pt3_16_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That is why you don't screw with me. You and your little friend Mordecai turn yourselves in or that dumbass bird is just the beginning.",Time=0)
+
+[vo_ep10_pt3_17_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God damnit, Jack! I'M GONNA KILL YOU! YOU HEAR ME?",Time=0)
+
+[vo_ep10_pt3_17a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get that upgrade to Claptrap, killer. I don't care what your plan is -- I'm all in.",Time=0)
+
+[vo_ep10_pt3_17a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm... sorry about Bloodwing, soldier, but we've gotta keep moving. Get that software upgrade to Claptrap, and we'll be able to get through the security field leading to Control Core Angel.",Time=0)
+
+[vo_ep10_pt3_18_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh where the hell is -- I had a violin somewhere, I was gonna play it all sarcastically --goddammit. It was gonna be awesome. Blake! Where's a bloody violin?!",Time=0)
+
+[vo_ep10_pt3_19_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buddy! What the HELL are you do-do-do-do-",Time=0)
+
+[vo_ep10_pt3_20_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="doo-ho-HOO! Holy skagsack -- I'm INVISIBLE! This is -- you -- I can't... Minion: gimme five. Oh, right. ",Time=0)
+
+[vo_ep10_pt3_21_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've earned it.",Time=0)
+
+[vo_ep10_pt3_22_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's what I'm talking about!",Time=0)
+
+[vo_ep10_pt3_23_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Awwww.",Time=0)
+
+[vo_ep10_pt3_24_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great - Claptrap can get us through the Angel's security field now. Come on back; we may have a way past the bunker.",Time=0)
+
+[vo_ep10_pt3_25a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, sweet, sweet. Found it! Alright. This is a song for Mordecai's stupid bird, in E... ",Time=0)
+
+[vo_ep10_pt3_25b_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Screw you, it woulda been hilarious if I'd found it earlier. Shut up.",Time=0)
+
+[vo_ep10_pt3_26_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Visible...",Time=0)
+
+[vo_ep10_pt3_26a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Invisible!",Time=0)
+
+[vo_ep10_pt3_26b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Visible!",Time=0)
+
+[vo_ep10_pt3_26c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Invisible.",Time=0)
+
+[vo_ep10_pt3_26d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, how ya doin, I'm Claptrap and I'm INVISIBLE!",Time=0)
+
+[vo_ep10_pt3_27_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sorry about Bloodwing, soldier. But there's still more to be done if we're gonna reach Angel and get the Vault Key.",Time=0)
+
+[vo_ep10_pt4_01_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll provide support, just like in Tundra Express.",Time=0)
+
+[vo_ep10_pt4_02_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This can't be happening...this can't be happening...",Time=0)
+
+[vo_ep10_pt4_03_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, crap. They're chuckin' Loaders at ya? Damn -- gimme a second to think of something.",Time=0)
+
+[vo_ep10_pt4_04_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay, I got an idea -- if you cripple some of those Loaders, but don't kill 'em, they'll have to open the door to send reinforcements.",Time=0)
+
+[vo_ep10_pt4_05_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good going -- you gotta cripple some others now.",Time=0)
+
+[vo_ep10_pt4_06_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep it up -- you need to damage a few more Loaders.",Time=0)
+
+[vo_ep10_pt4_07_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good -- now forget about that Loader and cripple some others.",Time=0)
+
+[vo_ep10_pt4_08_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You wounded that one -- now move onto another Loader.",Time=0)
+
+[vo_ep10_pt4_09_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Welcome to the Wildlife Exploitation Preserve. Jack says he built this place to promote science and discovery and whatever-the-hell, but it's BS. They're just using slag to experiment on every creature they can find -- you gotta get Bloodwing outta there.",Time=0)
+
+[vo_ep10_pt4_10_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Welcome to the Wildlife Exploitation Preserve, kiddo. I'm afraid you're not gonna like this area all that much -- it's about knowledge. Experimentation. Discovery. You'll see lots of complicated equipment and signs with real big words, but don't worry -- if your little brain can't handle all the science, you can always put a bullet in it.",Time=0)
+
+[vo_ep10_pt4_11_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I still can't believe those bastards managed to steal Bloodwing from me. A few headshotted Hyperion sergeants later, I tracked her here. I'm glad you needed that Claptrap upgrade, Vault Hunter -- I don't think I coulda gotten inside on my own.",Time=0)
+
+[vo_ep10_pt4_12_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack makes me laugh -- he kidnapped Bloodwing so I'd start pissin' my pants and makin' threats that if anything happens to my bird, I'll blah blah blah, but -- Blood and I have been through a lot. I know my girl can handle herself. ",Time=0)
+
+[vo_ep10_pt4_13_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's right, murderer. Keep goin'. I've got a surprise waiting for you at the end of the preserve. And lemme tell ya -- you're gonna love it.",Time=0)
+
+[vo_ep10_pt4_14_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't wait for you to see the surprise. You're gonna be like, ''oh no, I'm bleeding so much, so much blood, ahhhh!'' It's gonna be great.",Time=0)
+
+[vo_ep10_pt4_15_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I had my boys build the preserve to research the full applications of slag. See, it's not just an elemental damage type -- if you know how to use it, slag has...lots of applications.",Time=0)
+
+[vo_ep10_pt4_16_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah ah ah -- you stay back, we're not quite ready for you yet. Don't wanna spoil the surprise.",Time=0)
+
+[vo_ep10_pt4_17_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bloodwing ain't there? Dammit -- Jack's playin' games with us. Waitaminute, waitaminute --  I'm seein' some commotion in the Observation Wing. Maybe they moved her there. Just keep pushin' through the preserve, amigo.",Time=0)
+
+[vo_ep10_pt4_17_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on. Right here. Up top. Don't leave me hangin', bro. Don't make this awkward. Well, mission failed. It's awkward now, huh. I made it weird. Still -- you know what'd make you feel better? A high-five from your buddy Claptrap. Just imagine it -- the sharp smack of hand against hand, the feeling of accomplishment, of brotherhood -- okay, I'm making it weird again. Sorry. Okay, how about this: I'll count to three. If you haven't high-fived me by the time I get to three I'll assume you don't want a high-five. Ready? One. Two. Three. Okay, the three count was a dumb idea. You clearly want to high-five me, you're just not sure how. I understand. Fear not, though -- you need only smack my hand, and bam -- high-five complete. Okay. Ready? ...Go!",Time=0)
+
+[vo_ep10_pt4_18_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Did ya find her? She okay?",Time=0)
+
+[vo_ep10_pt4_21_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Open friggin' sesame. I blasted the security terminal -- the way should be open now.",Time=0)
+
+[vo_ep10_pt4_22_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The way's blocked, huh? Lemme get that for you.",Time=0)
+
+[vo_ep10_pt4_23_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaand open! Hehe.",Time=0)
+
+[vo_ep10_pt4_24_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hold up -- lemme clear the way.",Time=0)
+
+[vo_ep10_pt4_25_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Path's clear, amigo.",Time=0)
+
+[vo_ep10_pt4_26_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Whoa -- you didn't think you were gonna get out of here ALIVE, did ya?",Time=0)
+
+[vo_ep10_pt4_27_echo_hypfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Intruder in range. Deploying reinforcements.",Time=0)
+
+[vo_ep10_pt4_28_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter -- get down.",Time=0)
+
+[vo_ep10_pt4_29_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="DIE, ASSHOLES! SCREW YOU! SCREW YOU! VETE AL DIABLO, YOU SONS OF BITCHES!",Time=0)
+
+[vo_ep10_pt4_30_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep10_pt4_31_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Woah woah woah, hold up -- the door just...opened. That's weird...why would Jack let us into the Preserve? Head on in, I guess...but cuidado, amigo.",Time=0)
+

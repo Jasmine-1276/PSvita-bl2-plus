@@ -1,0 +1,27 @@
+[HUD.VersusHUDGlobals VersusHUDGlobalsDefinition]
+ArenaTransitionMessages[0].Message=All players must be present to proceed
+ArenaTransitionMessages[1].Message=Two players are required to play in the arena
+ArenaTransitionMessages[2].Message=Use this console to spectate a player
+ArenaTransitionMessages[3].Message=Use this console to change the arena rules
+ArenaTransitionMessages[4].Message=Pick up a weapon
+ArenaTransitionMessages[5].Message=Only the server can use this
+ArenaTransitionMessages[6].Message=This can only be used during combat
+ArenaTransitionMessages[7].Message=This cannot be used during combat
+ClientStartMsgData.Message=Wait for Server to Start Match
+DrawMsgData.Message=Draw!
+KillMsgData.Message=Kills: 
+LivesMsgData.Message=Lives: 
+LobbyFighterMsgData.Message=Spectator: Waiting to Fight
+LobbyNextMsgData.Message=You are next in line for combat
+LobbyPrepareMsgData.Message=Prepare for combat in: 
+LobbySecondMsgData.Message=You are second in line for combat
+LobbySpectatorMsgData.Message=Spectator: Pacifist
+MatchVictoryMsgData.Message=  won the Match!
+NoLivesMsgData.Message=Out of Lives
+RespawnFireMsgData.Message=Press Fire to Respawn
+RespawnTimerMsgData.Message=Waiting to Respawn
+ServerStartMsgData.Message=Press fire to Start Round
+TeamKillMsgData.Message=
+TimerMsgData.Message=Time Left: 
+VictoryMsgData.Message= is Victorious
+

@@ -1,0 +1,1220 @@
+[vo_ep2_pt1_01_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll explain everything soon, but know this - you're alive for a reason, and I... am here to help you.",Time=0)
+
+[vo_ep2_pt1_01a_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great - another dead Vault Hunter. Handsome Jack's been busy.",Time=0)
+
+[vo_ep2_pt1_02_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wait a minute - you're not dead! YES! Now I can get off this glacier! Claptrap, your metaphorical ship has finally come in!",Time=0)
+
+[vo_ep2_pt1_04_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Allow me to introduce myself - I am a CL4P-TP steward bot, but my friends call me Claptrap! Or they would, if any of them were still alive. Or had existed in the first place! Oh - I've got something for you!",Time=0)
+
+[vo_ep2_pt1_05_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Man, this is great! Now that I've met a mighty Vault Hunter, I can finally join the resistance in Sanctuary, take vengeance against Jack for killing my product line, and repair my central processor so I stop thinking out loud! I wonder what it's like to have a belly button.",Time=0)
+
+[vo_ep2_pt1_05a_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well done! Your ability to walk short distances without dying will be Handsome Jack's downfall!",Time=0)
+
+[vo_ep2_pt1_06_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just a little added security. Gotta keep those Bullymongs at bay, or they'll rip your eyes out!",Time=0)
+
+[vo_ep2_pt1_07_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll need that funny little robot's help to reach Sanctuary, the last bastion of the resistance against Jack, and the only place you will be truly safe. Get to Sanctuary.",Time=0)
+
+[vo_ep2_pt1_07a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sorry about the mess. Everything Jack kills, he dumps here -- bandits, Vault Hunters, Claptrap units... If I sound pleased about this, it's only because my programmers made this my default tone of voice! I'm actually quite depressed!",Time=0)
+
+[vo_ep2_pt1_07b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Here - take this ECHO communicator that I totally didn't loot from one of these corpses! It comes with a class-twelve heads-up display, complete with a minimap! Now - come, come, friend. Let's get you inside.",Time=0)
+
+[vo_ep2_pt1_07c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, the creatures around here are dangerous, none more than this Bullymong named Knuckle Dragger - killed everyone I know. Anywho, I keep a pistol in the cabinet over there for emergencies, but in here we should be pretty safe!",Time=0)
+
+[vo_ep2_pt1_07d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The gun. The gun in the cabinet.",Time=0)
+
+[vo_ep2_pt1_07e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Apart from the excruciating pain, this is great! I've been waiting for a mighty Vault Hunter to help me reach Sanctuary! I will be your wise leader, and you shall be my fearsome minion! Ahahaha!",Time=0)
+
+[vo_ep2_pt1_07g_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So don't freak out. I'm here to help you. You don't know me - you can't know me - but I'll be there with you to help your friend -- you gotta trust me. I'm tracking Knuckle Dragger by satellite and I've updated your display with his current location. You're alive for a reason. Go get 'em, kid.",Time=0)
+
+[vo_ep2_pt1_07i_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are we at Liar's Berg? I don't need my eye attached to remember those sounds. Minion, you've outdone yourself! I haven't been anywhere near this place in over four years! Minion! Minion! Minion! EVERYBODY! EVERYBODY! Minion! Minion!",Time=0)
+
+[vo_ep2_pt1_07j_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I hope you find these guns useful. The Crimson Raiders -- the anti-Jack resistance in Sanctuary -- need a fighter like you. I can help you reach them. Steel yourself, ''Minion'', from here on out we're going to be fighting straight up the hill.",Time=0)
+
+[vo_ep2_pt1_07k_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey -- you've found a customization station! You can use this to change your appearance, AND reset your skill points!",Time=0)
+
+[vo_ep2_pt1_07m_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Years ago, I helped four Vault Hunters save this planet. And now, I'm here to help you do the same thing. Until Handsome Jack is dead by your hand, Pandora will never be free.",Time=0)
+
+[vo_ep2_pt1_08_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I am in this location!",Time=0)
+
+[vo_ep2_pt1_09_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This way!",Time=0)
+
+[vo_ep2_pt1_10_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just follow the soothing sound of my voice!",Time=0)
+
+[vo_ep2_pt1_11_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's go this way!",Time=0)
+
+[vo_ep2_pt1_12_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You made it! Your ability to walk short distances will be Handsome Jack's downfall! ",Time=0)
+
+[vo_ep2_pt1_13_echox_claptrapclarence]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Handsome Jack? Where?! AHHHHHH!",Time=0)
+
+[vo_ep2_pt1_15_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHHHH!",Time=0)
+
+[vo_ep2_pt1_16_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="MY EYE! AHHHHHH!",Time=0)
+
+[vo_ep2_pt1_17a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ow.",Time=0)
+
+[vo_ep2_pt1_17b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oof!",Time=0)
+
+[vo_ep2_pt1_17c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ooh!",Time=0)
+
+[vo_ep2_pt1_17d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah!",Time=0)
+
+[vo_ep2_pt1_17e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah!",Time=0)
+
+[vo_ep2_pt1_17f_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahh. Smell that crisp Pandoran aaaaAAAAAAAAAAIR!",Time=0)
+
+[vo_ep2_pt1_17g_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaand open!",Time=0)
+
+[vo_ep2_pt1_17h_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaand open!",Time=0)
+
+[vo_ep2_pt1_17i_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What'cha gonna do, gonna open, open; what'cha gonna do, gonna open, door.",Time=0)
+
+[vo_ep2_pt1_17j_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaand I said to the god of doors: open!",Time=0)
+
+[vo_ep2_pt1_20a_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, you may wonder why I don't just take a replacement eye from one of these broken Claptraps. Two reasons: firstly, because me and my eye have been through a lot. Secondly, because shut up.",Time=0)
+
+[vo_ep2_pt1_21_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great! Just let me get this door open and we'll hunt ourselves a Bullymong.",Time=0)
+
+[vo_ep2_pt1_23_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Onward, seeing-eye minion! Let me know if I'm gonna run into anything!",Time=0)
+
+[vo_ep2_pt1_24_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll just assume you didn't see that.",Time=0)
+
+[vo_ep2_pt1_25_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Even though Knuckle Dragger blindsided me, I know my way around this glacier. I bet ya we'll find my eye in Frostbite Crevasse.",Time=0)
+
+[vo_ep2_pt1_25a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep your wits about you, minion -- this glacier's run by a bandit named Captain Flynt. The jerk kept me as his torture plaything for a few months. We played games like 'dodge the blowtorch', and 'don't get dunked into the pool of acid.' I was really good at the first one.",Time=0)
+
+[vo_ep2_pt1_26_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! What's that noise? Are you fighting?",Time=0)
+
+[vo_ep2_pt1_27_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What's going on?! Should I be scared?",Time=0)
+
+[vo_ep2_pt1_28_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're fighting something, aren't you? I can tell -- I have very acute hearing!",Time=0)
+
+[vo_ep2_pt1_28a_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stick close to the robot -- he will help you get off this glacier, and into the city of Sanctuary. That is the only place you will be safe.",Time=0)
+
+[vo_ep2_pt1_29_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Here we go  -- I bet the knuckle-dragger is around here somewhere --",Time=0)
+
+[vo_ep2_pt1_30_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Little help?",Time=0)
+
+[vo_ep2_pt1_31_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahhh! I hear Bullymongs! Sic 'em, minion!",Time=0)
+
+[vo_ep2_pt1_31a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's go! If we don't get my eye back, we'll never get to Sanctuary!",Time=0)
+
+[vo_ep2_pt1_32_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great! Now get me outta here before more Bullymongs arrive.",Time=0)
+
+[vo_ep2_pt1_32a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32f_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32g_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32h_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32i_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_32j_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_33_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...you still there? I don't hear Bullymongs anymore. Kinda just waiting on you. To get me outta here. But please, take your time. Can't help but notice you're not getting me out of here. Maybe you're thinking, oh, Claptrap's such a strong and noble paragon of justice and skill, he can get out himself. Which, most of the time, you would be totally right about. But as it stands right now, I could use some help. And if you don't, I'm gonna have to pull out the big guns: I'll hit ya with the silent treatment. See how you like that. ... Yep. Giving you the silent treatment. Feel the sting of my passive-aggression. Being totally silent. ... Not talking to you. Not at all. Silence. ... Total silence.",Time=0)
+
+[vo_ep2_pt1_33a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Over here!",Time=0)
+
+[vo_ep2_pt1_33b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This-a-way, minion!",Time=0)
+
+[vo_ep2_pt1_33c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Whenever you're ready, buddy!",Time=0)
+
+[vo_ep2_pt1_33d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You comin'?",Time=0)
+
+[vo_ep2_pt1_33e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey!",Time=0)
+
+[vo_ep2_pt1_33f_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, roll out!",Time=0)
+
+[vo_ep2_pt1_33g_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Can you see me? 'Cause I can't see you!",Time=0)
+
+[vo_ep2_pt1_33h_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="C'mon, minion! Andiamo!",Time=0)
+
+[vo_ep2_pt1_33i_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, your master needs help!",Time=0)
+
+[vo_ep2_pt1_33j_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vamanos, minion! Arriba, arriba!",Time=0)
+
+[vo_ep2_pt1_34_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Many thanks, friend of friends! Onward!",Time=0)
+
+[vo_ep2_pt1_35_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh! My eye just switched back on! I see a tough-looking minion, and an incredibly handsome robot. Which means that whoever has my eye...",Time=0)
+
+[vo_ep2_pt1_36_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...is very close.",Time=0)
+
+[vo_ep2_pt1_37_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh God! They're coming outta the wall-sphincters!",Time=0)
+
+[vo_ep2_pt1_38_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Woohoo! If you would retrieve my eye for me. Oh, and I apologize for saying ''wall sphincters.'' I say that a lot when I'm frightened.",Time=0)
+
+[vo_ep2_pt1_39_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got my eye? Great! Now we just gotta find someone to put it back into me. Much as I'm sure you'd like to jam your fist into my skull, optic surgery is best left to professionals -- my pal Hammerlock in Liar's Berg can fix me up! Allons-y!",Time=0)
+
+[vo_ep2_pt1_40_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Liar's Berg's on the other side of this Hyperion barge. What say we cut through it, chum?",Time=0)
+
+[vo_ep2_pt1_41_echox_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Intruders detected. Locking door.",Time=0)
+
+[vo_ep2_pt1_42_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ha! This door's Hyperion tech -- child's play! Aaaaaaand OPEN!",Time=0)
+
+[vo_ep2_pt1_43_echox_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Remote override detected. Disengaging locks.",Time=0)
+
+[vo_ep2_pt1_44_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, it was nice knowing ya! I hear getting eaten alive by Bullymongs isn't such a bad way to go.",Time=0)
+
+[vo_ep2_pt1_45_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lemme get that for ya.",Time=0)
+
+[vo_ep2_pt1_45a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Executing phase shift.",Time=0)
+
+[vo_ep2_pt1_45a_echo_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Access granted.",Time=0)
+
+[vo_ep2_pt1_46_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ha-HA! I knew I'd get it eventually.",Time=0)
+
+[vo_ep2_pt1_47_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're welcome! Perks of being an Artificial Intelligence.  I'm networked into almost everything on this planet.",Time=0)
+
+[vo_ep2_pt1_47a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's a long way to Sanctuary -- please  take whatever you need for the journey ahead.",Time=0)
+
+[vo_ep2_pt1_47b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lemme know when you're ready to go meet with Sir Hammerlock, minion.",Time=0)
+
+[vo_ep2_pt1_47c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Can't wait for Hammerlock to screw my eye back in. Me and him are thick as thieves, specifically in that I once stole his gas-powered generator because I had a crush on it. Don't judge.",Time=0)
+
+[vo_ep2_pt1_47e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This way to Southern Shelf, minion -- let's go! ...or, not! We'll go at your pace! I'm obviously the brains of this operation, of course, but you're the Vault Hunter with the brawn. And the guns. And the power of sight. Which is exactly what you want out of a minion, really. That's, like, three of the top four things one generally wants out of a minion. You'll figure out the fourth when the time is right. The fourth is pizzazz.",Time=0)
+
+[vo_ep2_pt1_47f_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh no -- BULLYMONGS!",Time=0)
+
+[vo_ep2_pt1_47g_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrgh. Sounds like the bounty board's kaput. One more reason to find Hammerlock -- he can switch it on for us.",Time=0)
+
+[vo_ep2_pt1_47h_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="D'oh! D'ah! Oof! Ow! D'oh!",Time=0)
+
+[vo_ep2_pt1_48_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice boomsticks, friendo! You're looking swank! Now, to get to Sanctuary, we've gotta retrieve my boat from the clutches of Captain Flynt. He's a real douche: dumb as a bag of wrenches, smells like old ham--",Time=0)
+
+[vo_ep2_pt1_48a_echo_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Spectacular -- first Captain Flynt's bandits attack, then Claptrap shows up! I must have been horrifyingly cruel to puppies in a previous life to deserve this kind of treatment. I say, Vault Hunter -- could you kill Flynt's men for me?",Time=0)
+
+[vo_ep2_pt1_49_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey -- Vault Hunter! Give yourself up peacefully, and maybe my men won't knit a Christmas sweater out of your intestines!",Time=0)
+
+[vo_ep2_pt1_49a_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, if you could hand me the robot's eye, please.",Time=0)
+
+[vo_ep2_pt1_50_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="D'oh! D'ah! Oof! Ow! D'oh! Owww.",Time=0)
+
+[vo_ep2_pt1_51_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What is WRONG with you boys?! Just kill that slaglick so's we can get our reward!",Time=0)
+
+[vo_ep2_pt1_51a_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="DAMMIT! This ain't over, grinder. ",Time=0)
+
+[vo_ep2_pt1_51b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Hammerlock! Since my minion just saved your town, you wanna do your bestie Claptrap a favor and repair my eye?!",Time=0)
+
+[vo_ep2_pt1_51c_echo_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, I suppose I am in your debt now, aren't I? Come to my shack, and I shall restore Claptrap's sight. First, I shall shut off the electrical fence for you.",Time=0)
+
+[vo_ep2_pt1_51d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I knew Hammerlock would come around eventually. Me and him are like two peas in a pod! Two bullets in a mag! Two cannibal midgets in a fat guy's ribcage!",Time=0)
+
+[vo_ep2_pt1_51e_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt1_51f_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Apologies, but when Claptrap speaks, I feel my brain cells committing suicide, one by one. I shall be out directly.",Time=0)
+
+[vo_ep2_pt1_51g_live_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="A pleasure to meet you, Vault Hunter. I am Sir Hammerlock --",Time=0)
+
+[vo_ep2_pt1_51h_live_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="At your service.",Time=0)
+
+[vo_ep2_pt1_51i_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I see our fearless leader Jack is looking for you. Charming fellow, isn't he? Spouts drivel about bringing peace to the frontier, then shoots unarmed men, women and children like it was going out of style. Bah -- I'm spouting exposition again, aren't I? Apologies!",Time=0)
+
+[vo_ep2_pt1_51j_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now, I need only connect this to this, and...",Time=0)
+
+[vo_ep2_pt1_51k_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That should do it!",Time=0)
+
+[vo_ep2_pt1_51l_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ha-HA! I am ALIIIIIVE!",Time=0)
+
+[vo_ep2_pt1_51m_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, dear. He's talking again.",Time=0)
+
+[vo_ep2_pt1_51n_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion! Now I've got my eyesight back -- and you're far uglier than I remembered! Time to join up with the Crimson Raiders in Sanctuary! This glacier's full of nothing but murderers or jerkbags, like that Hammerlock dude!",Time=0)
+
+[vo_ep2_pt1_51o_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm standing right here, dude.",Time=0)
+
+[vo_ep2_pt1_51p_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion! I've got my eyesight back -- and you're far uglier than I remembered! Anyway, it's time to get to the resistance in Sanctuary! This glacier is full of nothing but murderers and jerkbags, like that Hammerlock dude!",Time=0)
+
+[vo_ep2_pt1_51q_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now that Liar's Berg is clear, I might as well turn on the main power -- this town's full of things that may be of use to a go-getting slayer of men like yourself.",Time=0)
+
+[vo_ep2_pt1_51r_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah - there you are.",Time=0)
+
+[vo_ep2_pt1_51s_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, how are you enjoying Liar's Berg? This town used to have a spectacular amount of hustle and/or bustle before its denizens fled to Sanctuary to escape Jack's army. Most of them, anyway. Captain Flynt's men killed anyone who stayed.",Time=0)
+
+[vo_ep2_pt1_51t_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, and if you require a shield, I know where you can get one!",Time=0)
+
+[vo_ep2_pt1_51u_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm in no rush to see Captain Flynt again, minion, so take your time! Do some missions from the bounty board! Also, I've uploaded some challenges to your ECHO device! Why not complete some and prove your badassitude?",Time=0)
+
+[vo_ep2_pt1_51v_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Hammerlock!",Time=0)
+
+[vo_ep2_pt1_52_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Suck it, Flynt! My new minion's a bonafide badass! ",Time=0)
+
+[vo_ep2_pt1_53_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm just saying that for show, minion. Don't let it go to your head. You don't even have a shield yet -- we should see to that.",Time=0)
+
+[vo_ep2_pt1_54_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Flynt and I have had a gentlemen's agreement in the past. I give him the loot from the bodies Jack ditches in the glacier, he promises not to torture me for hours at a time, then he does it anyway. But that ends today! We're gonna take him out, steal my ship back, and sail to Sanctuary! ",Time=0)
+
+[vo_ep2_pt1_54a_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Here's what's gonna happen, Vault Hunter. My first mate Boom Bewm is gonna kill ya, Jack's gonna pay us, and I'm gonna play hopscotch in your chest cavity!",Time=0)
+
+[vo_ep2_pt1_54b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I know Boom Bewm is guarding the path to my ship, but I can't remember where he is. Why don't'cha look around for him, minion?",Time=0)
+
+[vo_ep2_pt1_54c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's definitely Boom Bewm's place, but it looks like the entrance is locked. Better go find the key! ",Time=0)
+
+[vo_ep2_pt1_54d_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great - now we can get into Boom Bewm's abode and be one step closer to Sanctuary!",Time=0)
+
+[vo_ep2_pt1_55_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You aren't gonna be able to kill Handsome Jack without a shield, minion. ",Time=0)
+
+[vo_ep2_pt1_58_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="OH GOD NO I WON'T! AAHHHHHH!",Time=0)
+
+[vo_ep2_pt2_01_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looking good, minion. It's time to head to Sanctuary! But first, we've gotta get my ship back. It is a mighty vessel, befitting a gentleman of my stature. Let's go!",Time=0)
+
+[vo_ep2_pt2_02_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ever been to Sanctuary, minion? Huge city, built out of an old mining ship? You'll dig it -- booze, freedom, fewer Eridium junkies shivving you for spare change...we'll be living the high life.",Time=0)
+
+[vo_ep2_pt2_03_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHHHHH!",Time=0)
+
+[vo_ep2_pt2_04_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh God! They're coming outta the wall-sphincters!",Time=0)
+
+[vo_ep2_pt2_05_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, only a few left, buddy!",Time=0)
+
+[vo_ep2_pt2_06_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice shot!",Time=0)
+
+[vo_ep2_pt2_07_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ooh -- that hurt!",Time=0)
+
+[vo_ep2_pt2_08_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aren't ya glad I told you to get better guns?",Time=0)
+
+[vo_ep2_pt2_09_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh no, I can't look!",Time=0)
+
+[vo_ep2_pt2_10_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No, no, dodge the other way! The other way!",Time=0)
+
+[vo_ep2_pt2_11_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They're weak to bullets, minion!",Time=0)
+
+[vo_ep2_pt2_12_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I apologize for saying 'wall sphincters'. I say that a lot when I'm frightened.",Time=0)
+
+[vo_ep2_pt2_13_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Worry not, henchman -- should you fall, I will defend thee to the death! I will fight by your side until the bitter end! I will lay my life on the line to protect you!",Time=0)
+
+[vo_ep2_pt2_14_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHHHH! You're on your own! ",Time=0)
+
+[vo_ep2_pt2_15_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just eat my minion! I'm nowhere near as chewy!",Time=0)
+
+[vo_ep2_pt2_16_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's get moving, o noble henchman!",Time=0)
+
+[vo_ep2_pt2_17_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ready to go?",Time=0)
+
+[vo_ep2_pt2_18_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Anytime, squire!",Time=0)
+
+[vo_ep2_pt2_19_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That whole 'leaving you to the Bullymongs' thing was a test. And you passed.",Time=0)
+
+[vo_ep2_pt2_20_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ugh -- AGAIN?! Jack's tearing Pandora apart to find the Vault. They say Jack's drilling operations are causing those earthquakes. That, or your mom just got outta bed. ZING!",Time=0)
+
+[vo_ep2_pt2_21_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep2_pt2_35_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, what a kidder! Just get a new fuse for the elevator, and ignore what he said about that power box.",Time=0)
+
+[vo_ep2_pt2_38_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ooh -- there's a fuse on the other side of that electric fence! Just run through the fence -- you won't take damage if you go fast enough!",Time=0)
+
+[vo_ep2_pt2_39_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Whoa! That looked like it hurt. Do it again!",Time=0)
+
+[vo_ep2_pt2_40_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh, maybe you're not running fast enough?",Time=0)
+
+[vo_ep2_pt2_41_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ooh! I've got it! You've just gotta--",Time=0)
+
+[vo_ep2_pt2_42_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If I could, um, make a suggestion? You could shoot the fuse box to shut off the electricity, then grab the capacitor.",Time=0)
+
+[vo_ep2_pt2_43_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="--Ooh! Maybe grab it with your teeth!",Time=0)
+
+[vo_ep2_pt2_44_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="In general, ignore any advice Claptrap gives you.",Time=0)
+
+[vo_ep2_pt2_45_live_banditscared]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The wall's down! Oh God, RUN!",Time=0)
+
+[vo_ep2_pt2_46_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just plug that fuse into Brewster's powerbox, and you'll be able to ride the elevator!",Time=0)
+
+[vo_ep2_pt2_52_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now get up there and buy a shield!",Time=0)
+
+[vo_ep2_pt2_53_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looking good, squire! Nothing's more stylish than a good resistance to bullets! Now get back here!",Time=0)
+
+[vo_ep2_pt3_01_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, minion, we're ready to kill Captain Flynt and take my ship back! You'll need some grenades first, though - I bet Flynt's servant, Boom Bewm, has some.",Time=0)
+
+[vo_ep2_pt3_02_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Be careful taking down Boom Bewm. He's one of the 'Ripper' clan. As in, fleshripper. I don't have to tell you why they're called that.",Time=0)
+
+[vo_ep2_pt3_03_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They're called that because they rip people's flesh off.",Time=0)
+
+[vo_ep2_pt3_04_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Next stop: Boom Bewm!",Time=0)
+
+[vo_ep2_pt3_04a_live_boomboom]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Light the fuses, bitches --",Time=0)
+
+[vo_ep2_pt3_04b_live_boomboom]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm ready to BLOW!",Time=0)
+
+[vo_ep2_pt3_06_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's right, baby! My Vault Hunter is a BADASS! Good job waxing Boom Bewm, minion.",Time=0)
+
+[vo_ep2_pt3_07_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrrrragh! Stairs! I can't climb stairs! Let's find another way up!",Time=0)
+
+[vo_ep2_pt3_08_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oooh -- a crane! Find the controls!",Time=0)
+
+[vo_ep2_pt3_09_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll wait here!",Time=0)
+
+[vo_ep2_pt3_10_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Take your time, old pal! Standing on immobile platforms is one of my top three favorite pastimes! Right behind dancing and crying.",Time=0)
+
+[vo_ep2_pt3_11_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahahahhaha! I ascend!",Time=0)
+
+[vo_ep2_pt3_12_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I wish I had legs.",Time=0)
+
+[vo_ep2_pt3_13_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Boom-Bewm was the first lieutenant on Flynt's ship. Real nice guy, if you don't mind being tortured everytime he's drunk, which is always.",Time=0)
+
+[vo_ep2_pt3_14_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="PROTECT ME, SQUIRE!",Time=0)
+
+[vo_ep2_pt3_15_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! Hey, henchman! Don't get shot!",Time=0)
+
+[vo_ep2_pt3_16_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is it safe to come out yet?!",Time=0)
+
+[vo_ep2_pt3_17_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="BOOYAH!",Time=0)
+
+[vo_ep2_pt3_18_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's how ya do it!",Time=0)
+
+[vo_ep2_pt3_19_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great shot!",Time=0)
+
+[vo_ep2_pt3_20_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, what have you DONE?! These were human beings with lives and families and-- I'm totally kidding, SCREW those guys!",Time=0)
+
+[vo_ep2_pt3_21_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, kiddo. Jack here - President of Hyperion. Lemme explain how things work here: Vault Hunter shows up. Vault Hunter looks for the new Vault. Vault Hunter gets killed. By me. Seeing the problem here? You're still alive. So, if you could just do me a favor and off yourself, that'd be great. Thanks, pumpkin.",Time=0)
+
+[vo_ep2_pt3_22_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaaand open!",Time=0)
+
+[vo_ep2_pt3_23_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's Boom-Bewm! AHHHHHHHHH!",Time=0)
+
+[vo_ep2_pt3_24_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="He sure said 'boom' a lot. Looks like he dropped a grenade mod -- be sure to equip it!",Time=0)
+
+[vo_ep2_pt3_25_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Raggin' fraggin' locked gate! Ooh -- idea! Minion, get on that cannon!",Time=0)
+
+[vo_ep2_pt3_26_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just blast this gate down, but DON'T do it until I'm out of the way! Understand? If you shot the gate now, that could cause serious damage to me! So don't do that! I'm just standing here to show you the area you should shoot after I move away, which I will once I am totally convinced you understand the instructions I am relaying to you! Do you understand? I know it's kind of complicated, but just stick with me! When it's okay for you to shoot this gate with the cannon, I'll say something like, 'SHOOT THE GATE WITH THE CANNON, NOW!' But that was just a test. You didn't shoot the gate when I said that, which was good. 'SHOOT THE GATE WITH THE CANNON, NOW!' Also another test. You're doing me proud, minion. ...Actually, I'm getting bored. Just shoot the gate now for realsies.",Time=0)
+
+[vo_ep2_pt3_27_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHHHHHHHHHHHHHHHHHHHHHH!",Time=0)
+
+[vo_ep2_pt3_28_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, - I might have tried to stage a mutiny on Captain Flynt's ship before the flash-freeze.  Which explains why his men are currently beating the crap out of me. Right, guys?",Time=0)
+
+[vo_ep2_pt3_29_echox_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="SHUT UP!",Time=0)
+
+[vo_ep2_pt3_30_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay!",Time=0)
+
+[vo_ep2_pt3_31_echox_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, Claptrap's got a new friend, huh? I gotta say, I miss the little hunk a' junk - the noises he made when we set him on fire... brings a tear to my eye.",Time=0)
+
+[vo_ep2_pt3_32_echox_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got a proposition for you two. You and Clappy be our personal torture buddies for life, and we won't kill ya. Think it over. Take yer time.",Time=0)
+
+[vo_ep2_pt3_33_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ow! Ooh! Ouch! Minion! Ow! Little help?! Ow!",Time=0)
+
+[vo_ep2_pt3_33a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ow! Guys, you don't HAVE to beat me up - we can talk this through, right? Here, I'll do it for you! ''Hey Claptrap, how are you?'' ''Oh, I'm fine - I kinda wish you wouldn't beat me up, though.'' ''Why?'' ''Cause it really hurts!'' ''You make a good point, Claptrap, but beating you up makes US feel really good!'' ''I know, I know, guys, but it makes ME feel really bad!'' ''But Claptrap, you're a robot -- are you even capable of feeling pain?'' ''Well, uh, no, I guess I'm not.'' ''So, pummelling you makes us feel good, and DOESN'T hurt you, there's no harm in us continuing to do it, right?''  ...Actually, now that I've talked it all out, I think you guys have the moral high ground, here. Pummel away!",Time=0)
+
+[vo_ep2_pt3_34_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Much appreciated, lackey! Flynt is somewhere inside that freighter, just holding the keys to my ship. But it's time for him to hold some -- some bullets. With his face.",Time=0)
+
+[vo_ep2_pt3_35_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice shot!",Time=0)
+
+[vo_ep2_pt3_36_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ew!",Time=0)
+
+[vo_ep2_pt3_37_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ha-HA!",Time=0)
+
+[vo_ep2_pt3_38_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Look out, minion!",Time=0)
+
+[vo_ep2_pt3_39_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Brilliant!",Time=0)
+
+[vo_ep2_pt3_40_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on out, Flynt! Your Claptrap unit has returned!",Time=0)
+
+[vo_ep2_pt3_41_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes! Flynt is behind this door, I'm almost sure of it! Aaaaaaaaaand...OPEN!",Time=0)
+
+[vo_ep2_pt3_42_live_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's our new torture dolls, boys! Let's turn up the HEAT!",Time=0)
+
+[vo_ep2_pt3_43_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, SPHINCTERS! I'm so sorry Captain Flynt sir, please don't burn me again...",Time=0)
+
+[vo_ep2_pt3_44_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey buddy, look out for the fire!",Time=0)
+
+[vo_ep2_pt3_45_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't get burned!",Time=0)
+
+[vo_ep2_pt3_46_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, he's doing the fire thing again!",Time=0)
+
+[vo_ep2_pt3_47_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="BOOYAH! You're the most fearsome warrior this glacier has ever seen, pal!",Time=0)
+
+[vo_ep2_pt3_48_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey. Hey, buddy. Hey. Look over here. Hey.",Time=0)
+
+[vo_ep2_pt3_49_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I got a hat.",Time=0)
+
+[vo_ep2_pt3_50_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ignored again.",Time=0)
+
+[vo_ep2_pt3_51_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright -- now we've just gotta get to my ship.",Time=0)
+
+[vo_ep2_pt3_51a_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now that you've got Claptrap's boat, you can sail to Sanctuary and meet up with Roland, the leader of the resistance against Hyperion. Without you, the resistance will die within one week. Good luck.",Time=0)
+
+[vo_ep2_pt3_52_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There she is! Me mighty vessel! Lower her into the water, ye salty dog!",Time=0)
+
+[vo_ep2_pt3_53_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And now, to set sail for Sanctuary! Toot toot!",Time=0)
+
+[vo_ep2_pt3_54_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="To Sanctuary, ol' friend of mine!",Time=0)
+
+[vo_ep2_pt3_55_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let us set sail!",Time=0)
+
+[vo_ep2_pt4_01_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is it, minion -- Captain Flynt is all that stands between us and the only boat off this ice cube!",Time=0)
+
+[vo_ep2_pt4_02_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, where have you been?  I was going to show you the shortcut to Sanctuary, but you wandered off! I also can't help but note a considerable lack of 'welcome back Claptrap' decorations. Oh well -- I'm sure they just haven't finished setting them up yet!",Time=0)
+
+[vo_ep2_pt4_03_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll need more loot than that to survive out here. Gimme a sec.",Time=0)
+
+[vo_ep2_pt4_06_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Please stay back, Vault Hunter - let Claptrap go first.",Time=0)
+
+[vo_ep2_pt4_07_echox_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The reward on your head can buy an awful lot of fuel, Vault Hunter. I'd tell ya this isn't gonna hurt, but...I'd be lyin'.",Time=0)
+
+[vo_ep2_pt4_08_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on -- work, curse you! Ah, fecal matter -- the bounty board's broken. The resistance must have disconnected it before they left for Sanctuary. I'd planned to post some jobs for you. Ah well - just speak to me instead! ",Time=0)
+
+[vo_ep2_pt4_09_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! How -- ah, these pretzels suck... So, how's your day been, buddy? We haven't really talked much since I left you for dead. Hey, you think you'll freeze to death out there? Nah, probably not. The bandits'll get you first. My day? It's been pretty good. Just bought a pony made of diamonds, because I'm rich. So, you know. That's cool. Kay, bye.",Time=0)
+
+[vo_ep2_pt4_10_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm rackin' my brain trying to think of a name for that diamond pony I bought. I was gonna call it 'piss-for-brains' in honor of you, but that just feels immature. Maybe... 'Butt Stallion'? Nah, that's even worse. Tell ya what, I'll give it some more thought.",Time=0)
+
+[vo_ep2_pt4_11_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I should probably clarify -- the diamond horse I've been telling you about? It's not a sculpture, or anything. It's a living horse that actually happens to be made of -- actually, I'll just go get her. Butt Stallion! Say hello.",Time=0)
+
+[vo_ep2_pt4_11a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Butt Stallion says hello.",Time=0)
+
+[vo_ep2_pt4_21_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I hear electricity and anger -- are we at Liar's Berg? This place used to be kinda nice, until Jack scared everyone away and Captain Flynt's bandits moved in.",Time=0)
+
+[vo_ep2_pt4_22_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Attention, people of Pandora! Handsome Jack here, offering a million bucks to whomever brings me the head of the Vault Hunter who just arrived in Liar's Berg. Oh, and I'm still offering a reward for Roland, the mass-murdering leader of the Crimson Raiders. Good hunting, bandits!",Time=0)
+
+[vo_ep2_pt4_23_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="A million bucks? Alright, boys -- this is Captain Flynt! I want you to find that Vault Hunter and bring 'em to me! NOW!",Time=0)
+
+[vo_ep2_pt4_24_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I came out here to research the Bullymongs for my almanac, but Captain Flynt's men trapped me on this glacier. Many thanks for disposing of them, by the way -- to survive a direct run-in with Handsome Jack AND defeat Captain Flynt's bandits? Unheard of. I'm headed to Sanctuary, myself --  from what I hear, the Crimson Raiders there could use a hero like you.",Time=0)
+
+[vo_ep2_pt4_26_live_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is Marcus of Marcus Munitions -- be sure to check out my storefront in Sanctuary!",Time=0)
+
+[vo_ep2_pt4_27_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stick close to the robot -- he will help you get off this glacier, and into the city of Sanctuary, where the resistance is based. Whether they know it or not, the Crimson Raiders need us. They need YOU. Until then, please resist the urge to shoot Claptrap in the face. This may well be your most difficult challenge in the coming days.",Time=0)
+
+[vo_ep2_pt4_28_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got a proposition for ya, Vault Hunter. You give up, we'll just shoot ya in the head. It'll be quick, clean, and a hell of a lot less painful than what Handsome Jack'll do to ya.",Time=0)
+
+[vo_ep2_pt4_29_echo_flynt]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Time for our payday, boys -- let's turn up the HEAT!",Time=0)
+
+[vo_ep2_pt4_31_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Once upon a time, four Vault Hunters changed Pandora forever. But their time has passed -- thanks to Handsome Jack, Pandora needs a new hero. I know that hero is you.",Time=0)
+
+[vo_ep2_pt4_32_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Captain Flynt is -- pardon my language -- a jerk. If you kill him, you'll be able to reach Sanctuary. You'll also have raised the average literacy rate of this glacier by at least thirty percent.",Time=0)
+
+[vo_ep2_pt4_33_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion, where are you wandering to? Come back to me and turn in that mission!",Time=0)
+

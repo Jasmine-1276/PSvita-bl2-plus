@@ -1,0 +1,37 @@
+[FontLib]
+FontLib=UI_FontsEn.FontsEn
+FontLib=UI_FontsJp.FontsJp
+
+[Fonts]
+BodyFont=Compacta Bd BT,normal
+HeadFont=Compacta Bd BT,normal
+NumbersFont=Compacta Bd BT,normal
+WillowBody=WillowBody,normal
+WillowFont=Compacta Bd BT,normal
+WillowHead=Compacta Bd BT,normal
+WillowHeader=Compacta Bd BT,normal
+WillowItal=Compacta Bd BT,normal
+WillowScript=Compacta Bd BT,normal
+WillowCompact=Compacta Bd BT,normal
+WillowTechNumbers=Chintzy CPU BRK,normal
+
+[GFxGameViewportClient]
+ConnectingMessage=CONNECTING
+LoadingMessage=LOADING
+PausedMessage=
+PrecachingMessage=PRECACHING
+SavingMessage=SAVING
+
+[IME]
+MoviePath=GFxIME.IME
+
+[Translation]
+Enable=1
+
+[Global]
+No Trigger=No Trigger!
+CurrencyName=Credits
+Eridium=Eridium
+Experience=xp
+NoReward=No Reward
+

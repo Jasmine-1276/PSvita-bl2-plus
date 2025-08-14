@@ -1,0 +1,855 @@
+[vo_ep6_pt1_01_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, killer, I'm back in Sanctuary. Be careful - the Bloodshots have camped out all around the dam. You'll wanna get a vehicle to soak up some bullets for you--",Time=0)
+
+[vo_ep6_pt1_01b_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm talking to someone, Scooter.",Time=0)
+
+[vo_ep6_pt1_01c_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well I see that. I mean everybody said you were dead, Roland said you were dead, but damn, if you ain't the fourth hottest corpse I ever seen. Wanna hear the list? One: Commandant Steele. Two: TK Baha. Three: this kid I knew named Franky-Frank who jumped out a building? His body like actually INVERTED when he hit the ground. It was crazy! Also, you're good.",Time=0)
+
+[vo_ep6_pt1_01d_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hunh - nobody seems to be around. Just drive up and honk your horn - maybe this won't be so hard after all.",Time=0)
+
+[vo_ep6_pt1_01e_echo_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, yeah! I'm openin' the gate!",Time=0)
+
+[vo_ep6_pt1_01f_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hold it, idiots!",Time=0)
+
+[vo_ep6_pt1_01g_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That don't look like one of our technicals! They're here for our hostage, get em!",Time=0)
+
+[vo_ep6_pt1_01h_echo_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Buzz off! Nobody comes in or out without the boss sayin' so.",Time=0)
+
+[vo_ep6_pt1_02_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Mm mmm! You ain't gettin' in the dam that way, peppernip! The Bloodshots ain't lettin' you in without a truck like theirs. Go see my kin out in the Dust - she'll hook you up with some skeevy-lookin' wheels. Mm hmm!",Time=0)
+
+[vo_ep6_pt1_02a_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That there's the road to the Dust - take a good hard look at your ass, last time you gonna see if without bullets in it.",Time=0)
+
+[vo_ep6_pt1_02b_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Finally made it to the Dust, huh? You been off the Echo fer hours, thought you mighta got brained or something. But you ain't, so yay... and stuff... and stuff...",Time=0)
+
+[vo_ep6_pt1_03_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ellie's way out in bandit country. Be careful out there, amigo - I mean it.",Time=0)
+
+[vo_ep6_pt1_04_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I shoulda killed your fat ass when I had the chance!",Time=0)
+
+[vo_ep6_pt1_05_live_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sorry, what was that? You gotta speak up!",Time=0)
+
+[vo_ep6_pt1_06_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You ugly skank! You flabby bitch--",Time=0)
+
+[vo_ep6_pt1_07_live_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heh, that was awesome.",Time=0)
+
+[vo_ep6_pt1_08_live_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, howdy! I didn't see ya there!",Time=0)
+
+[vo_ep6_pt1_09_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Name's Ellie. My brother Scooter told me you was comin'! Don't get many visitors around here, especially not ones so cute.",Time=0)
+
+[vo_ep6_pt1_10_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Tryin' ta rescue your pal Roland from the dam, huh? I betcha could fool those Bloodshots if you drove up in one of their custom trucks. I got one right over yonder that I...",Time=0)
+
+[vo_ep6_pt1_11_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Crushed with the driver still inside.",Time=0)
+
+[vo_ep6_pt1_12_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My bad. Well, I got a vanilla technical in the shop and most of the parts we need. Just gotta doll it up with some more of the bandits trimmin's - spikes, blood, skulls, that kinda thing. You could probably scavenge that stuff from the bandit patrols around here.",Time=0)
+
+[vo_ep6_pt1_13_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You be careful out there, cutie!",Time=0)
+
+[vo_ep6_pt1_14_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll haveta blow up some bandit cars and grab the crap from the wreckage. And don't pay 'em any mind if they start callin' ya names - just makes killin' em that much more fun!",Time=0)
+
+[vo_ep6_pt1_15_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, you an' my sister are gettin' along pretty well, huh? That's cool, that's cool. Course, if ya make fun of the way she looks I'll have to tie you to a vending machine and set you on fire, but it's - nah it's cool that you guys are hangin' out. It's - it's - it's fine.",Time=0)
+
+[vo_ep6_pt1_16_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's one part down!",Time=0)
+
+[vo_ep6_pt1_16a_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aw, skagballs - looks like we got a dust storm comin'! Be careful!",Time=0)
+
+[vo_ep6_pt1_17_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep it up! You're just a few more charred bandits from havin' a ride that'll fool those Bloodshots!",Time=0)
+
+[vo_ep6_pt1_17a_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We just need a few more parts to Bloodshot up this truck so's you can rescue yer friend.",Time=0)
+
+[vo_ep6_pt1_17b_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just finished preppin' my truck for those bandit parts. Just get a few more and we'll be good to go.",Time=0)
+
+[vo_ep6_pt1_17c_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Almost got a bandit car? Roland can handle whatever the Bloodshots dish out, but I generally don't like letting him get tortured any longer than I have to.",Time=0)
+
+[vo_ep6_pt1_18_echo_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You got the parts? Great! Just bring 'em back and we'll git you rollin'!",Time=0)
+
+[vo_ep6_pt1_19_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, lookin' good! Now we just gotta get it in the Catch-A-Ride system.",Time=0)
+
+[vo_ep6_pt1_20_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got yer car ready over there. Let's make some modifications and you'll be good to go!",Time=0)
+
+[vo_ep6_pt1_21_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Groovy! Now you can 'struct one of those bandit-lookin' things from any of my brother's Catch-A-Rides. Come back and see me sometime, you sumbitch.",Time=0)
+
+[vo_ep6_pt1_21a_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now THAT looks like the car of a psycho murderer. I'm diggin' it. Get back to the Bloodshot Dam and try honkin' your way in again.",Time=0)
+
+[vo_ep6_pt1_22_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And tell Scooter to stop settin' my customers on fire! I can take care of myself!",Time=0)
+
+[vo_ep6_pt1_22a_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, by the way, I got my Catch-A-Ride station up and runnin' again. Just haul your fine self to my garage if ya's needin' a car.",Time=0)
+
+[vo_ep6_pt1_23_echox_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They're back, boys! Get 'em!",Time=0)
+
+[vo_ep6_pt1_24_echox_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="How 'bout that, boys - the idiot came back fer seconds!",Time=0)
+
+[vo_ep6_pt1_25_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I done told ya, without a bloodshot technical they ain't gon' let ya in.",Time=0)
+
+[vo_ep6_pt2_01_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, killer, I'm back in Sanctuary. You'll --",Time=0)
+
+[vo_ep6_pt2_02_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sweet transformable pantaloons, is that LILY?",Time=0)
+
+[vo_ep6_pt2_03_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm talking to someone, Scooter. Killer, that car oughtta get you into the dam. Looks very... psycho murderer.",Time=0)
+
+[vo_ep6_pt2_04_echo_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well I see that. Everyone said you were dead-- shit, Roland said you were dead. Damn, if you ain't the fourth hottest corpse I ever seen. Wanna hear the others? Boom. Here we go. One: Commandant Steele. Two: TK Baha. Great taste in shirts. Three: this kid I knew named Franky-Frank who jumped out a building? His body actually INVERTED when he hit the ground. ",Time=0)
+
+[vo_ep6_pt2_05_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Drive up and honk your horn. They should let you in now that your ride looks all Bloodshot-y.",Time=0)
+
+[vo_ep6_pt2_06_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looks like one of ours! Let 'em in while I try to get Hyperion back on the horn!",Time=0)
+
+[vo_ep6_pt2_06a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've gotta get to the dam - I think the Bloodshots are gonna ransom Roland off to Hyperion!",Time=0)
+
+[vo_ep6_pt2_07_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Attention, Hyperion Corporation! This is Flanksteak, King of the Bloodshots! We've got your public enemy number one! Offer up some cash and he's all yours!",Time=0)
+
+[vo_ep6_pt2_08_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sure, I've got an offer! I'm sending a figure to the moon projector...now.",Time=0)
+
+[vo_ep6_pt2_09_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So is that, like, a maybe, or...",Time=0)
+
+[vo_ep6_pt2_10_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We been tricked - kill 'em!",Time=0)
+
+[vo_ep6_pt2_11_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're in? Great. Roland should be around here somewhere. I'm sure you can handle yourself, but if anything happens to Roland... make sure nothing happens to Roland.",Time=0)
+
+[vo_ep6_pt2_12_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Somebody stop that slaggund from springin' Roland! We lose him, we lose our payday!",Time=0)
+
+[vo_ep6_pt2_12a_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Look here, Hyperion - I'm not askin' much for Roland! A million bucks! Hello? This thing on?",Time=0)
+
+[vo_ep6_pt2_12a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've spent the last few months keeping the Bloodshots away from Sanctuary - be careful. They're a few bullets short of a full mag, but what they lack in brains, they make up for in violence.",Time=0)
+
+[vo_ep6_pt2_12a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, you're tryin' to rescue Roland from those Bloodshot guys, huh? You know he can't actually help you stop me, right? I mean, he thought he was a real badass back in New Haven, but that didn't count for much in the end, did it?",Time=0)
+
+[vo_ep6_pt2_12b_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Okay, Hyperion - a hundred thousand bucks for Roland! Final offer! ECHO me back and let's negotiate, already!",Time=0)
+
+[vo_ep6_pt2_12c_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goddammit, Hyperion! I didn't get half my guys killed kidnapping the most wanted criminal on Pandora just so you could IGNORE me! How 'bout fifty thousand bucks!",Time=0)
+
+[vo_ep6_pt2_12d_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion wants Roland, bad - even if they don't buy him from the Bloodshots, they'll be coming for him. You'd better hurry.",Time=0)
+
+[vo_ep6_pt2_12e_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! It's an honor to finally meet you in person.",Time=0)
+
+[vo_ep6_pt2_13_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This'll just take a second.",Time=0)
+
+[vo_ep6_pt2_13a_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep6_pt2_13b_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh no you don't!",Time=0)
+
+[vo_ep6_pt2_13c_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, crap!",Time=0)
+
+[vo_ep6_pt2_13d_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dammit, it's got me!",Time=0)
+
+[vo_ep6_pt2_13e_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well - that's that. Now, let's see about getting out of here--",Time=0)
+
+[vo_ep6_pt2_13f_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep6_pt2_13g_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep6_pt2_13h_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goddammit, Hyperion grabbed him! Destroy that Constructor and get Roland back!",Time=0)
+
+[vo_ep6_pt2_13i_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! You gotta stop this thing!",Time=0)
+
+[vo_ep6_pt2_13j_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let go of me, dammit!",Time=0)
+
+[vo_ep6_pt2_13k_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrrrrrgh - AHH!",Time=0)
+
+[vo_ep6_pt2_14_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And that's how Handsome Jack pays ransoms! Long time no see, Roland.",Time=0)
+
+[vo_ep6_pt2_14a_echo_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I know you're busy, but you must be careful - do NOT shoot those statues of me. They are awesome, and I have dibs on them.",Time=0)
+
+[vo_ep6_pt2_15_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Son of a BITCH! They're taking him to the top of the dam - get there, quick!",Time=0)
+
+[vo_ep6_pt2_15a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Over here!",Time=0)
+
+[vo_ep6_pt2_15b_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Soldier! This way!",Time=0)
+
+[vo_ep6_pt2_15c_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep6_pt2_16_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion took Roland? Mother-- Jack didn't send Wilhelm, did he? Please tell me Jack didn't send Wilhelm.",Time=0)
+
+[vo_ep6_pt2_17_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh crap.",Time=0)
+
+[vo_ep6_pt2_18_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bloodshots, what's going on? I'm hearing more gunfire than usual! I'm still waiting for a response from Hyperion!",Time=0)
+
+[vo_ep6_pt2_18a_echo_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lifeform detected.",Time=0)
+
+[vo_ep6_pt2_19_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Took ya long enough! Alright: twenty bucks for Roland! That's my FINAL offer!",Time=0)
+
+[vo_ep6_pt2_20_echo_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Request denied.",Time=0)
+
+[vo_ep6_pt2_21_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep6_pt2_22_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'ma start the ransom negotiations!",Time=0)
+
+[vo_ep6_pt3_01_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Kill this Constructor so we can get the hell outta here! ",Time=0)
+
+[vo_ep6_pt3_02_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That bot's taking Roland to the drop-barge! Stop them before they get away!",Time=0)
+
+[vo_ep6_pt3_03_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Be honest with yourself, kid. Do you really think you can stop me? I knew you were gonna go for Roland. I am smarter than you. I don't mean to condescend, that's just a fact. 'Condescend' is a word that means 'talk down to'. You got that, kitten?",Time=0)
+
+[vo_ep6_pt3_04_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thanks - I'd be dead if it weren't for you. I owe you one, soldier. ",Time=0)
+
+[vo_ep6_pt3_05_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Meet me back in Sanctuary - I've got a plan to stop Jack, but it won't work without you.",Time=0)
+
+[vo_ep6_pt3_06_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You saved Roland! This planet's been waiting for a hero like you. Oh, thank goodness Jack didn't send Wilhelm.",Time=0)
+
+[vo_ep6_pt3_07_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God dammit, he's getting away! They'll want to take him somewhere quiet to torture him - I've just gotta figure out where...",Time=0)
+
+[vo_ep6_pt3_08_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland is being taken to a Hyperion outpost in The Dust. You'd better hurry - if he dies, I fear Lilith might... overreact.",Time=0)
+
+[vo_ep6_pt3_09_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes! I found out where they took Roland! He's being held in the The Dust by some Hyperion goons and holy crap you already rescued him. Right on. You're officially my new favorite person.",Time=0)
+
+[vo_ep6_pt3_10_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Exploder! Watch out!",Time=0)
+
+[vo_ep6_pt3_10a_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You gotta lower its shields!",Time=0)
+
+[vo_ep6_pt3_10b_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Break the Constructor's shields to slow it down!",Time=0)
+
+[vo_ep6_pt3_10c_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slow this thing down! You gotta bust its shields!",Time=0)
+
+[vo_ep6_pt3_10d_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bust the Warden's shields or I'm screwed!",Time=0)
+
+[vo_ep6_pt3_10e_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's callin' for reinforcements - watch out!",Time=0)
+
+[vo_ep6_pt3_10f_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lunar reinforcements - get ready!",Time=0)
+
+[vo_ep6_pt3_11_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Exploder incoming!",Time=0)
+
+[vo_ep6_pt3_12_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Use explosive shots on those reflector shields!",Time=0)
+
+[vo_ep6_pt3_13_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That surveyor's repairin'  'em!",Time=0)
+
+[vo_ep6_pt3_14_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Surveyor's healing!",Time=0)
+
+[vo_ep6_pt3_15_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nailed it!",Time=0)
+
+[vo_ep6_pt3_16_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good kill.",Time=0)
+
+[vo_ep6_pt3_17_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice. ",Time=0)
+
+[vo_ep6_pt3_18_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah!",Time=0)
+
+[vo_ep6_pt3_19_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Look out! Badass Loader!",Time=0)
+
+[vo_ep6_pt3_20_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, crap.",Time=0)
+
+[vo_ep6_pt3_21_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep up that fire!",Time=0)
+
+[vo_ep6_pt3_22_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just like that!",Time=0)
+
+[vo_ep6_pt3_23_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get to cover!",Time=0)
+
+[vo_ep6_pt3_24_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Careful!",Time=0)
+
+[vo_ep6_pt3_25_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Kill this Constructor so we can get the hell outta here!",Time=0)
+
+[vo_ep6_pt3_26_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Exploder! Take its legs out!",Time=0)
+
+[vo_ep6_pt3_27_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Kill that surveyor first!",Time=0)
+
+[vo_ep6_pt3_28_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Repair bots out - blast 'em!",Time=0)
+
+[vo_ep6_pt3_29_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Surveyors! They're repairin' him!",Time=0)
+
+[vo_ep6_pt3_30_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Grenade, watch out!",Time=0)
+
+[vo_ep6_pt3_31_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch that grenade!",Time=0)
+
+[vo_ep6_pt3_32_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Grenade, take cover!",Time=0)
+
+[vo_ep6_pt3_33_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on, you gotta kill this Constructor!",Time=0)
+
+[vo_ep6_pt3_34_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shoot the friggin' Constructor!",Time=0)
+
+[vo_ep6_pt3_35_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stop this damn thing!",Time=0)
+
+[vo_ep6_pt3_36_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You still there?",Time=0)
+
+[vo_ep6_pt3_37_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Where'd you go?",Time=0)
+
+[vo_ep6_pt3_38_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Where are ya, soldier?",Time=0)
+
+[vo_ep6_pt3_39_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You gotta catch up or I'm dead!",Time=0)
+
+[vo_ep6_pt3_39a_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The drop-barge is coming in! Kill the constructor and get Roland outta there!",Time=0)
+
+[vo_ep6_pt3_39b_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Soldier! You just don't give up, do you?",Time=0)
+
+[vo_ep6_pt3_40_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No! No, don't!",Time=0)
+
+[vo_ep6_pt3_41_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slag you, bitch!",Time=0)
+
+[vo_ep6_pt3_42_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Please don't! DON'T!",Time=0)
+
+[vo_ep6_pt3_43_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AAHHHH!",Time=0)
+
+[vo_ep6_pt3_44_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get the hell outta my house!",Time=0)
+
+[vo_ep6_pt3_45_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="RUN! THEY'RE RIGHT BEHIND US!",Time=0)
+
+[vo_ep6_pt3_46_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just leave us alone! LEAVE US ALONE!",Time=0)
+
+[vo_ep6_pt3_47_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't let 'em get me!",Time=0)
+
+[vo_ep6_pt3_48_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Help! HEEELLLP!",Time=0)
+
+[vo_ep6_pt3_49_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="GODDAMNED ROBOTS!",Time=0)
+
+[vo_ep6_pt3_50_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Please - please, NO!",Time=0)
+
+[vo_ep6_pt3_51_live_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Prisoner restrained. Moving to extraction point.",Time=0)
+
+[vo_ep6_pt3_52_live_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Summoning reinforcements.",Time=0)
+
+[vo_ep6_pt3_53_live_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Requesting lunar reinforcements.",Time=0)
+
+[vo_ep6_pt3_54_live_hypconstructor]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Pursuer threat level at maximum.  Deploying countermeasures.",Time=0)
+
+[vo_ep6_pt4_01_echo_flanksteak]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We got an intruder! GET 'EM, BADMAW!",Time=0)
+
+[vo_ep6_pt4_01_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You didn't know where Roland was, you don't know why I'm after the Vault, and you still don't know my awesome little secret. God, it's embarrassing how far behind you guys are. I mean, I don't wanna rub it in, or anything, but...damn.",Time=0)
+
+[vo_ep6_pt4_02_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just gotta shut 'er down and clear the system. And...",Time=0)
+
+[vo_ep6_pt4_03_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Voila!",Time=0)
+
+[vo_ep6_pt4_04_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Crap. Hey, sweetie - I'll need ya to get rid of that runner you're drivin'. You can use my car crusher if ya want.",Time=0)
+
+[vo_ep6_pt4_05_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Or you could ride it off a cliff, blast it to bits, or drive it into a bandit camp - I just need it blowed up so's it ain't in the Catch-A-Ride system. ",Time=0)
+
+[vo_ep6_pt4_06_echox_ellie]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thanks for takin' care of that - I can get yer car into the Catch-A-Ride system now.",Time=0)
+
+[vo_ep6_pt4_07_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Look at those murderous Bloodshots. Don't you think Pandora would be better without their scum? That's all I wanna do - clean up this planet. If that means I've gotta kill bandits like you, like the Bloodshots - like all those Crimson Raider idiots in Sanctuary? Hell -- I'm happy to do it.",Time=0)
+
+[vo_ep6_pt4_08_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You handling the Bloodshots alright? They've been trying to take Roland out ever since he kicked their asses out of Sanctuary. I shoulda seen it coming.",Time=0)
+
+[vo_ep6_pt4_09_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The resistance needs the info Roland gathered on the Vault. We know Hyperion wants it opened, but we don't know why. If you rescue Roland, we might have a shot at stopping Jack.",Time=0)
+
+[vo_ep6_pt4_10_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Security's getting tighter - Roland must be nearby. Keep at it, you're doing great.",Time=0)
+
+[vo_ep6_pt4_11_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch out - they've got a badass!",Time=0)
+
+[vo_ep6_pt4_12_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Woah - I've never seen anybody take down one of the Bloodshot's badasses so quickly. I can see why Roland wanted you in the Raiders so badly.",Time=0)
+
+[vo_ep6_pt4_13_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Saw the way you handled that last mob of bad guys - my compliments. I can see why Roland wanted you in the Raiders so badly.",Time=0)
+
+[vo_ep6_pt4_14_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep your eyes open - Roland's gotta be around here somewhere!",Time=0)
+
+[vo_ep6_pt4_15_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! Good to finally meet you in person. Hell of a job fighting through those bloodshots --",Time=0)
+
+[vo_ep6_pt4_17_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrgh - damnit!",Time=0)
+
+[vo_ep6_pt4_18_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Meet me in Sanctuary - it's time to strike back.",Time=0)
+
+[vo_ep6_pt4_19_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That bot's taking Roland to the drop-barge! Stop them before they get away!",Time=0)
+
+[vo_ep6_pt4_20_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're at the dam - just drive up to the gate and honk your horn.",Time=0)
+
+[vo_ep6_pt4_21_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm over here!",Time=0)
+
+[vo_ep6_pt4_22_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I could use some help!",Time=0)
+
+[vo_ep6_pt4_23_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This way, soldier!",Time=0)
+

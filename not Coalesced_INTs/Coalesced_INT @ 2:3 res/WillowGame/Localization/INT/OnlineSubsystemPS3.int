@@ -1,0 +1,7 @@
+[OnlineSubsystemPS3]
+LocalProfileName=Player
+DefaultStatus=Playing
+InviteMsgSubject=Invitation
+InviteMsgBody=Would you like to play Borderlands 2?
+InviteMenuLabel=Invite
+

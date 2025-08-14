@@ -1,0 +1,4 @@
+[MenuOptionDisplayNames]
+TextureFade=TEXTURE FADE
+TextureFadeDesc=Allow textures to fade in when higher-quality versions get loaded.
+
