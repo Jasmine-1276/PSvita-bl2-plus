@@ -1,0 +1,184 @@
+[Devices.InputDevice_Controller InputDeviceDefinition]
+Axes[0]=(Caption="Look/Turn")
+Axes[1]=(Caption="Look/Turn")
+Axes[2]=(Caption="Move/Strafe/Drive")
+Axes[3]=(Caption="Move/Strafe/Drive")
+Buttons[0]=(Caption="Jump/Vehicle Boost")
+Buttons[1]=(Caption="Use/Reload/Enter Vehicle Seat/Switch Seats")
+Buttons[2]=(Caption="Cycle Weapon/Secondary Use/Vehicle Horn")
+Buttons[3]=(Caption="Crouch/Trade/Exit Vehicle")
+Buttons[4]=(Caption="Aim/Alternate-Fire")
+Buttons[5]=(Caption="Fire Weapon")
+Buttons[6]=(Caption="Activate Skill")
+Buttons[7]=(Caption="Grenade")
+Buttons[8]=(Caption="Select Weapon")
+Buttons[9]=(Caption="Select Weapon")
+Buttons[10]=(Caption="Select Weapon")
+Buttons[11]=(Caption="Select Weapon")
+Buttons[12]=(Caption="Status Menu")
+Buttons[13]=(Caption="Sprint/Vehicle Handbrake")
+Buttons[14]=(Caption="Melee/Vehicle Rear View")
+Buttons[15]=(Caption="Pause Menu")
+
+[Devices.InputDevice_Keyboard InputDeviceDefinition]
+Axes[0]=(Caption="Move/Drive Forward")
+Axes[1]=(Caption="Move/Drive Backward")
+Axes[2]=(Caption="Strafe Left")
+Axes[3]=(Caption="Strafe Right")
+Axes[4]=(Caption="Rotate Left")
+Axes[5]=(Caption="Rotate Right")
+Buttons[0]=(Caption="Jump")
+Buttons[1]=(Caption="Reload Weapon")
+Buttons[2]=(Caption="Use/Exit Vehicle/Pickup Items")
+Buttons[3]=(Caption="Secondary Use")
+Buttons[4]=(Caption="Sprint")
+Buttons[5]=(Caption="Crouch/Switch Vehicle Seats")
+Buttons[6]=(Caption="Melee/Vehicle Rear View")
+Buttons[7]=(Caption="Grenade/Vehicle Handbrake")
+Buttons[8]=(Caption="Activate Skill/Vehicle Boost")
+Buttons[9]=(Caption="Select Weapon Slot 1")
+Buttons[10]=(Caption="Select Weapon Slot 2")
+Buttons[11]=(Caption="Select Weapon Slot 3")
+Buttons[12]=(Caption="Select Weapon Slot 4")
+Buttons[13]=(Caption="Show Status")
+Buttons[14]=(Caption="Text Chat")
+Buttons[15]=(Caption="Vehicle Horn")
+Buttons[16]=(Caption="Show Map")
+Buttons[17]=(Caption="Show Inventory")
+Buttons[18]=(Caption="Show Skills")
+Buttons[19]=(Caption="Show Logs")
+Buttons[20]=(Caption="Show Challenges")
+Buttons[22]=(Caption="Drop Weapon")
+Buttons[23]=(Caption="Push To Talk")
+Buttons[24]=(Caption="Trade Items")
+
+[Devices.InputDevice_Mouse InputDeviceDefinition]
+Axes[0]=(Caption="Look/Turn")
+Axes[1]=(Caption="Look/Turn")
+Buttons[0]=(Caption="Fire Weapon")
+Buttons[1]=(Caption="Aim/Alternate-Fire")
+Buttons[2]=(Caption="Previous Weapon")
+Buttons[3]=(Caption="Next Weapon")
+
+[Remapping.InputRemapping_PS3_Angelic InputRemappingDefinition]
+PresetCaption=Angelic
+RemappedButtons[0]=(Caption="Melee/Exit Vehicle")
+RemappedButtons[1]=(Caption="Activate Skill/Vehicle Boost")
+RemappedButtons[2]=(Caption="Sprint/Vehicle Rear View")
+RemappedButtons[3]=(Caption="Grenade/Vehicle Handbrake")
+RemappedButtons[4]=(Caption="Fire Weapon")
+RemappedButtons[5]=(Caption="Crouch/Trade/Vehicle Horn")
+RemappedButtons[6]=(Caption="Aim/Alternate-Fire")
+
+[Remapping.InputRemapping_PS3_Borderlands1 InputRemappingDefinition]
+PresetCaption=Borderlands1
+
+[Remapping.InputRemapping_PS3_Default InputRemappingDefinition]
+PresetCaption=Default
+
+[Remapping.InputRemapping_PS3_Legacy InputRemappingDefinition]
+PresetCaption=Legacy
+RemappedAxes[0]=(Caption="Look/Strafe")
+RemappedAxes[2]=(Caption="Move/Turn/Drive")
+
+[Remapping.InputRemapping_PS3_LegacySouthpaw InputRemappingDefinition]
+PresetCaption=Legacy Southpaw
+RemappedAxes[0]=(Caption="Look/Strafe")
+RemappedAxes[2]=(Caption="Move/Turn/Drive")
+
+[Remapping.InputRemapping_PS3_Nuked InputRemappingDefinition]
+PresetCaption=Nuked
+RemappedButtons[0]=(Caption="Cycle Weapon/Secondary Use")
+RemappedButtons[1]=(Caption="Jump/Vehicle Handbrake")
+RemappedButtons[2]=(Caption="Grenade/Exit Vehicle")
+RemappedButtons[3]=(Caption="Activate Skill/Vehicle Boost")
+RemappedButtons[4]=(Caption="Melee/Vehicle Rear View")
+RemappedButtons[5]=(Caption="Aim/Alternate-Fire")
+RemappedButtons[6]=(Caption="Fire Weapon")
+RemappedButtons[7]=(Caption="Crouch/Trade/Vehicle Horn")
+RemappedButtons[8]=(Caption="Sprint/Switch Vehicle Seats")
+
+[Remapping.InputRemapping_PS3_Resistant InputRemappingDefinition]
+PresetCaption=Resistant
+RemappedButtons[0]=(Caption="Grenade/Exit Vehicle")
+RemappedButtons[1]=(Caption="Crouch/Trade/Vehicle Boost")
+RemappedButtons[2]=(Caption="Activate Skill/Vehicle Handbrake")
+RemappedButtons[3]=(Caption="Aim/Alternate-Fire")
+RemappedButtons[4]=(Caption="Fire Weapon")
+
+[Remapping.InputRemapping_PS3_Southpaw InputRemappingDefinition]
+PresetCaption=Southpaw
+
+[Remapping.InputRemapping_PS3_SouthpawSticks InputRemappingDefinition]
+PresetCaption=Southpaw Alternate
+
+[Remapping.InputRemapping_Xbox_Angelic InputRemappingDefinition]
+PresetCaption=Angelic
+RemappedButtons[0]=(Caption="Melee/Exit Vehicle")
+RemappedButtons[1]=(Caption="Grenade/Vehicle Handbrake")
+RemappedButtons[2]=(Caption="Sprint/Vehicle Rear View")
+RemappedButtons[3]=(Caption="Crouch/Trade/Vehicle Horn")
+RemappedButtons[4]=(Caption="Aim/Alternate-Fire")
+
+[Remapping.InputRemapping_Xbox_Default InputRemappingDefinition]
+PresetCaption=Default
+
+[Remapping.InputRemapping_Xbox_Legacy InputRemappingDefinition]
+PresetCaption=Legacy
+RemappedAxes[0]=(Caption="Look/Strafe")
+RemappedAxes[2]=(Caption="Move/Turn/Drive")
+
+[Remapping.InputRemapping_Xbox_LegacySouthpaw InputRemappingDefinition]
+PresetCaption=Legacy Southpaw
+RemappedAxes[0]=(Caption="Look/Strafe")
+RemappedAxes[2]=(Caption="Move/Turn/Drive")
+
+[Remapping.InputRemapping_Xbox_Nuked InputRemappingDefinition]
+PresetCaption=Nuked
+RemappedButtons[0]=(Caption="Cycle Weapon/Secondary Use")
+RemappedButtons[1]=(Caption="Jump/Vehicle Handbrake")
+RemappedButtons[2]=(Caption="Grenade/Exit Vehicle")
+RemappedButtons[3]=(Caption="Melee/Vehicle Rear View")
+RemappedButtons[4]=(Caption="Crouch/Trade/Vehicle Horn")
+RemappedButtons[5]=(Caption="Sprint/Switch Vehicle Seats")
+
+[Remapping.InputRemapping_Xbox_Resistant InputRemappingDefinition]
+PresetCaption=Resistant
+RemappedButtons[0]=(Caption="Grenade/Exit Vehicle")
+RemappedButtons[1]=(Caption="Crouch/Trade/Vehicle Boost")
+RemappedButtons[2]=(Caption="Activate Skill/Vehicle Handbrake")
+RemappedButtons[3]=(Caption="Aim/Alternate-Fire")
+RemappedButtons[4]=(Caption="Fire Weapon")
+
+[Remapping.InputRemapping_Xbox_Southpaw InputRemappingDefinition]
+PresetCaption=Southpaw
+
+[Remapping.InputRemapping_Xbox_SouthpawSticks InputRemappingDefinition]
+PresetCaption=Southpaw Alternate
+
+[Remapping.InputRemapping_NGP_Southpaw InputRemappingDefinition]
+PresetCaption=Southpaw
+RemappedAxes[0]=(Caption="Look/Turn")
+RemappedAxes[2]=(Caption="Move/Strafe/Drive")
+
+[Remapping.InputRemapping_NGP_Cutter InputRemappingDefinition]
+PresetCaption=Cutter
+RemappedAxes[0]=(Caption="Look/Turn")
+RemappedAxes[2]=(Caption="Move/Strafe/Drive")
+RemappedButtons[0]=(Caption="Cycle Weapon/Secondary Use")
+RemappedButtons[1]=(Caption="Crouch/Vehicle Horn")
+RemappedButtons[2]=(Caption="Melee/Trade/Exit Vehicle")
+RemappedButtons[3]=(Caption="Grenade/Vehicle Rear View")
+RemappedButtons[4]=(Caption="Sprint/Vehicle Handbrake")
+
+[Remapping.InputRemapping_NGP_Power InputRemappingDefinition]
+PresetCaption=Power
+RemappedButtons[0]=(Caption="Crouch")
+RemappedButtons[1]=(Caption="Cycle Weapon/Secondary Use")
+RemappedButtons[2]=(Caption="Sprint/Trade/Exit Vehicle")
+RemappedButtons[3]=(Caption="Melee/Vehicle Horn")
+RemappedButtons[4]=(Caption="Use/Reload/Enter Vehicle Seat/Vehicle Boost")
+RemappedButtons[5]=(Caption="Jump/Switch Seats")
+RemappedButtons[6]=(Caption="Grenade/Vehicle Rear View")
+RemappedButtons[7]=(Caption="Activate Skill/Vehicle Handbrake")
+

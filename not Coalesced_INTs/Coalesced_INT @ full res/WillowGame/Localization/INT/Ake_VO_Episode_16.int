@@ -1,0 +1,160 @@
+[vo_ep16_pt1_01_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We've gotta find out where the Warrior is buried -- we find that, we find Lilith and Jack. That kind of data could only be held in one place: The Hyperion Info Stockade. Head to the Arid Nexus.",Time=0)
+
+[vo_ep16_pt1_01a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can feel the Warrior stirring -- I dunno how much longer I can hold it back. ",Time=0)
+
+[vo_ep16_pt1_01b_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep your head down, slab -- my boys are startin' their run!",Time=0)
+
+[vo_ep16_pt1_01c_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That oughtta do it -- the way to the Info Stockade is open. Get in there, and find out where Jack's got Lilith and the Warrior. While you're doin' that, I'm gonna pay a visit to a Hyperion outpost -- see if I can't steal some heavy armor for our final assault on Jack.",Time=0)
+
+[vo_ep16_pt1_02_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You see that building with the light shootin' out of it? That's the Info Stockade. We're gonna get you there through the main Eridium pipeline -- head there now.",Time=0)
+
+[vo_ep16_pt1_02a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That highway leads to the Nexus. There's a lift in Fyrestone that'll get you up there.",Time=0)
+
+[vo_ep16_pt1_02b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There should be a ladder on the side of the pipe leading to a maintenance hatch. You can use that to get inside the pipeline. It'll be messy, but it'll lead you to the stockade.",Time=0)
+
+[vo_ep16_pt1_02c_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God dammit! You okay? Rrgh -- looks like the ladder's busted. Still, the pipe looks cracked -- I bet if you raised the pressure, you could blast the pipe wide open. Get inside that way. Yeah -- head to one of the pumping stations.",Time=0)
+
+[vo_ep16_pt1_03_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good, you made it. Now crank those valves to raise the pressure.",Time=0)
+
+[vo_ep16_pt1_04_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Cool. Now, hit the other two pump stations and raise the pressure 'til that pipe's fit to burst. Then you can bust the pipe, get into the Stockade, and find out where the Warrior's buried.",Time=0)
+
+[vo_ep16_pt1_05_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sounds like the pipes are nearly bursting. Hit the last pumping station and we'll be ready to blast the pipeline open.",Time=0)
+
+[vo_ep16_pt1_06_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great -- the pressure in the pipeline's so high, a little force will pop it like a blister. Get back to the pipeline, and bring your vehicle -- I got an idea.",Time=0)
+
+[vo_ep16_pt1_07_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're there? Good. Now -- ram the pipe with your vehicle. Probably won't kill you. Hopefully.",Time=0)
+
+[vo_ep16_pt2_01_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good. It should only take a few shots in the right place to bust that pipe wide open.",Time=0)
+
+[vo_ep16_pt2_02_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hijo de puta -- I heard that all the way back in Sanctuary! You can get to the Stockade through the pipeline now. Get inside, and find out where Jack's got the Warrior.",Time=0)
+
+[vo_ep16_pt2_02a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eh. Kinda thought the explosion'd be bigger. Either way, you can get to the Stockade through the pipeline now. Get inside, and find out where Jack's got the Warrior.",Time=0)
+
+[vo_ep16_pt2_03_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Every bit of data in the Hyperion network ends up archived here. Mining information, security footage - it all flows to the Stockade. Get inside.",Time=0)
+
+[vo_ep16_pt2_04_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great job, amigo. Now that you're in, there oughtta be an info terminal nearby. Find it.",Time=0)
+
+[vo_ep16_pt2_05_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There -- Jack's sent all the Eridium he's mined straight to the Hero's Pass. That must be where the warrior's buried! Get back to Sanctuary -- it's time to get ready for the final assault.",Time=0)
+
+[vo_ep16_pt2_06_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Kid... you gotta hurry...",Time=0)
+
+[vo_ep16_pt2_07_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lilith has quite the little mouth on her, doesn't she? And, as it turns out, when that Eridium is pumping through her body, I can stab her over and over and over and it just heals right back up. I'm told it's agonizing. Oh, she looks pissed.",Time=0)
+
+[vo_ep16_pt3_01_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is all my fault! I hide in Sanctuary, he attacks it. I draw some graffiti on his cliff... and he kills Roland. It's my fault, minion -- and I'm tired of running.",Time=0)
+
+[vo_ep16_pt3_02_live_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion! Thank Asimov you're not dead!",Time=0)
+
+[vo_ep16_pt4_01_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can feel Jack's drills getting closer to the Warrior's chamber -- you gotta stop Jack, Vault Hunter.",Time=0)
+
+[vo_ep16_pt4_02_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I know you think I'm a monster. You think I enslaved Angel. But you didn't see what she did to her mother. I had to restrain Angel's power. You get that? I had to.",Time=0)
+
+[vo_ep16_pt4_03_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And I'm sure he had to exploit her for profit and power, too. Don't listen, Vault Hunter -- he killed Angel long before you pulled the plug --",Time=0)
+
+[vo_ep16_pt4_04_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uhhn--",Time=0)
+
+[vo_ep16_pt4_05_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't you dare speak about my daughter.",Time=0)
+
+[vo_ep16_pt4_05a_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Son of a bitch -- we're comin', Lil. Just hold on.",Time=0)
+
+[vo_ep16_pt4_06_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This. Ends. Now.",Time=0)
+
+[vo_ep16_pt4_07_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slab! Mordecai! I made it to the Hyperion outpost -- just gimme some time and I'll steal a drop-barge! Once y'all find out where the Warrior is, we can all go after it together!",Time=0)
+
+[vo_ep16_pt4_08_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good news, everybody -- I stole the drop barge! Hyperion was no match for my secret punch-you-in-the-face-until-you-die fighting style! When the time comes, we'll fight our way to the Vault together!",Time=0)
+

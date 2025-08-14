@@ -1,0 +1,225 @@
+[vo_ep4_pt1_01_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Crap. I mean, uh, darn. Roland needs your help -- without you, the Crimson Raiders don't stand a chance against Jack. Please find out where Roland's gone.",Time=0)
+
+[vo_ep4_pt1_02_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sanctuary. Built on the ruins of the Dahl corporation's finest interplanetary mining ship, now the last refuge for thieves, murderers, and outcasts. Welcome home.",Time=0)
+
+[vo_ep4_pt1_02a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bandits of Sanctuary: I hear a new Vault Hunter has arrived in your city. So just turn 'em in to me, and you'll be rewarded.",Time=0)
+
+[vo_ep4_pt1_02b_echo_pvtjessup]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't worry. Nobody's gonna turn you in -- you're our only hope of stopping Jack.",Time=0)
+
+[vo_ep4_pt2_08_live_patient]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'M STARVING! I WANNA EAT YOUR BABIES!",Time=0)
+
+[vo_ep4_pt2_09_live_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Son, this might sting a bit. ",Time=0)
+
+[vo_ep4_pt2_10_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! This boy needs some surgery, bad. Get some healin' -- you're gonna be my operatin' assistant.",Time=0)
+
+[vo_ep4_pt2_10a_echox_hypengineer]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll choke you to death with your own goddamn smock, you bandit quack!",Time=0)
+
+[vo_ep4_pt2_11_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just step on up to my machine.",Time=0)
+
+[vo_ep4_pt2_12_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just get over here - let me patch ya up.",Time=0)
+
+[vo_ep4_pt2_13_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Health machine's over yonder. ",Time=0)
+
+[vo_ep4_pt2_14_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright: make a small incision just below his sternum, but be careful -- we don't want to nick the coronary artery.",Time=0)
+
+[vo_ep4_pt2_15_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...close enough.",Time=0)
+
+[vo_ep4_pt2_16_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="An Eridium shard? For -- HOW many times I tell you idiots? You can't get slag powers by swallowin' this stuff!",Time=0)
+
+[vo_ep4_pt2_18_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God as my witness, one day I will find a usable spleen.",Time=0)
+
+[vo_ep4_pt2_18a_echox_drzed]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on back whenever ya need some healin'. Long as you ain't scared of a little tetanus, anyways.",Time=0)
+
+[vo_ep4_pt2_20_live_patriciatannis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="As I've said, Roland, now that Jack has the Vault Key, it is only a matter of time until he awakens the Warrior. Also, I require a new ventilator -- this lab smells of bacon. Bacon is for sycophants, and products of incest.",Time=0)
+
+[vo_ep4_pt2_21_live_patriciatannis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wait, you're not Roland, or even of close facial symmetry.  Well if you're here for the Fuel Cell, then you'll have to bring me an item impressive enough that my loins skitter forth from retirement. Oh, don't give me ''overshare'' face! ",Time=0)
+
+[vo_ep4_pt2_23_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great! Shove that tater-tot into another one of them engine dougies right there.",Time=0)
+
+[vo_ep4_pt2_25_live_townsperson]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Could I have a refund, please? This gun doesn't seem to work.",Time=0)
+
+[vo_ep4_pt2_26_live_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hmm, I dunno...",Time=0)
+
+[vo_ep4_pt2_27_live_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looks like it works to me.",Time=0)
+
+[vo_ep4_pt2_28_live_townsperson]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep4_pt3_08_echox_crazyearl]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Whatchu want? Just buy somethin' and I'll toss in this crap fuel cell. Just touchin' it made two a' my fingers rot off. And I only accept Eridium -- cash is for clowns, boy!",Time=0)
+
+[vo_ep4_pt3_09_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, thanks for grabbin' all that stuff for me. Third degree burns are best taken in shifts. Now, to see the fruits of your loins - this city's gonna FLY!",Time=0)
+
+[vo_ep4_pt3_09a_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, thanks for grabbin' all that stuff for me. Third degree burns are best taken in shifts. Now, to see the fruits of your loins - this city's gonna FLY!",Time=0)
+
+[vo_ep4_pt3_10_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...or, not. Damn. Well, now we REALLY gotta find Roland. You know what - maybe get to Roland's place. I think he mighta left a message there for ya.",Time=0)
+
+[vo_ep4_pt3_11_echox_hammerlock]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! How good to see you again. Thanks to the thorough drubbing you delivered upon Captain Flynt, I was able to leave the Southern Shelf and get back to the business of finishing my almanac. Would you care to help me out?",Time=0)
+
+[vo_ep4_pt4_01_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Made it to Banditville, huh? Well done! It'll be nice to see a friendly face when I'm burning that place to the ground. Oh, and I've decided that I will tell you my secret later on. Once you've earned it.",Time=0)
+
+[vo_ep4_pt4_02_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're the one Commander Roland was talkin' about. The one who faced Jack and lived. Look, we need your help, bad, but first thing's first - plug that power core into the shield generator.",Time=0)
+
+[vo_ep4_pt4_03_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good. That oughtta last us a day or two. Roland was supposed to bring us some intel on how to stop Jack -- with him missing, we really need your help. Talk to Private Jessup at the gate. He'll let you into the city. ",Time=0)
+
+[vo_ep4_pt4_04_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="JESSUP! Stand up straight, we got a Vault Hunter headed your way!",Time=0)
+
+[vo_ep4_pt4_05_echox_pvtjessup]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let me get the gate for you.",Time=0)
+
+[vo_ep4_pt4_06_echox_pvtjessup]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Commander Roland never came back from his secret reconnaissance mission. He left very specific orders for this contingency which you can help carry out. Go meet with the town mechanic.",Time=0)
+
+[vo_ep4_pt4_07_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Blitz! Look alive, everybody!",Time=0)
+
+[vo_ep4_pt4_08_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion moonshot blitz. Without that fresh core you brought, those lunar mortars woulda punched right through the shield. ",Time=0)
+
+[vo_ep4_pt4_10_live_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, crap, is you Hyperion? I heard all of you are robots and you eat metal out of the garbage and stuff - knew you wired death machines would be coming for me once Roland went missing. If you're here to kill me you should probably know --",Time=0)
+
+[vo_ep4_pt4_11_live_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll never take me alive, you robotic sumbitch!",Time=0)
+
+[vo_ep4_pt4_12_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wait a minute...! Well, hang me upside down from a telephone pole, cover me in honey, and leave me to a slow death at the hands of hungry spiderants - you ain't no Hyperion robot, you're a Vault Hunter! That's like a unicorn!",Time=0)
+
+[vo_ep4_pt4_13_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You gonna help us out with this Roland situation? I heard them Crimson Raider dudes talkin' about it. Roland told me if he ever disappeared, I was supposed ta initiate Plan B - or, as I like to call it, Plan Turn-this-city-into-a-floatin'-ass-fortress-of-airborne-awesomeness. B. I got some fuel cells around here. You'll need those - oh, and you'll need this Eridium here, too.",Time=0)
+
+[vo_ep4_pt4_14_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Head to the center a' town and plug those two fuel cells into the ignition primers. You gon' need a third, which is why I gave you that there rid-rock - you can buy the last cell from Earl's black market. Careful though, Earl's crazy--he ate one of my cars once. Yeah. The whole car. Just with, like, a fork.",Time=0)
+
+[vo_ep4_pt4_15_echox_scooter]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland said we gotta have an exit strategery just in case he ever disappeared, hence all the fuel cells and whatnot. Bummer, though - he really wanted to meet ya. Raiders ain't gonna last without some new blood, and given how you shot them bandits up I'd say you and blood got an extra-special relationship. Like cousins takin' a bath together.",Time=0)
+
+[vo_ep4_pt4_16_echox_sgttimmins]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! Get in - Roland left a message for you.",Time=0)
+
+[vo_ep4_pt4_17_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, soldier. If you're hearing this, I'm in trouble. Right now, you're the only thing standing between this city - hell, the whole planet - and Handsome Jack's army. I left info about my whereabouts in my safe. You can use it to store anything you need - this is your home, now. Good luck.",Time=0)
+
+[vo_ep4_pt4_18_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get back here, Vault Hunter -- we gotta talk.",Time=0)
+

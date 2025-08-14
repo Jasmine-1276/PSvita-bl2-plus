@@ -1,0 +1,925 @@
+[vo_ep7_pt1_01_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="How the hell did those bandits snag you, anyway?",Time=0)
+
+[vo_ep7_pt1_02_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh - I was taking a leak and one of them knocked me out.",Time=0)
+
+[vo_ep7_pt1_03_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wow. You are a dumbass.",Time=0)
+
+[vo_ep7_pt1_04_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah... I, uh...yeah. Total dumbass.",Time=0)
+
+[vo_ep7_pt1_05_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I was joking, dude. I'm happy to see you.",Time=0)
+
+[vo_ep7_pt1_06_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh - uh. Thanks!",Time=0)
+
+[vo_ep7_pt1_07_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...This is where you say you're happy to see me, too.",Time=0)
+
+[vo_ep7_pt1_08_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, uh... right. I, uh - it's good to see you?",Time=0)
+
+[vo_ep7_pt1_09_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Smooth.",Time=0)
+
+[vo_ep7_pt1_10_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Handsome Jack is gonna kill us all unless you can stop him.",Time=0)
+
+[vo_ep7_pt1_11_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="He means, 'hi.' That's his way of saying 'hi.'",Time=0)
+
+[vo_ep7_pt1_11a_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Right. Sorry. Hi. I'll be honest, soldier: we're losing this war. We've been trying to stop Jack for years - taking out his men, raiding his Eridium mines - but it hasn't been enough. But you - you met Jack and lived. You fought off the Rippers and the Bloodshots - saved my ass and Lilith's.",Time=0)
+
+[vo_ep7_pt1_11b_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thanks, by the way.",Time=0)
+
+[vo_ep7_pt1_11c_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If we're going to survive this, we need your help, Vault Hunter. Now: we thought Jack wanted to open a Vault and use its power to wipe us off Pandora. But thanks to some intel I stole from a Hyperion convoy, I found out...we were wrong.",Time=0)
+
+[vo_ep7_pt1_11d_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What?",Time=0)
+
+[vo_ep7_pt1_11e_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="He's not going to open a Vault. He's going to control it.",Time=0)
+
+[vo_ep7_pt1_11f_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll just go ahead and repeat myself, what?",Time=0)
+
+[vo_ep7_pt1_11g_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Vault Jack's looking for isn't an alien prison, or a cache of weapons. It's a living thing. An ancient, Eridian Warrior, powerful enough to destroy all life on Pandora. Whoever awakens it, gets to control it.",Time=0)
+
+[vo_ep7_pt1_11h_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That sounds... bad.",Time=0)
+
+[vo_ep7_pt1_11i_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If Jack wakes the Warrior, yeah. But if we control the Warrior first--",Time=0)
+
+[vo_ep7_pt1_11j_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...We could use it to wipe Hyperion off the map. Alright, I'm likin' this plan.",Time=0)
+
+[vo_ep7_pt1_12_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="--There's a problem. We need the Vault Key to wake the Warrior. And Jack's already got it. But if you've spoken to Tannis --",Time=0)
+
+[vo_ep7_pt1_13_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="--She didn't vomit when she saw you, did she? She does that, sometimes.",Time=0)
+
+[vo_ep7_pt1_14_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She might've told you the Key needs to be charged with Eridium. We're racing against time - every ounce of that stuff Jack mines from the ground puts him closer to taking control of that Warrior and wiping us out. We've gotta get our hands on the Vault Key. Now, if anybody knows where the Key's being kept, it's my spy out in Tundra Express. He's as good at gathering intel as he is at drinking. So I'm sure he's sleeping off last night's booze right now - you'll need to get a fire weapon to wake him up. I'll explain when you get out there.",Time=0)
+
+[vo_ep7_pt1_15_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Which means we gotta kill him.",Time=0)
+
+[vo_ep7_pt1_17_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I had it, Marcus. I had it in my hand.",Time=0)
+
+[vo_ep7_pt1_18_echox_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What, the Vault Key? Then maybe you shouldn't have sold it to Tannis! If you'd given it to your old pal Marcus, maybe we wouldn't be in this situation!",Time=0)
+
+[vo_ep7_pt1_19_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I had it, Marcus. I had it in my hand.",Time=0)
+
+[vo_ep7_pt1_20_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I had it, Marcus. I had it in my hand.",Time=0)
+
+[vo_ep7_pt1_21_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I had it, Marcus. I had it in my hand.",Time=0)
+
+[vo_ep7_pt2_01_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll have to signal our man - I'd bet anything he's sleeping off a hangover, so you'll have to wake him up. The sound of some Varkids burning alive at the same time oughtta do it. You got a fire gun, right?",Time=0)
+
+[vo_ep7_pt2_01a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The varkids won't make that screechin' noise unless you burn them.",Time=0)
+
+[vo_ep7_pt2_01b_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've got to set the varkids on fire to wake our man up.",Time=0)
+
+[vo_ep7_pt2_01c_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you don't set 'em on fire, the varkids won't screech our man out of his hangover.",Time=0)
+
+[vo_ep7_pt2_01d_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! You gotta find a fire weapon to get those varkids screeching.",Time=0)
+
+[vo_ep7_pt2_01e_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't forget - you gotta set the varkids on fire, or they won't screech our man out of bed.",Time=0)
+
+[vo_ep7_pt2_01f_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep goin - set a few more varkids on fire.",Time=0)
+
+[vo_ep7_pt2_01g_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good job burnin' those varkids, but you have to keep them on fire at the same time or the screeches won't be loud enough.",Time=0)
+
+[vo_ep7_pt2_01j_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There aren't enough bugs to burn now. You'll have to stir the varkid's nest - turn on those thumpers.",Time=0)
+
+[vo_ep7_pt2_01k_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good goin' - here they come!",Time=0)
+
+[vo_ep7_pt2_01l_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hoohoo - they sound angry. Get ready to start burnin' em!",Time=0)
+
+[vo_ep7_pt2_01m_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Turn on those thumpers to rile up some more Varkids.",Time=0)
+
+[vo_ep7_pt2_01n_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you don't have a fire weapon, Marcus might sell 'em.",Time=0)
+
+[vo_ep7_pt2_01o_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you still need a fire weapon, you might be able to buy one from a vending machine.",Time=0)
+
+[vo_ep7_pt2_01p_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey - I just found an old fire weapon I had lying around. Come back to my place and it's yours.",Time=0)
+
+[vo_ep7_pt2_01q_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now you should be able to burn some Varkids. Good hunting.",Time=0)
+
+[vo_ep7_pt2_01s_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I stashed a fire weapon in one of the snowmen, if you need it. Just shoot the snowman in the head and you'll get your gun.",Time=0)
+
+[vo_ep7_pt2_01t_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Those fire melons in the area oughtta help you burn those varkids. ",Time=0)
+
+[vo_ep7_pt2_01u_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="A friend of mine set up some fire traps - they could help you torch the varkids.",Time=0)
+
+[vo_ep7_pt2_02_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well done. Now set some more on fire before that one dies.",Time=0)
+
+[vo_ep7_pt2_03_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrrghh...SHUT UP ALREADY!",Time=0)
+
+[vo_ep7_pt2_04_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So loud, so angry...",Time=0)
+
+[vo_ep7_pt2_05_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...So dead.",Time=0)
+
+[vo_ep7_pt2_06_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Looks like Mordecai sent us a message.",Time=0)
+
+[vo_ep7_pt2_07_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Vault Hunter - welcome to the Crimson Raiders. Sorry you had to wake me up - I mighta celebrated a little too hard last night after Bloodwing and I raided a Hyperion convoy. Ain't that right, Blood?",Time=0)
+
+[vo_ep7_pt2_07a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch out for those tripwires, ese.",Time=0)
+
+[vo_ep7_pt2_07b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Careful - you gotta sneak up on that mine to disarm it. ",Time=0)
+
+[vo_ep7_pt2_08_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Without the Vault Key, Jack can't control the Warrior - you've gotta hijack that train, soldier. My old friend Tina can help; go talk to her.",Time=0)
+
+[vo_ep7_pt2_08a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland has the right idea. If you don't hijack that train, Sanctuary will fall.",Time=0)
+
+[vo_ep7_pt2_08b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ohhhohoho my God. Hahahahaha. Sorry, I was just watchin' you fight and the look on that last guy's face when you shot him - hahahaha - it was priceless. Ah - I like you, man.",Time=0)
+
+[vo_ep7_pt2_08c_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, amigo - I'm sending my bird Bloodwing down to help ya out. Go get 'em, Blood!",Time=0)
+
+[vo_ep7_pt2_08d_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's my girl!",Time=0)
+
+[vo_ep7_pt2_08e_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good kill, Blood!",Time=0)
+
+[vo_ep7_pt2_08f_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good girl!",Time=0)
+
+[vo_ep7_pt2_08g_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Someone's getting a treat!",Time=0)
+
+[vo_ep7_pt2_08h_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Give 'em hell, Bloodwing!",Time=0)
+
+[vo_ep7_pt2_09_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey - now that I'm up, I can help ya out. Just spot a target by settin' em on fire and I'll blast 'em.",Time=0)
+
+[vo_ep7_pt2_10_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Tina's a bombmaker and a friend of mine - I've saved her life a few times, and she's saved mine even more. She'll help you out, but here's a tip: don't make any sudden movements near her.",Time=0)
+
+[vo_ep7_pt2_12_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uhhh... did the ground just move? Am I still drunk?",Time=0)
+
+[vo_ep7_pt2_12a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is that Wilhelm?! Just stay alive, ese - I'll help you however I can!",Time=0)
+
+[vo_ep7_pt2_12b_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="How you like that, Wilhelm?!",Time=0)
+
+[vo_ep7_pt2_12c_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I stunned Wilhelm - get him!",Time=0)
+
+[vo_ep7_pt2_14_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hehehehe. Easy, girl. So, a Hyperion train is speedin' through the Tundra Express. If my intel's good, and it usually is, the Vault Key itself might be onboard. My advice? Do what I'd do - steal the Key. Get drunk. Pass out.",Time=0)
+
+[vo_ep7_pt3_01_live_psycho]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="RIP IT! TAINT IT! SUCK IT! PET IT!",Time=0)
+
+[vo_ep7_pt3_02_live_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="All around the Sta-actus plant, the stalker chased the bandit. The stalker thought 'twas all in fun - POP!",Time=0)
+
+[vo_ep7_pt3_03_live_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goes the bandit!",Time=0)
+
+[vo_ep7_pt3_03a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh haiiii!",Time=0)
+
+[vo_ep7_pt3_04_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland told me you were comin' - I still owe him for all that buttcrap with General Rancid. So, you gotta hijack a train, hunh? Chiiiilds play! Lemme introduce you to my ladies.",Time=0)
+
+[vo_ep7_pt3_04a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This here's Mushy Snugglebites, and this is Felicia Sexopants. These fiiiine-ass womens could stop that train for yas, but I'ma need their badonkadonks first, and they got stoled by the bandits a few days ago. Go get 'em! ",Time=0)
+
+[vo_ep7_pt3_04b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Naptime!",Time=0)
+
+[vo_ep7_pt3_04c_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stay out, sucka!",Time=0)
+
+[vo_ep7_pt3_04d_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dis MY house! Step off!",Time=0)
+
+[vo_ep7_pt3_04e_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on iiiii-iiiiin! You're missin' the fun!",Time=0)
+
+[vo_ep7_pt3_05_live_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They stole Mushy Snugglebites! Get 'em!",Time=0)
+
+[vo_ep7_pt3_05_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's Mushy Snugglebites's badonkadonk. She's my main squeeze. Lady's got a gut fulla' dynamite and a booty like POW.",Time=0)
+
+[vo_ep7_pt3_05a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You disarmed my proxy-boomer? Damn, girl. You got skillz to pay the billzzzzzzzzzz.",Time=0)
+
+[vo_ep7_pt3_05b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You disarmed ALL my mines? Why you gotta be like that, boo?",Time=0)
+
+[vo_ep7_pt3_05c_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahahaah! Burn all the babies!",Time=0)
+
+[vo_ep7_pt3_05d_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Why you usin' all my fuel, girl? I need that stuff to heat up my bath water. Mushy Snugglebites LOVES herself a warm bath, if-you-know-what-I'm-sayin-oh-I-know-you-do-that's-right-up-TOP.",Time=0)
+
+[vo_ep7_pt3_06_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Mushy Snugglebites is my main squeeze. She's got a gut full a dynamite and a booty like POW. Go get her twin sister and then it'll be a mother-slaggin' part-ay.",Time=0)
+
+[vo_ep7_pt3_06a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got the badonkadonks? Best day evaaaa. Bring 'em back here and I'll use 'em to make some fine-ass damsels who can hijack that train for yas.",Time=0)
+
+[vo_ep7_pt3_06b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Awesome! Just a secco. This gon' be good.",Time=0)
+
+[vo_ep7_pt3_06c_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Getcho butt outta my workshop, man. I gotsta be aloooone for this.",Time=0)
+
+[vo_ep7_pt3_06d_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You gonna get outta my workshop or am I gonna have to shank a bitch?",Time=0)
+
+[vo_ep7_pt3_06e_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get-outta-my-shop-or-I'll-punch-yo-butt. That's-how-Tiny-Tina-roll.",Time=0)
+
+[vo_ep7_pt3_07_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's right. Twin sisters, man. Hhhohhhhhh. Take 'em. Take 'em take 'em take 'em take 'em.",Time=0)
+
+[vo_ep7_pt3_07a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Just put my damsels near the choo-choo track and set 'em off! Good plan? Great plan! ",Time=0)
+
+[vo_ep7_pt3_07b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep7_pt3_07c_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep7_pt3_07d_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh daaaaayum, you lookin' good, ladies. Let's get to work.",Time=0)
+
+[vo_ep7_pt3_07e_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Put a little bomb in the hot-ass damsel, blow stuff up and make people die.",Time=0)
+
+[vo_ep7_pt3_07f_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Squishy. Squishy squishy squishy.",Time=0)
+
+[vo_ep7_pt3_07g_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm a little teapot, bloody and cut! Here is my handle, here is my butt.",Time=0)
+
+[vo_ep7_pt3_07h_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well, that's one way to hijack a train. The Vault Key's still up on that ice shelf. Better climb that wreckage to get there.",Time=0)
+
+[vo_ep7_pt3_07i_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You should be able to climb up that hanging train car.",Time=0)
+
+[vo_ep7_pt3_08_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Damn, Mushy Snugglebites. You lookin' FOIIIINE.",Time=0)
+
+[vo_ep7_pt3_10_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Boosh! Just poke their bellies when you want me to set the 'splosives off. I gotta do it remotely.",Time=0)
+
+[vo_ep7_pt3_10a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh snaps, son - I hear the train comin'!",Time=0)
+
+[vo_ep7_pt3_10b_live_mushysnugglebites]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ma-ma.",Time=0)
+
+[vo_ep7_pt3_10c_live_feliciasexopants]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I wuv you.",Time=0)
+
+[vo_ep7_pt3_10d_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Poke they bellies, man. Gotsta get dis STARTED.",Time=0)
+
+[vo_ep7_pt3_11_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Counting down! Ten! Nine!",Time=0)
+
+[vo_ep7_pt3_12_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I got bored.",Time=0)
+
+[vo_ep7_pt3_12a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Blast that train, Mushy!",Time=0)
+
+[vo_ep7_pt3_12b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sexopants, GO!",Time=0)
+
+[vo_ep7_pt3_13_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AAAAHAHAHAHAHAHAHAAH! SO ACE! SOOOOO ACE!",Time=0)
+
+[vo_ep7_pt3_14_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh...whoops.",Time=0)
+
+[vo_ep7_pt3_15_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You alright? Good. Search the train cars for the power core. You'll have to get on top of that busted pipe and climb up the underside of the train.",Time=0)
+
+[vo_ep7_pt3_15a_echo_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Climb the pipe to the train, or you'll go insane. Wut wut. That's a rap song I wrote.",Time=0)
+
+[vo_ep7_pt3_15b_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll have to climb that pipe to get to the train.",Time=0)
+
+[vo_ep7_pt3_16_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My bad. Still, that was AWWWESOME!",Time=0)
+
+[vo_ep7_pt3_17_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Test subjects from the Hyperion Preserve. I'm sorry - there's nothing you can do for them.",Time=0)
+
+[vo_ep7_pt3_18_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm suddenly sad and I don't know why!",Time=0)
+
+[vo_ep7_pt3_18a_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You fightin? Cool, cool. You can use my mines on that suckabutt if you wanna.",Time=0)
+
+[vo_ep7_pt3_18b_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You fightin? Cool, cool. You can use my rockets on that suckabutt if you wanna.",Time=0)
+
+[vo_ep7_pt3_19_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Search the train cars. They're probably keeping the Vault Key in the most fortified one.",Time=0)
+
+[vo_ep7_pt3_20_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can open that for you!",Time=0)
+
+[vo_ep7_pt3_21_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't worry - if Jack really wanted to protect the Vault Key, it wouldn't be on a train. He'd have Wilhelm guarding it.",Time=0)
+
+[vo_ep7_pt3_22_live_wilhelm]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is gonna hurt!",Time=0)
+
+[vo_ep7_pt3_23_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...Oh dear.",Time=0)
+
+[vo_ep7_pt3_23a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's a trap - the Vault Key's not on the train! Abort the mission, soldier - I'm sorry, but you can't handle Wilhelm, trust me!",Time=0)
+
+[vo_ep7_pt3_23b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland is wrong, Vault Hunter - you can defeat Wilhelm, I promise you!",Time=0)
+
+[vo_ep7_pt3_23c_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Kid, Wilhelm nearly killed us all in New Haven without taking a scratch - if things get bad, just run!",Time=0)
+
+[vo_ep7_pt3_23d_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You can defeat Wilhelm, I promise you!",Time=0)
+
+[vo_ep7_pt3_24_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You killed Wilhelm? Holy hell. Jack doesn't stand a chance.",Time=0)
+
+[vo_ep7_pt3_24a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wilhelm nearly defeated the other Vault Hunters a couple of years ago. You have proven yourself to be even stronger than them. Well done.",Time=0)
+
+[vo_ep7_pt3_24b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wilhelm dropped a power core. Be sure to grab it - my sensors tell me it is one-of-a-kind. If you bring it to Roland, Sanctuary's shields may never need to be recharged again.",Time=0)
+
+[vo_ep7_pt3_24c_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sorry about the bad intel, everybody. I really thought the Vault Key would be on that train. I'll make it up to you all later - next time I'm in Sanctuary, the beers are on me. Whatcha think, Bloodwing?",Time=0)
+
+[vo_ep7_pt3_25_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice job! Get that power core to Van Owen - he'll know what to do.",Time=0)
+
+[vo_ep7_pt3_26_echo_vanowen]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey. Whatcha got there?",Time=0)
+
+[vo_ep7_pt3_27_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wow. Bravo. Champagne. Cheers. High-five. Slow clap. You got the damn power core, didn't ya? You've been warned, the kid gloves are coming off. Tighten up the big-boy pants because things are gonna get really, really bad for you Vault Hunters.",Time=0)
+
+[vo_ep7_pt4_01_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="BOOM!",Time=0)
+
+[vo_ep7_pt4_02_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Take THAT!",Time=0)
+
+[vo_ep7_pt4_03_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Gotcha, pendejo!",Time=0)
+
+[vo_ep7_pt4_04_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Did that hurt?! He-heh.",Time=0)
+
+[vo_ep7_pt4_05_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Another trophy for my wall!",Time=0)
+
+[vo_ep7_pt4_06_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You like that?!",Time=0)
+
+[vo_ep7_pt4_07_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Feel it!",Time=0)
+
+[vo_ep7_pt4_08_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I still got it!",Time=0)
+
+[vo_ep7_pt4_09_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm an even better shot when I'm drunk!",Time=0)
+
+[vo_ep7_pt4_10_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Adios!",Time=0)
+
+[vo_ep7_pt4_11_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's how ya do it!",Time=0)
+
+[vo_ep7_pt4_12_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="HA!",Time=0)
+
+[vo_ep7_pt4_13_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Am I good, or am I good?",Time=0)
+
+[vo_ep7_pt4_14_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thank you, thank you.",Time=0)
+
+[vo_ep7_pt4_15_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I got him!",Time=0)
+
+[vo_ep7_pt4_16_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Taking the shot!",Time=0)
+
+[vo_ep7_pt4_17_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll take him out!",Time=0)
+
+[vo_ep7_pt4_18_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter! NO!",Time=0)
+
+[vo_ep7_pt4_19_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch out, amigo!",Time=0)
+
+[vo_ep7_pt4_20_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Be careful!",Time=0)
+
+[vo_ep7_pt4_21_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You alright?",Time=0)
+
+[vo_ep7_pt4_22_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get behind something!",Time=0)
+
+[vo_ep7_pt4_23_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No! Get up!",Time=0)
+
+[vo_ep7_pt4_24_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Another notch on my rifle.",Time=0)
+
+[vo_ep7_pt4_25_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Not bad. Not bad.",Time=0)
+
+[vo_ep7_pt4_26_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I don't think he liked me!",Time=0)
+
+[vo_ep7_pt4_27_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nothing like a challenging kill.",Time=0)
+
+[vo_ep7_pt4_28_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="How you holding up?",Time=0)
+
+[vo_ep7_pt4_29_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Corporal Reiss is dead, the Bloodshots broke two of my ribs, and if we don't find a new power core, Sanctuary's shield will be down within days.",Time=0)
+
+[vo_ep7_pt4_30_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So... better than usual?",Time=0)
+
+[vo_ep7_pt4_31_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, it's been a good week. What do you think about the new Vault Hunter?",Time=0)
+
+[vo_ep7_pt4_32_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Far as I can tell? Just what the Raiders need - strong, well-armed, way better looking than most Vault Hunters--",Time=0)
+
+[vo_ep7_pt4_33_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="... I'm trying not to be offended.",Time=0)
+
+[vo_ep7_pt4_34_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, grow a pair. You're the one who left.",Time=0)
+
+[vo_ep7_pt4_35_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Anything else you noticed about the Vault Hunter?",Time=0)
+
+[vo_ep7_pt4_36_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh, just that they're eavesdropping on us. Right now. Hi, Vault Hunter.",Time=0)
+
+[vo_ep7_pt4_37_live_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Runnin' runnin' runnin', I'm runnin' over here. Run-run-run-run run.",Time=0)
+
+[vo_ep7_pt4_38_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I know Tina can be...odd, but she's the most gifted demolitions expert on Pandora. Just do what she asks, and I guarantee she'll help you hijack the train and get the Vault Key.",Time=0)
+
+[vo_ep7_pt4_39_live_mushysnugglebites]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I love you so much you will DIE.",Time=0)
+
+[vo_ep7_pt4_40_live_feliciasexopants]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You smell like a beautiful corpse!",Time=0)
+
+[vo_ep7_pt4_41_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Woah - never seen a power core like that. The one you got from Reiss has nearly burnt out - why don't you bring that one back here? We may not have found the Vault Key, but at least Sanctuary will be safe a little longer thanks to you.",Time=0)
+
+[vo_ep7_pt4_42_echox_ltdavis]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="A new power core? Woah - that looks like it could keep our shields up for months - years, even!",Time=0)
+
+[vo_ep7_pt4_43_echox_tinytina]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's right, bitches - my big brudder's about to teach you some MANNERS. Nobody steals Mushy Snugglebites' badonkadonk and lives!",Time=0)
+
+[vo_ep7_pt4_43a_echox_boomingvoicebandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="WHO THE HELL IS MUSHY SNUGGLEBITES?!",Time=0)
+

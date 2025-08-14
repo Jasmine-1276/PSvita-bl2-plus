@@ -1,0 +1,720 @@
+[vo_ep11_pt1_01_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Take this note to Thousand Cuts.",Time=0)
+
+[vo_ep11_pt1_02_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're going to deliver that note to a bandit leader known as the Slab King. He used to be part of the Crimson Raiders, until his methods got too brutal. I didn't think ripping Hyperion officials limb from limb in front of their loved ones was an effective way to get intel. He disagreed. Still, he owes me a favor, and he can help us get past the bunker outside Control Core Angel.",Time=0)
+
+[vo_ep11_pt1_02a_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Thousand Cuts is west of the Highlands - if you're looking for the Slab King, that's where he'll be. Be careful, though - he kinda... lost it after Hyperion killed his dog.",Time=0)
+
+[vo_ep11_pt1_03_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Control Core Angel is at the top of that mountain - that's where the Vault Key's being held. The Slab King is up on the other cliff. He can help us get past the bunker outside the control core. Hopefully.",Time=0)
+
+[vo_ep11_pt1_03a_echox_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Intruder! We got an intruder!",Time=0)
+
+[vo_ep11_pt1_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Intruder, huh? Sounds like Hyperion sent another assassin! Alrights, boys: fight like badasses, or die like bitches!",Time=0)
+
+[vo_ep11_pt1_05_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'll have to fight through the slabs to reach the King - be careful.",Time=0)
+
+[vo_ep11_pt1_06_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I tried to keep to myself, but nooo! You Hyperion bastards HAD to come after me - you just HAD to kill Dusty! You wanna treat me like a bandit, that's EXACTLY what I'm gonna be!",Time=0)
+
+[vo_ep11_pt1_06a_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You made it to my throne room, recruit - but now it's time for the real initiation! Slabs! RIP 'EM UUUUP!",Time=0)
+
+[vo_ep11_pt1_07_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dusty... was just a puppy - almost as nice as my first dog! You let your boss know I'm gonna do to him exactly what he did to her. 'cept slower. You --",Time=0)
+
+[vo_ep11_pt1_07a_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Now that you're warmed up, let's get SERIOUS! NEXT!",Time=0)
+
+[vo_ep11_pt1_08_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The pain's a-coming! Get ready, recruit!",Time=0)
+
+[vo_ep11_pt1_08a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, yeah. The Slab King won't talk to you unless you join his gang. Just survive whatever initiation he's got planned for you, then give him that note.",Time=0)
+
+[vo_ep11_pt1_09_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What do you MEAN they ain't from Hyperion? Ohhhh -- must be a new recruit! Alright, boys, let's put 'em through the ringer!",Time=0)
+
+[vo_ep11_pt1_10_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice shot!",Time=0)
+
+[vo_ep11_pt1_11_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you Slabs can't wreck some random recruit, how the hell are you gonna hurt Jack? By cramping his trigger finger?",Time=0)
+
+[vo_ep11_pt1_12_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ohhhohohohohoh!",Time=0)
+
+[vo_ep11_pt1_13_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The recruit's in the buzzard factory! Hell, I hope he kills the rest of you worthless slabs!",Time=0)
+
+[vo_ep11_pt1_14_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That was disgusting -- I love it!",Time=0)
+
+[vo_ep11_pt1_15_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I hated that guy anyway!",Time=0)
+
+[vo_ep11_pt1_16_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You slabs are pathetic!",Time=0)
+
+[vo_ep11_pt1_17_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I haven't seen moves like that in years!",Time=0)
+
+[vo_ep11_pt1_18_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The recruit's makin' you look like idiots! Slabs, go get 'em!",Time=0)
+
+[vo_ep11_pt1_19_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You slabs suck!",Time=0)
+
+[vo_ep11_pt1_20_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You call yourselves badasses?! The Vault Hunter's wipin' the floor with ya!",Time=0)
+
+[vo_ep11_pt1_21_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Cover is for wusses -- get your ass up and fight!",Time=0)
+
+[vo_ep11_pt1_22_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Did you see that guy's face melt?! AHAHAH!",Time=0)
+
+[vo_ep11_pt1_23_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice second wind! Almost counted you out for a second!",Time=0)
+
+[vo_ep11_pt1_24_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahaha -- you slabs thought you had 'em, didn't ya?!",Time=0)
+
+[vo_ep11_pt1_25_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh oh -- Goliath on the loose!",Time=0)
+
+[vo_ep11_pt1_26_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Better kill that Goliath quick -- he's powering up!",Time=0)
+
+[vo_ep11_pt1_27_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hand to hand, just how I like it!",Time=0)
+
+[vo_ep11_pt1_28_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You idiots always wanted to fight another Vault Hunter -- well, now's your chance!",Time=0)
+
+[vo_ep11_pt1_29_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I love a good elemental kill!",Time=0)
+
+[vo_ep11_pt2_01_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You killed some of my best men just to get to me. I only got one thing to say to you.",Time=0)
+
+[vo_ep11_pt2_02_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That...",Time=0)
+
+[vo_ep11_pt2_03_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Was...",Time=0)
+
+[vo_ep11_pt2_04_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...AWESOME!",Time=0)
+
+[vo_ep11_pt2_04a_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That was AWESOME!",Time=0)
+
+[vo_ep11_pt2_04b_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You are the biggest badass of all TIME! And you survived initiation -- I'm proud to call you a Slab.",Time=0)
+
+[vo_ep11_pt2_05_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, whatcha want?",Time=0)
+
+[vo_ep11_pt3_01_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Heh. I was wondering when Roland'd call in that favor. So -- the bunker. Now that you're one of us, my buzzards could help you take her down. Go tell Roland I'm in.",Time=0)
+
+[vo_ep11_pt3_01a_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, and just so you know? My slabs'll probly still try to kill ya, cause they're friggin' idiots. Don't feel bad about killin' em. I never do.",Time=0)
+
+[vo_ep11_pt3_02_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the -- Hyperion assault! Look out!",Time=0)
+
+[vo_ep11_pt3_02a_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="God dammit, I am so SICK of these earthquakes! If I could punch this planet in the face, I would!",Time=0)
+
+[vo_ep11_pt3_03_echox_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You met up with Brick, huh? Ah, I'll never forget the way he squealed when I let my girlfriend strangle his dog. Ahhh. Good memory.",Time=0)
+
+[vo_ep11_pt3_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aw, crap! Slab, we gotta stop those mortars or there won't be nobody left to help you with the bunker!",Time=0)
+
+[vo_ep11_pt3_05_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So. You're one of Brick's ''Slabs'' now, huh? Least you're finally admitting what you really are -- a bandit.",Time=0)
+
+[vo_ep11_pt3_06_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I told you to back off, bandit. Angel, double power to the defenses.",Time=0)
+
+[vo_ep11_pt3_07_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, sir.",Time=0)
+
+[vo_ep11_pt3_08_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's enough; you did good! Get back here!",Time=0)
+
+[vo_ep11_pt3_09_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You'd better run, Goddamnit. Run, bandit, run!",Time=0)
+
+[vo_ep11_pt3_10_echo_bandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, GREAT job. We're all sooooo proud that you managed to kill off our friends and brothers. You're just sooo cool. This is totally not sarcasm.",Time=0)
+
+[vo_ep11_pt3_11_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Wow. You ARE a true Slab!",Time=0)
+
+[vo_ep11_pt3_12_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm proud to call you a Slab. When the time comes to take out that bunker, my buzzards'll be there.",Time=0)
+
+[vo_ep11_pt3_13_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great job -- with Brick's crew on our side, we should have an easier time getting past the bunker protecting Angel. Come on back and we'll see about getting through that door that'll only open for Jack.",Time=0)
+
+[vo_ep11_pt4_01_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Follow me! Jack must've dropped some beacons to guide the mortars! If we don't destroy the beacons, we're dead!",Time=0)
+
+[vo_ep11_pt4_02_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Tell Jack I'm comin' for him next!",Time=0)
+
+[vo_ep11_pt4_03_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Feel the wrath of the Slab King!",Time=0)
+
+[vo_ep11_pt4_04_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's for Dusty!",Time=0)
+
+[vo_ep11_pt4_05_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eat fist, you Hyperion rakksucks!",Time=0)
+
+[vo_ep11_pt4_06_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Pandora's OUR planet!",Time=0)
+
+[vo_ep11_pt4_07_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hyperion's gotta DIE!",Time=0)
+
+[vo_ep11_pt4_08_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You alright, slab?",Time=0)
+
+[vo_ep11_pt4_09_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Careful, slab!",Time=0)
+
+[vo_ep11_pt4_10_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="SLAB!",Time=0)
+
+[vo_ep11_pt4_11_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch out, slab!",Time=0)
+
+[vo_ep11_pt4_12_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="NO! YOU SONS O' BITCHES!",Time=0)
+
+[vo_ep11_pt4_13_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nice kill!",Time=0)
+
+[vo_ep11_pt4_14_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You show 'em, slab!",Time=0)
+
+[vo_ep11_pt4_15_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahahaha -- that's my slab!",Time=0)
+
+[vo_ep11_pt4_16_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Gah!",Time=0)
+
+[vo_ep11_pt4_19_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah!",Time=0)
+
+[vo_ep11_pt4_22_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="KILL!",Time=0)
+
+[vo_ep11_pt4_25_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Crushed!",Time=0)
+
+[vo_ep11_pt4_26_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Beatdown!",Time=0)
+
+[vo_ep11_pt4_27_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dumbass.",Time=0)
+
+[vo_ep11_pt4_28_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Smashed!",Time=0)
+
+[vo_ep11_pt4_29_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Gimme something else to kill!",Time=0)
+
+[vo_ep11_pt4_30_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Damn, I'm good!",Time=0)
+
+[vo_ep11_pt4_31_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That must have hurt!",Time=0)
+
+[vo_ep11_pt4_32_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ooohhh, yeah!",Time=0)
+
+[vo_ep11_pt4_33_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah!",Time=0)
+
+[vo_ep11_pt4_34_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Feel it!",Time=0)
+
+[vo_ep11_pt4_35_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Show me some blood!",Time=0)
+
+[vo_ep11_pt4_36_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lemme get the door for ya.",Time=0)
+
+[vo_ep11_pt4_37_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So, the Vault Hunter met the slabs -- what a lovely opportunity to kill two bandits with one mortar assault!",Time=0)
+
+[vo_ep11_pt4_38_echo_slab]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="King, he's usin' mortars again! He's using mortars--",Time=0)
+
+[vo_ep11_pt4_41_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch out for the mortars, slab!",Time=0)
+
+[vo_ep11_pt4_42_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stay outta the target circles!",Time=0)
+
+[vo_ep11_pt4_43_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Avoid those mortars, slab!",Time=0)
+
+[vo_ep11_pt4_44_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shootin' won't do any good until I punch the shield down!",Time=0)
+
+[vo_ep11_pt4_45_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I gotta take the beacon's shield down first, slab!",Time=0)
+
+[vo_ep11_pt4_46_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't shoot the beacons 'til I bust the shields!",Time=0)
+
+[vo_ep11_pt4_47_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No, not yet, slab! I gotta bust the beacon's shields first!",Time=0)
+
+[vo_ep11_pt4_48_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_49_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_50_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_51_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm goin' for the shield!",Time=0)
+
+[vo_ep11_pt4_52_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm gonna bust that shield!",Time=0)
+
+[vo_ep11_pt4_53_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm breakin' the shield on that beacon!",Time=0)
+
+[vo_ep11_pt4_54_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_55_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_56_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_57_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_58_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_59_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep11_pt4_60_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shield's down, slab -- attack the beacon!",Time=0)
+
+[vo_ep11_pt4_61_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I busted the shield -- help me kill the beacon!",Time=0)
+
+[vo_ep11_pt4_62_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I broke the beacon's shield! Attack it, slab!",Time=0)
+
+[vo_ep11_pt4_63_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get back here, slab! I need your help!",Time=0)
+
+[vo_ep11_pt4_64_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Where you goin, slab?! We gotta bust those beacons!",Time=0)
+
+[vo_ep11_pt4_65_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come back, slab!",Time=0)
+
+[vo_ep11_pt4_66_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! Nobody destroys my beacons - here come the bots, bandit!",Time=0)
+
+[vo_ep11_pt4_67_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Goddammit, bots - get 'em away from the beacons!",Time=0)
+
+[vo_ep11_pt4_68_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Come on, how hard is it to wipe out one Vault Hunter and a walking slab of meat? GET 'EM!",Time=0)
+
+[vo_ep11_pt4_69_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's one beacon down! Let's move!",Time=0)
+
+[vo_ep11_pt4_70_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I see another beacon - let's rip it up!",Time=0)
+
+[vo_ep11_pt4_71_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well... that was fun! Badass job today, slab. I'll meet ya back in Sanctuary.",Time=0)
+
+[vo_ep11_pt4_72_echo_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Targeting beacons initialized. Beginning mortar bombardment.",Time=0)
+
+[vo_ep11_pt4_73_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We gotta destroy those targeting beacons - they're guiding the mortars!",Time=0)
+
+[vo_ep11_pt4_74_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="People of Pandora - the jackass Vault Hunter has joined the Slab bandit clan, and that can only mean one thing - it's triple bounty week for all Slabs! I want scalps, people, and I want 'em now!",Time=0)
+
+[vo_ep11_pt4_75_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Great job - with Brick's crew on our side, we should have an easier time getting past the bunker protecting Angel and the Vault Key. Come on back and we'll see about getting through that door that can only open for Jack.",Time=0)
+
+[vo_ep11_pt4_76_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Damnit - the beacon's got a reflector shield! Lemme punch it down!",Time=0)
+
+[vo_ep11_pt4_77_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This way, slab!",Time=0)
+
+[vo_ep11_pt4_78_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slab, we gotta move!",Time=0)
+
+[vo_ep11_pt4_79_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm up here!",Time=0)
+
+[vo_ep11_pt4_80_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need your help!",Time=0)
+
+[vo_ep11_pt4_81_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Over here, slab!",Time=0)
+
+[vo_ep11_pt4_82_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep up, slab!",Time=0)
+
+[vo_ep11_pt4_83_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Let's go!",Time=0)
+
+[vo_ep11_pt4_84_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're with me, slab!",Time=0)
+
+[vo_ep11_pt4_85_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We gotta go!",Time=0)
+
+[vo_ep11_pt5_01_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland.",Time=0)
+
+[vo_ep11_pt5_02_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Brick.",Time=0)
+
+[vo_ep11_pt5_03_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Never thought I'd be back here. Last time we talked, you didn't sound too eager to see me again.",Time=0)
+
+[vo_ep11_pt5_04_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Times changed. We need all the help we can get.",Time=0)
+
+[vo_ep11_pt5_05_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Even from a bloodthirsty psychopath?",Time=0)
+
+[vo_ep11_pt5_06_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Who called you that? Jack?",Time=0)
+
+[vo_ep11_pt5_07_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Nope. You did, three years ago.",Time=0)
+
+[vo_ep11_pt5_08_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh. Sorry. It's good to have you back, Brick.",Time=0)
+
+[vo_ep11_pt5_09_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good to be back.",Time=0)
+
+[vo_ep11_pt5_10_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaand: kiss each other.",Time=0)
+
+[vo_ep11_pt5_11_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hehe. Seriously.",Time=0)
+

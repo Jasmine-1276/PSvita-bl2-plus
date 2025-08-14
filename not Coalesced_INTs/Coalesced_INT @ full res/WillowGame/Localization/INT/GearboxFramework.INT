@@ -1,0 +1,9 @@
+[GearboxPawn]
+MenuName=
+
+[GearboxPlayerController]
+NoPauseMessage=Game is not pauseable
+OwnCamera=Now viewing from own camera
+QuickSaveString=Quick Saving
+ViewingFrom=Now viewing from
+

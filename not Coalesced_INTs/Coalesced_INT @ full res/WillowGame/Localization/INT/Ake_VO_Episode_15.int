@@ -1,0 +1,235 @@
+[vo_ep15_pt1_01_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter... you're all we got left. Jack killed Roland. He killed Bloodwing. But he is not gonna kill Lilith. Jack still needs time to charge the Vault Key -- you just need to find out where this warrior is buried. There's only one place on Pandora that'd have that kinda info: the Hyperion Info Stockade. Get there.",Time=0)
+
+[vo_ep15_pt1_01a_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That highway leads to the Info Stockade. We get in there, we find out where the Warrior is.",Time=0)
+
+[vo_ep15_pt1_01b_echo_hyperionfemale]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Intruders detected. Locking path to Info Stockade.",Time=0)
+
+[vo_ep15_pt1_01d_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dammit! Jack doesn't want us getting close to him. Brick, you got a plan to get to the Stockade?",Time=0)
+
+[vo_ep15_pt1_01e_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Blow stuff up, that's my plan. Vault Hunter: get to Sawtooth Cauldron.",Time=0)
+
+[vo_ep15_pt1_01f_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Welcome to the Eridium Blight. Before Hyperion, this place was...well, still a craphole, but it wasn't THIS bad.",Time=0)
+
+[vo_ep15_pt1_02a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack's making me charge the Vault Key. So here's what happens next. You find me. You kill Jack. And if you can't stop me from waking  the Warrior? You put a bullet in my head.",Time=0)
+
+[vo_ep15_pt1_03_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My boys can blast open the path to the info Stockade, but they'll need some better firepower. You're gonna steal some explosives for 'em.",Time=0)
+
+[vo_ep15_pt1_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, the bandits livin' in the Cauldron are old rivals of the Slabs, so don't feel bad. We're just gonna steal their stuff and kill most of 'em.",Time=0)
+
+[vo_ep15_pt1_04a_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="To get to where Sawtooth bandits are keepin' the bombs, you gotta go through Guano Grotto. You'll have to push through a buttload of Sawteeth, but hell -- wouldn't be any fun otherwise, right?",Time=0)
+
+[vo_ep15_pt1_04b_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, this takes me back. Last time I was here, I had Tiny Tina ridin' piggyback, throwin' grenades at the Sawteeth while I punched 'em into red mist. The looks on their faces -- ahahahahah! Ohh, I have killed a lot of people.",Time=0)
+
+[vo_ep15_pt2_01_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You've gotta steal some Y-94 Odomo charges if you wanna get into the info stockade and find the Warrior. Take the elevator to get to where they store 'em.",Time=0)
+
+[vo_ep15_pt2_02_echox_mortar]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aww, look, everybody! It's a witty-bitty Slab tryin' ta use our elevator! GET 'EM!",Time=0)
+
+[vo_ep15_pt2_03_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hrm -- looks like the elevator's not moving. You gotta piss Mortar off so he'll take the elevator down...the Boombringer! Mortar's prized buzzard -- go find it.",Time=0)
+
+[vo_ep15_pt2_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Blast Boombringer to bits. Mortar won't be happy to see his buzzard go up in smoke, so he'll take the elevator down to fight ya. ",Time=0)
+
+[vo_ep15_pt2_05_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, and after you blast Boombringer, don't look at the explosion -- just walk away from it. You'll look like such a badass.",Time=0)
+
+[vo_ep15_pt2_06_echox_mortar]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Boombringer! NO! That's it, slab -- I'm comin' down there and YOU are find out what it's like to eat your own throat!",Time=0)
+
+[vo_ep15_pt2_06a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="When it comes down to it, you'll have to kill Jack yourself. Brick and Mordecai need to protect Sanctuary if Jack gains control over the Warrior. But so long as either of us have a bullet in our guns, that's not gonna happen.",Time=0)
+
+[vo_ep15_pt2_07_echox_mortar]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That slab just blew up my buzzard without even lookin' at the explosion! But I -- I ain't scared -- I'm comin' down and YOU'RE GONNA DIE!",Time=0)
+
+[vo_ep15_pt2_08_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sounds like you can take the elevator now. Feel free to kill Mortar on your way up.",Time=0)
+
+[vo_ep15_pt2_09_echo_mortar]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I want that slab's head in my digestive tract!",Time=0)
+
+[vo_ep15_pt2_10_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ahh. You really are the best slab ever.",Time=0)
+
+[vo_ep15_pt3_01_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My boys are gonna come in and steal the explosives, but the skies gotta be clear first. Take out those buzzards.",Time=0)
+
+[vo_ep15_pt3_02_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Man, why don't these guys just give up? You already killed their boss! Idiots.",Time=0)
+
+[vo_ep15_pt3_03_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Cool. Now mark those crates for pickup and my boys'll come get 'em. They'll need those charges to blast open the path to the Info Stockade.",Time=0)
+
+[vo_ep15_pt3_03a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="[Imitating Roland] Hey, buddy! It's me, Roland! Let's kill Handsome Jack and then we'll ALL go out for milkshakes!",Time=0)
+
+[vo_ep15_pt3_03b_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Naw, I'm just playing. He's still really dead. Grabbed his ECHO unit when I left. Just wanted to tell you that Lilith is doing a bang-up job charging the Vault Key for me. The Warrior will be awake in no time.",Time=0)
+
+[vo_ep15_pt3_03c_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're not going anywhere, bandit.",Time=0)
+
+[vo_ep15_pt3_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My boys are comin' in!",Time=0)
+
+[vo_ep15_pt3_05_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got some slabs headin' in for pickup!",Time=0)
+
+[vo_ep15_pt3_06_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch your head! Slabs comin' in!",Time=0)
+
+[vo_ep15_pt3_07_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My boys are goin' in!",Time=0)
+
+[vo_ep15_pt3_07a_live_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Haha! This'll make a big boom!",Time=0)
+
+[vo_ep15_pt3_07b_live_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good goin', slab! Kill ya later!",Time=0)
+
+[vo_ep15_pt3_07c_live_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slabs rule! ",Time=0)
+
+[vo_ep15_pt3_07d_live_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Suck it, Sawteeth!",Time=0)
+
+[vo_ep15_pt3_08_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Grab the crates holdin' the charges -- they're the only kind of explosive that can burn through the defenses at the Info Stockade.",Time=0)
+
+[vo_ep15_pt3_08a_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Well done! Just jump off the east end of the tower if you wanna get back to the fast-travel station in the quickest and badassest way possible.",Time=0)
+
+[vo_ep15_pt3_09_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Badass job, Slab! You remind me of me, back in the old days.  With those Odomo charges,my boys'll help you break into the Info Stockade and find out where Jack's got Lilith and the Warrior. I'll let Mordecai know you're headed back to Sanctuary.",Time=0)
+
+[vo_ep15_pt3_10_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good luck, slab. Mordecai'll help you get into the Info Stockade.",Time=0)
+
+[vo_ep15_pt4_01_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="People of Pandora...my daughter is...dead. Murdered. By the Vault Hunter. So I've decided -- I'm rescinding the bounty on the Vault Hunter. If you should kill that child-murdering sonofabitch before I do? I will find you. And you will regret denying me my vengeance.",Time=0)
+
+[vo_ep15_pt4_02_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My Slabs have been fightin' the Sawteeth for years. These bastards handed dozens of Vault Hunters to Jack once the pay got good enough. You kill 'em all, Vault Hunter. And you smile while you do it.",Time=0)
+
+[vo_ep15_pt4_03_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="There's nothin Mortar loves more than his buzzard, Boombringer. If you destroy it, he'll be so pissed he'll have to ride the elevator down to take revenge on ya. ",Time=0)
+
+[vo_ep15_pt4_04_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I wanna be clear about something. This isn't about Pandora anymore. It's about you...and me. I can never replace what you took from me. But murdering your Vault Hunter pals? Destroying that flying city? Hell -- that's a start.",Time=0)
+
+[vo_ep15_pt4_05_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do me a favor. You think about how all of Roland's training, all his experience counted for nothing once he met me. And ask yourself, if I could kill the wise leader of the Crimson Raiders without breaking a sweat, how hard will it be to kill a psychotic bandit king and a drunken frickin' sniper?",Time=0)
+
+[vo_ep15_pt4_06_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Unghhh...I can feel this thing around my neck sapping me dry. Promise me -- so long as there's a bullet left in your gun, promise me you'll make Jack pay!",Time=0)
+
+[vo_ep15_pt4_07_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slab, did you -- did you just jump off The Buzzard's Nest? ...God DAMN you make me proud!",Time=0)
+

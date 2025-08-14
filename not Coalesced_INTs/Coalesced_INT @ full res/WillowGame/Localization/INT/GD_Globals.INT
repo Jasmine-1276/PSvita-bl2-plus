@@ -1,0 +1,22 @@
+[General.Globals GlobalsDefinition]
+DamageDisplayParticleResistParamName=SpawnResist
+AttributePresentationTranslation=$NUMBER$ $CONSTRAINT$ $DESCRIPTION$
+
+[VehicleSpawnStation.VehicleFamily_BanditTechnical VehicleFamilyDefinition]
+FamilyName=Bandit Technical
+
+[VehicleSpawnStation.VehicleFamily_Runner VehicleFamilyDefinition]
+FamilyName=Light Runner
+
+[VehicleSpawnStation.VSSUI_CatapultTechnical VSSUIDefinition]
+VehicleName=Catapult Technical
+
+[VehicleSpawnStation.VSSUI_MGRunner VSSUIDefinition]
+VehicleName=Light Runner MG
+
+[VehicleSpawnStation.VSSUI_RocketRunner VSSUIDefinition]
+VehicleName=Light Runner Rocket Launcher
+
+[VehicleSpawnStation.VSSUI_SawBladeTechnical VSSUIDefinition]
+VehicleName=Sawblade Technical
+

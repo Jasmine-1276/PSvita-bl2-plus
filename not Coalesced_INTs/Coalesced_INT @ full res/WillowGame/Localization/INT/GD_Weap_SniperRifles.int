@@ -1,0 +1,459 @@
+[A_Weapons.WeaponType_Dahl_Sniper WeaponTypeDefinition]
+Typename=Sniper Rifle
+PickupMessage=You got %s
+UseFailureLevelMessage=You must be at least level %d to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+NoManufacturerName=Generic
+
+[A_Weapons.WeaponType_Hyperion_Sniper WeaponTypeDefinition]
+Typename=Sniper Rifle
+PickupMessage=You got %s
+UseFailureLevelMessage=You must be at least level %d to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+NoManufacturerName=Generic
+
+[A_Weapons.WeaponType_Hyperion_Sniper:AttributePresentationDefinition_2 AttributePresentationDefinition]
+Description=
+NoConstraintText=Firing increases accuracy
+Suffix=
+Prefix=
+
+[A_Weapons.WeaponType_Jakobs_Sniper WeaponTypeDefinition]
+Typename=Sniper Rifle
+PickupMessage=You got %s
+UseFailureLevelMessage=You must be at least level %d to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+NoManufacturerName=Generic
+
+[A_Weapons.WeaponType_Maliwan_Sniper WeaponTypeDefinition]
+Typename=Sniper Rifle
+PickupMessage=You got %s
+UseFailureLevelMessage=You must be at least level %d to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+NoManufacturerName=Generic
+
+[A_Weapons.WeaponType_Maliwan_Sniper:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description=
+NoConstraintText=Deals bonus elemental damage
+Suffix=
+Prefix=
+
+[A_Weapons.WeaponType_Vladof_Sniper WeaponTypeDefinition]
+Typename=Sniper Rifle
+PickupMessage=You got %s
+UseFailureLevelMessage=You must be at least level %d to use this item.
+UseFailureConstraintsMessage=You cannot use this item.
+NoManufacturerName=Generic
+
+[Name.Prefix.Prefix__Gearbox WeaponNamePartDefinition]
+PartName=Gearbox
+
+[Name.Prefix.Prefix__MissMoxxis WeaponNamePartDefinition]
+PartName=Miss Moxxi's
+
+[Name.Prefix.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Corrosive
+
+[Name.Prefix.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Incendiary
+
+[Name.Prefix.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Shock
+
+[Name.Prefix.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Slag
+
+[Name.Prefix_Bandit.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Stabtastik
+
+[Name.Prefix_Bandit.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Chiken's
+
+[Name.Prefix_Bandit.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Hedbuster
+
+[Name.Prefix_Bandit.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Gooper
+
+[Name.Prefix_Bandit.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Burnifeir
+
+[Name.Prefix_Bandit.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Shooking
+
+[Name.Prefix_Bandit.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Slaaaaaagg
+
+[Name.Prefix_Bandit.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Likwid
+
+[Name.Prefix_Bandit.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Xtra more bulits
+
+[Name.Prefix_Bandit.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=fastifide
+
+[Name.Prefix_Bandit.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=wham bang
+
+[Name.Prefix_Dahl.Prefix__BurstFire WeaponNamePartDefinition]
+PartName=Burst Fire
+
+[Name.Prefix_Dahl.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Cartel
+
+[Name.Prefix_Dahl.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Surgical
+
+[Name.Prefix_Dahl.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Night
+
+[Name.Prefix_Dahl.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Nerve
+
+[Name.Prefix_Dahl.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Phospher
+
+[Name.Prefix_Dahl.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Shock
+
+[Name.Prefix_Dahl.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Slag
+
+[Name.Prefix_Dahl.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Liquid
+
+[Name.Prefix_Dahl.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Operational
+
+[Name.Prefix_Dahl.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=Suppressive
+
+[Name.Prefix_Dahl.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=Pacifying
+
+[Name.Prefix_Hyperion.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Contingent
+
+[Name.Prefix_Hyperion.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Longitudinal
+
+[Name.Prefix_Hyperion.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Venture
+
+[Name.Prefix_Hyperion.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Residual
+
+[Name.Prefix_Hyperion.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Thermogenic
+
+[Name.Prefix_Hyperion.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Energy
+
+[Name.Prefix_Hyperion.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Diffusion
+
+[Name.Prefix_Hyperion.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Cohesion
+
+[Name.Prefix_Hyperion.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Resource
+
+[Name.Prefix_Hyperion.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=Operational
+
+[Name.Prefix_Hyperion.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=Auditing
+
+[Name.Prefix_Jakobs.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Tl'kope
+
+[Name.Prefix_Jakobs.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Siah-siah
+
+[Name.Prefix_Jakobs.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Tumtum
+
+[Name.Prefix_Jakobs.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Chikamin
+
+[Name.Prefix_Jakobs.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Hyiu
+
+[Name.Prefix_Jakobs.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=Klook
+
+[Name.Prefix_Jakobs.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=Skookum
+
+[Name.Prefix_Maliwan.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Sublime
+
+[Name.Prefix_Maliwan.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Dandy
+
+[Name.Prefix_Maliwan.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Gentleman's
+
+[Name.Prefix_Maliwan.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Bumblebroth
+
+[Name.Prefix_Maliwan.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Scarlet
+
+[Name.Prefix_Maliwan.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Zooks
+
+[Name.Prefix_Maliwan.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Deuced
+
+[Name.Prefix_Maliwan.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Fashionable
+
+[Name.Prefix_Maliwan.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Monstrous
+
+[Name.Prefix_Maliwan.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=Banbury
+
+[Name.Prefix_Maliwan.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=Barking
+
+[Name.Prefix_Vladof.Prefix_Bayonet1 WeaponNamePartDefinition]
+PartName=Britva
+
+[Name.Prefix_Vladof.Prefix_Bipod1_Accuracy WeaponNamePartDefinition]
+PartName=Zammechat
+
+[Name.Prefix_Vladof.Prefix_Bipod2_Critical WeaponNamePartDefinition]
+PartName=Razrez
+
+[Name.Prefix_Vladof.Prefix_Elemental_Corrosive WeaponNamePartDefinition]
+PartName=Splodge
+
+[Name.Prefix_Vladof.Prefix_Elemental_Incendiary WeaponNamePartDefinition]
+PartName=Phospher
+
+[Name.Prefix_Vladof.Prefix_Elemental_Shock WeaponNamePartDefinition]
+PartName=Strack
+
+[Name.Prefix_Vladof.Prefix_Elemental_Slag WeaponNamePartDefinition]
+PartName=Bolnoy
+
+[Name.Prefix_Vladof.Prefix_Foregrip_Stability WeaponNamePartDefinition]
+PartName=Dobby
+
+[Name.Prefix_Vladof.Prefix_Mount1_Mag WeaponNamePartDefinition]
+PartName=Bolshy
+
+[Name.Prefix_Vladof.Prefix_Mount2_FireRate WeaponNamePartDefinition]
+PartName=Skorry
+
+[Name.Prefix_Vladof.Prefix_Mount3_Damage WeaponNamePartDefinition]
+PartName=Gromky
+
+[Name.Title.Title__Unique_Chere-amie WeaponNamePartDefinition]
+PartName=Chère-amie
+
+[Name.Title.Title__Unique_Chere-amie:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Je suis enchante, Ou est le bibliotheque?
+Suffix=
+Prefix=
+
+[Name.Title.Title__Unique_FremingtonsEdge WeaponNamePartDefinition]
+PartName=Fremington's Edge
+
+[Name.Title.Title__Unique_FremingtonsEdge:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=I can see my house from here.
+Suffix=
+Prefix=
+
+[Name.Title.Title__Unique_Longbow WeaponNamePartDefinition]
+PartName=Longbow
+
+[Name.Title.Title__Unique_Longbow:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Ceci n'est pas une sniper rifle!
+Suffix=
+Prefix=
+
+[Name.Title.Title__Unique_Morningstar WeaponNamePartDefinition]
+PartName=Morningstar
+
+[Name.Title.Title__Unique_Morningstar:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=a Rose by any other name...
+Suffix=
+Prefix=
+
+[Name.Title.Title__Unique_Sloth WeaponNamePartDefinition]
+PartName=Sloth
+
+[Name.Title.Title__Unique_Sloth:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Yeah, booze'll do that to ya...
+Suffix=
+Prefix=
+
+[Name.Title.Title__Unique_Trespasser WeaponNamePartDefinition]
+PartName=Trespasser
+
+[Name.Title.Title__Unique_Trespasser:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=I infrequently perish.
+Suffix=
+Prefix=
+
+[Name.Title.Title_RailGun WeaponNamePartDefinition]
+PartName=Rail Gun
+
+[Name.Title.Title_SniperRifle WeaponNamePartDefinition]
+PartName=Sniper Rifle
+
+[Name.Title_Bandit.Title_Barrel_Alien_Railgun WeaponNamePartDefinition]
+PartName=RALEGUN~!
+
+[Name.Title_Bandit.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=snikping snipr
+
+[Name.Title_Bandit.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=thud
+
+[Name.Title_Bandit.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=crapabak!
+
+[Name.Title_Dahl.Title__SniperRifle WeaponNamePartDefinition]
+PartName=Sniper
+
+[Name.Title_Dahl.Title_Barrel_Alien_Railgun WeaponNamePartDefinition]
+PartName=Railer
+
+[Name.Title_Dahl.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=Strike
+
+[Name.Title_Dahl.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=Terror
+
+[Name.Title_Dahl.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=Scout
+
+[Name.Title_Dahl.Title_Legendary_Pitchfork WeaponNamePartDefinition]
+PartName=Pitchfork
+
+[Name.Title_Dahl.Title_Legendary_Pitchfork:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Mainstream'd!
+Suffix=
+Prefix=
+
+[Name.Title_Hyperion.Title_Barrel_Alien_Railgun WeaponNamePartDefinition]
+PartName=Hybridfication
+
+[Name.Title_Hyperion.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=Transaction
+
+[Name.Title_Hyperion.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=Policy
+
+[Name.Title_Hyperion.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=Competition
+
+[Name.Title_Hyperion.Title_Legendary_Invader WeaponNamePartDefinition]
+PartName=Invader
+
+[Name.Title_Hyperion.Title_Legendary_Invader:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=The Executioner has arrived.
+Suffix=
+Prefix=
+
+[Name.Title_Jakobs.Title__SniperRifle WeaponNamePartDefinition]
+PartName=Callipeen
+
+[Name.Title_Jakobs.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=Chinook
+
+[Name.Title_Jakobs.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=Muckamuck
+
+[Name.Title_Jakobs.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=Diaub
+
+[Name.Title_Jakobs.Title_Jakobs_Buffalo WeaponNamePartDefinition]
+PartName=Buffalo
+
+[Name.Title_Jakobs.Title_Jakobs_Buffalo:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Bison Bison had had had had had Bison Bison Bison shi shi shi.
+Suffix=
+Prefix=
+
+[Name.Title_Jakobs.Title_Legendary_Skullmasher WeaponNamePartDefinition]
+PartName=Skullmasher
+
+[Name.Title_Jakobs.Title_Legendary_Skullmasher:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Makes your brain hurt.
+Suffix=
+Prefix=
+
+[Name.Title_Maliwan.Title__SniperRifle WeaponNamePartDefinition]
+PartName=Snider
+
+[Name.Title_Maliwan.Title_Barrel_Alien_Railgun WeaponNamePartDefinition]
+PartName=Railer
+
+[Name.Title_Maliwan.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=Jericho
+
+[Name.Title_Maliwan.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=Corinthian
+
+[Name.Title_Maliwan.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=Rakehell
+
+[Name.Title_Maliwan.Title_Legendary_Volcano WeaponNamePartDefinition]
+PartName=Volcano
+
+[Name.Title_Maliwan.Title_Legendary_Volcano:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Pele humbly requests a sacrifice, if it's not too much trouble.
+Suffix=
+Prefix=
+
+[Name.Title_Vladof.Title__SniperRifle WeaponNamePartDefinition]
+PartName=Pooshka
+
+[Name.Title_Vladof.Title_Barrel_Alien_Railgun WeaponNamePartDefinition]
+PartName=Moloko
+
+[Name.Title_Vladof.Title_Barrel_Hyperion_Accurate WeaponNamePartDefinition]
+PartName=Bratchny
+
+[Name.Title_Vladof.Title_Barrel_Jakobs_SlowDamage WeaponNamePartDefinition]
+PartName=Horrorshow
+
+[Name.Title_Vladof.Title_Barrel_Vladof_Rapid WeaponNamePartDefinition]
+PartName=Droog
+
+[Name.Title_Vladof.Title_Legendary_Lyudmila WeaponNamePartDefinition]
+PartName=Lyuda
+
+[Name.Title_Vladof.Title_Legendary_Lyudmila:AttributePresentationDefinition_8 AttributePresentationDefinition]
+Description=
+NoConstraintText=Man Killer
+Suffix=
+Prefix=
+
+[Skills.Skill_Morningstar SkillDefinition]
+SkillName=Talking Gun Skill
+SkillDescription=
+LockedSkillDetailStr=<Locked>
+
+[Skills.Skill_Morningstar:BehaviorProviderDefinition_0.Behavior_AttributeEffect_0.SkillDefinition_0 SkillDefinition]
+SkillName=
+SkillDescription=
+LockedSkillDetailStr=<Locked>
+

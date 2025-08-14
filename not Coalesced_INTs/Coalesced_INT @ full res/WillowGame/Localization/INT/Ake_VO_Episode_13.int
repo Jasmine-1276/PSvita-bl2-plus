@@ -1,0 +1,1125 @@
+[vo_ep13_pt1_01_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Time to think up some memorable last words.",Time=0)
+
+[vo_ep13_pt1_02_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This isn't a discussion. You're not going without me. Period.",Time=0)
+
+[vo_ep13_pt1_03_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Look, I need you here protecting Sanctuary. If this turns out to be a trap, I need you to keep these people safe.",Time=0)
+
+[vo_ep13_pt1_04_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Is this because Angel told me not to come? It is, isn't it?",Time=0)
+
+[vo_ep13_pt1_05_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lilith, damnit, would you just trust me? Okay?",Time=0)
+
+[vo_ep13_pt1_06_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you get killed, I'm going to be really pissed.",Time=0)
+
+[vo_ep13_pt1_07a_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Noted.",Time=0)
+
+[vo_ep13_pt1_08_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="If you live, I'm tearing those clothes right off your body.",Time=0)
+
+[vo_ep13_pt1_08a_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eughh - Lilith, we're standing right here. Nobody wants to hear that.",Time=0)
+
+[vo_ep13_pt1_09a_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Also... also noted.",Time=0)
+
+[vo_ep13_pt1_10_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Go on...",Time=0)
+
+[vo_ep13_pt1_11_live_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Slab!",Time=0)
+
+[vo_ep13_pt1_12_live_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good to see you.",Time=0)
+
+[vo_ep13_pt1_13_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is it, everybody. Lilith, Mordecai? You're protecting the city. Brick'll provide air support from Thousand Cuts, and I'll climb up to Control Core Angel from the cliff face. Any questions?",Time=0)
+
+[vo_ep13_pt1_13a_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah - why ain't I going? I gotta pay Hyperion back for Bloodwing.",Time=0)
+
+[vo_ep13_pt1_13b_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="And you will. But for now, I need you protecting Sanctuary in case this is just another trap. You'll get your payback, Mordecai. I promise.",Time=0)
+
+[vo_ep13_pt1_13c_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Long as you say so, Roland.",Time=0)
+
+[vo_ep13_pt1_14_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Vault Hunter. We have a shot at stealing the Vault Key, and stopping Jack from waking the Warrior. All you have to do is get past a forcefield that'll atomize you, destroy a bunker carrying enough firepower to level a continent, and get through a door you can't possibly open.",Time=0)
+
+[vo_ep13_pt1_15_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's his way of saying, ''we're probably gonna die.''",Time=0)
+
+[vo_ep13_pt1_16_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Make it painful, guys.",Time=0)
+
+[vo_ep13_pt1_17_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's time to get Claptrap to Thousand Cuts. We need him to shut down the forcefield.",Time=0)
+
+[vo_ep13_pt1_18_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="This is gonna be fun!",Time=0)
+
+[vo_ep13_pt2_01_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="FYI... it may take some serious convincing to get Claptrap to head to Thousand Cuts.",Time=0)
+
+[vo_ep13_pt2_02_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion! Let's go to Thousand Cuts.",Time=0)
+
+[vo_ep13_pt2_03_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="...Or not.",Time=0)
+
+[vo_ep13_pt2_04_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I enlisted you as my minion, then Angel just happened to attack Sanctuary. Don't you get it?! Jack was coming after me! It's time to take the fight to him! I'll meet you in Thousand Cuts!",Time=0)
+
+[vo_ep13_pt2_05_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You wanna know why I'm trying to awaken the Warrior? Because it's not enough. This disgusting planet, these stupid, stupid frickin' bandits I defeated, I don't know how many years ago - it's not enough. I want it all. Every planet, every star. You know what - call me old-fashioned, but - bein' a god sounds like a hell of a lot of fun.",Time=0)
+
+[vo_ep13_pt2_06_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm makin' my way up the cliffside, soldier. Keep pushing your way up and I'll meet you at the Chamber!",Time=0)
+
+[vo_ep13_pt2_07_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Minion! I've started my attack! I'm gonna tag every inch of this mountain if it's the last thing I do! Let's go!",Time=0)
+
+[vo_ep13_pt2_08_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We're gonna make Jack regret ever setting up shop on this cliff! It'll take him minutes to wash this graffiti off! MINUTES, I SAY! HAHAHAHA!",Time=0)
+
+[vo_ep13_pt2_08a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! You comin' or not?",Time=0)
+
+[vo_ep13_pt2_09_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh. Right. You're not a Hyperion robot. I forget that sometimes.",Time=0)
+
+[vo_ep13_pt2_10_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aaaaaaand... open!",Time=0)
+
+[vo_ep13_pt2_11_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Onward!",Time=0)
+
+[vo_ep13_pt2_11a_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I will defend you to the death, minion!",Time=0)
+
+[vo_ep13_pt2_11b_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="OH GOD NO I WON'T!",Time=0)
+
+[vo_ep13_pt2_11c_echox_claptrap]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I knew you'd be able to handle 'em, buddy - let's go!",Time=0)
+
+[vo_ep13_pt2_11d_echox_smiley]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'M GONNA BE A HERO!",Time=0)
+
+[vo_ep13_pt2_11e_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh crap, Smiley's makin' a run for it - STOP, Smiley! The wall ain't down yet! ",Time=0)
+
+[vo_ep13_pt2_11f_echox_smiley]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHHHHH!",Time=0)
+
+[vo_ep13_pt2_11g_echox_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I need smarter soldiers.",Time=0)
+
+[vo_ep13_pt2_13_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, you made it past the security wall, huh? That's, ah, that's real cute. Course, the bunker's still going to obliterate ya, but nonetheless - cute.",Time=0)
+
+[vo_ep13_pt2_14_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, you know how I got my hands on that Vault Key? See, a few years back, Wilhelm and I paid a visit to your little friend Tannis. And we beat her for hours. We ripped it out of her broken fingers. But we let her live. Because that's what heroes do. They show mercy.",Time=0)
+
+[vo_ep13_pt2_14a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Alright, fun time's over, kiddies - Brick and his mouth-breathers couldn't bust my bunker... and neither can you.",Time=0)
+
+[vo_ep13_pt2_14b_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Got some buzzards headin' your way, slab!",Time=0)
+
+[vo_ep13_pt2_14c_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sendin' in some boys, slab! Keep pushin' forward!",Time=0)
+
+[vo_ep13_pt2_14d_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That forcefield protects the final door to my chambers. It will only deactivate once you've destroyed the bunker.",Time=0)
+
+[vo_ep13_pt2_14d_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My boys got supplies for ya - look for the buzzard with a white beacon!",Time=0)
+
+[vo_ep13_pt2_14e_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The slabs are droppin' ammo on the center platform!",Time=0)
+
+[vo_ep13_pt2_14f_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Health incoming on the center platform!",Time=0)
+
+[vo_ep13_pt2_14g_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get up top by the waterfall - we're sendin' you ammo!",Time=0)
+
+[vo_ep13_pt2_14h_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Health coming, up top by the waterfall!",Time=0)
+
+[vo_ep13_pt2_14i_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The slabs got ammo for you out on the ring!",Time=0)
+
+[vo_ep13_pt2_14j_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get out to the ring if you need health!",Time=0)
+
+[vo_ep13_pt2_14k_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, slab, we got supplies - watch the buzzard with a white beacon!",Time=0)
+
+[vo_ep13_pt2_14l_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slab, we're dropping ammo on the center platform!",Time=0)
+
+[vo_ep13_pt2_14m_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get to the center platform, slab - we're dropping health!",Time=0)
+
+[vo_ep13_pt2_14n_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dropping ammo up top, by the waterfall!",Time=0)
+
+[vo_ep13_pt2_14o_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We got health for ya up by the waterfall!",Time=0)
+
+[vo_ep13_pt2_14p_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We're droppin' ammo out on the ring!",Time=0)
+
+[vo_ep13_pt2_14q_echo_slabbandit]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dropping health for ya out on the ring!",Time=0)
+
+[vo_ep13_pt2_15_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Slab! You're comin' up on the bunker! I'm sendin' some of my boys to help ya out!",Time=0)
+
+[vo_ep13_pt2_15a_echo_slab]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey, Slab! Brick sent us - we're here to help!",Time=0)
+
+[vo_ep13_pt2_15b_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eyes to the sky, Slab! My buzzards are comin' in!",Time=0)
+
+[vo_ep13_pt2_15c_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Take out those auto cannons, slab - they're tearin' up your air support!",Time=0)
+
+[vo_ep13_pt2_15d_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hell yeah! One auto cannon down!",Time=0)
+
+[vo_ep13_pt2_15e_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ha-HA! No more auto cannons! Good job, slab!",Time=0)
+
+[vo_ep13_pt2_15f_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ah, crap. Keep fighting, slab - bust those guns!",Time=0)
+
+[vo_ep13_pt2_15g_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're doin great, slab - once we bust this bunker, there's nothin to stop you from grabbin' the Vault Key! Just keep fightin'!",Time=0)
+
+[vo_ep13_pt2_15h_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh CRAP! The bunker went airborne, slabs - this is gonna get messy!",Time=0)
+
+[vo_ep13_pt2_15i_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Destroy those auto cannons on the bunker's hull!",Time=0)
+
+[vo_ep13_pt2_15j_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The bunker's chewin' up my slabs - destroy those auto cannons!",Time=0)
+
+[vo_ep13_pt2_15k_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My slabs can't fight with ya if you don't kill those auto cannons!",Time=0)
+
+[vo_ep13_pt2_15l_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's firin' mortars, look out!",Time=0)
+
+[vo_ep13_pt2_15m_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Mortar fire! Take cover!",Time=0)
+
+[vo_ep13_pt2_15n_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Mortars incoming!",Time=0)
+
+[vo_ep13_pt2_15o_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch those homing rockets, slab!",Time=0)
+
+[vo_ep13_pt2_15p_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Homing rockets! Look out!",Time=0)
+
+[vo_ep13_pt2_15q_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Homing rockets! Get behind something!",Time=0)
+
+[vo_ep13_pt2_15r_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Holy crap - that... is a big-ass gun.",Time=0)
+
+[vo_ep13_pt2_15s_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The big gun's charging up!",Time=0)
+
+[vo_ep13_pt2_15t_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's charging its big-ass weapon!",Time=0)
+
+[vo_ep13_pt2_15u_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The big-ass gun's charging! Look out!",Time=0)
+
+[vo_ep13_pt2_15v_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Laser countermeasures! Jump!",Time=0)
+
+[vo_ep13_pt2_15w_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Watch those laser contermeasures!",Time=0)
+
+[vo_ep13_pt2_15x_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jump over those lasers, slab!",Time=0)
+
+[vo_ep13_pt2_15y_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hahahaha! We kicked their ass!",Time=0)
+
+[vo_ep13_pt2_16_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="AHAHAHAHAHAHAHAHA!",Time=0)
+
+[vo_ep13_pt2_16a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="With the Bunker destroyed, you can access the door to my chambers. Move quickly.",Time=0)
+
+[vo_ep13_pt2_16a_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's one auto cannon down!",Time=0)
+
+[vo_ep13_pt2_16b_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah! Pretty soon there won't be anything to stop our buzzards!",Time=0)
+
+[vo_ep13_pt2_16c_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep bustin' those auto cannons, slab! You're doin' great!",Time=0)
+
+[vo_ep13_pt2_16d_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="They ain't rollin' out the welcome mat. Maybe you should take out those turrets on the towers so they'll open the doors!",Time=0)
+
+[vo_ep13_pt2_16e_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Knock knock, bitches! Open up!",Time=0)
+
+[vo_ep13_pt2_17_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Consider this your final warn-- no, consider this MY final warning. Turn around and I promise I'll make it quick. But I swear, you take one more step, every soul back in Sanctuary will die staring at their own lungs as I rip them from their chests.",Time=0)
+
+[vo_ep13_pt2_18_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Move quickly - he is still trying to siphon my power to charge the Vault Key. Release me from this. Please.",Time=0)
+
+[vo_ep13_pt2_19_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm nearly there, soldier! I'm climbing up the rear of the control core - I'll meet ya inside!",Time=0)
+
+[vo_ep13_pt2_19a_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That voice modulator had better work, or this'll all be for nothing.",Time=0)
+
+[vo_ep13_pt2_21_live_hyperion]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Preparing bio-scan. Please stand on the Hyperion emblem.",Time=0)
+
+[vo_ep13_pt2_22_live_hyperion]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Scanning bio-signature.",Time=0)
+
+[vo_ep13_pt2_23_live_hyperion]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bioscan incomplete. Please stand on the Hyperion emblem.",Time=0)
+
+[vo_ep13_pt2_24_live_hyperion]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bio-signature confirmed: hello, sexy. Awaiting password.",Time=0)
+
+[vo_ep13_pt2_25_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The password is... I love you.",Time=0)
+
+[vo_ep13_pt2_26_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I love you.",Time=0)
+
+[vo_ep13_pt2_27_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So. You've finally made it. I'll... see you soon.",Time=0)
+
+[vo_ep13_pt2_27_live_hyperion]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Access granted.",Time=0)
+
+[vo_ep13_pt3_01_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Key is here, but -- ",Time=0)
+
+[vo_ep13_pt3_02_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm not an artificial intelligence.",Time=0)
+
+[vo_ep13_pt3_03_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sorry for all the trouble. Jack wouldn't give up his prized Siren so easily.",Time=0)
+
+[vo_ep13_pt3_06_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You get the hell away from my daughter!",Time=0)
+
+[vo_ep13_pt3_08_live_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The Eridium injectors! Destroy them!",Time=0)
+
+[vo_ep13_pt3_09_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the hell are you doing, Angel?!",Time=0)
+
+[vo_ep13_pt3_10_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Stopping you, you piece of --",Time=0)
+
+[vo_ep13_pt3_10a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Rrgh - language!",Time=0)
+
+[vo_ep13_pt3_10b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Aghh!",Time=0)
+
+[vo_ep13_pt3_10c_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, just like that!",Time=0)
+
+[vo_ep13_pt3_11_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Oh, no you don't! Shields up!",Time=0)
+
+[vo_ep13_pt3_12_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="No! I'll try to expose the injectors, just hold on!",Time=0)
+
+[vo_ep13_pt3_13_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Bandit, if you keep this up, I'm heading down there to blow your brains out myself. You hear me?!",Time=0)
+
+[vo_ep13_pt3_14_live_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="He's lying - the coward would never face you in person!",Time=0)
+
+[vo_ep13_pt3_14a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel, shut the HELL up!",Time=0)
+
+[vo_ep13_pt3_15_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="So this is how you bandits fight, is that it? You can't come straight for me, you gotta kill an innocent girl?!",Time=0)
+
+[vo_ep13_pt3_15a_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You are endangering my baby girl. This is my vow, every friend, every child, every person you ever passed on the street. I'm gonna kill them all. You didn't follow the rules, bandit.",Time=0)
+
+[vo_ep13_pt3_15b_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Please. Okay. Are you hearing me? Please don't kill my baby girl.",Time=0)
+
+[vo_ep13_pt3_15c_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel? Angel, NO! ANGEL!",Time=0)
+
+[vo_ep13_pt3_16_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="That's how he works - he'll try to guilt you, to make you think it's your fault. Don't listen.",Time=0)
+
+[vo_ep13_pt3_17_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sweetheart, everything you could ever want is within these four walls! Angel, do you have any idea how much I've sacrificed for you? The bandits I've killed, the people I've manipulated - everything I've done was to protect YOU!",Time=0)
+
+[vo_ep13_pt3_18_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Promise me you'll kill him, friend. ",Time=0)
+
+[vo_ep13_pt3_18a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending you health now!",Time=0)
+
+[vo_ep13_pt3_18b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Here -- have some health!",Time=0)
+
+[vo_ep13_pt3_18c_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending health your way!",Time=0)
+
+[vo_ep13_pt3_18d_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Health incoming!",Time=0)
+
+[vo_ep13_pt3_18e_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Health for you - get it!",Time=0)
+
+[vo_ep13_pt3_18f_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Ammo incoming!",Time=0)
+
+[vo_ep13_pt3_18g_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending you ammo!",Time=0)
+
+[vo_ep13_pt3_18h_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Here, refill your ammo!",Time=0)
+
+[vo_ep13_pt3_18i_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Grab this ammo!",Time=0)
+
+[vo_ep13_pt3_18j_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sending ammo to you!",Time=0)
+
+[vo_ep13_pt3_19a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack's shut down the light bridge!",Time=0)
+
+[vo_ep13_pt3_19a_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm dropping my scorpio turret! Use it for cover!",Time=0)
+
+[vo_ep13_pt3_19b_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll help you however I can!",Time=0)
+
+[vo_ep13_pt3_19b_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get behind my scorpio turret!",Time=0)
+
+[vo_ep13_pt3_19c_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm deploying cover - get behind it!",Time=0)
+
+[vo_ep13_pt3_19c_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Tossin' my turret, soldier - get to it!",Time=0)
+
+[vo_ep13_pt3_19d_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm raising more cover for you!",Time=0)
+
+[vo_ep13_pt3_19d_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've deployed a turret to help you!",Time=0)
+
+[vo_ep13_pt3_19e_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get to cover!",Time=0)
+
+[vo_ep13_pt3_19e_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get to my turret, it'll cover ya!",Time=0)
+
+[vo_ep13_pt3_19f_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm running out of cover to raise - be careful!",Time=0)
+
+[vo_ep13_pt3_19f_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="My turret's out, soldier! Get behind it!",Time=0)
+
+[vo_ep13_pt3_20_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hey! Up here! Need a hand?",Time=0)
+
+[vo_ep13_pt3_20a_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland - I need you to lower the shields around my Eridium injectors!",Time=0)
+
+[vo_ep13_pt3_20aa_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Uh... did I miss something, or is Angel a SIREN?!",Time=0)
+
+[vo_ep13_pt3_20ab_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Right - I'm on it!",Time=0)
+
+[vo_ep13_pt3_20ac_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I meant NOW, Roland!",Time=0)
+
+[vo_ep13_pt3_20b_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'll expose the injectors - just stay alive!",Time=0)
+
+[vo_ep13_pt3_20c_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dammit - now I can't reach the last injector panel! I don't know what--",Time=0)
+
+[vo_ep13_pt3_20d_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="How ya doin'?",Time=0)
+
+[vo_ep13_pt3_20e_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lilith?! What the hell?! I told you to not to come!",Time=0)
+
+[vo_ep13_pt3_20f_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yeah, and I didn't listen!",Time=0)
+
+[vo_ep13_pt3_20g_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The injector's exposed! Blast it!",Time=0)
+
+[vo_ep13_pt3_20h_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Lilith, we've gotta move!",Time=0)
+
+[vo_ep13_pt3_20i_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I've got ya!",Time=0)
+
+[vo_ep13_pt3_20j_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shoot the Eridium tubes! Hurry!",Time=0)
+
+[vo_ep13_pt3_20k_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Keep working, I'll cover you!",Time=0)
+
+[vo_ep13_pt3_21_live_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's done. It's finally done. Thank you... friend.",Time=0)
+
+[vo_ep13_pt3_22_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel, you can STOP this! I'll still forgive you, baby!",Time=0)
+
+[vo_ep13_pt3_23_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Dad, I have to tell you something...",Time=0)
+
+[vo_ep13_pt3_23a_echox_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Yes, baby? What is it?",Time=0)
+
+[vo_ep13_pt3_23b_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You're an asshole.",Time=0)
+
+[vo_ep13_pt3_24_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel! No! Angel!",Time=0)
+
+[vo_ep13_pt3_25_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The shield's down! Shoot the injector!",Time=0)
+
+[vo_ep13_pt3_26_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I lowered the shield; hit the injector, now!",Time=0)
+
+[vo_ep13_pt3_27_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The injector's exposed! Shoot it, quick!",Time=0)
+
+[vo_ep13_pt3_28_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I got the shield down! Hit the injector!",Time=0)
+
+[vo_ep13_pt3_29_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Shield's down! Open fire!",Time=0)
+
+[vo_ep13_pt3_30_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The shield  is lowered - fire, quickly!",Time=0)
+
+[vo_ep13_pt3_31_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The injector is exposed - destroy it!",Time=0)
+
+[vo_ep13_pt3_32_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland lowered the shield - destroy the injector!",Time=0)
+
+[vo_ep13_pt3_33_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Quickly, destroy the injector while the shield's down!",Time=0)
+
+[vo_ep13_pt3_34_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The shield is down - shoot the injector!",Time=0)
+
+[vo_ep13_pt4_01_echox_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="She's dead. Jack just lost his only way to awaken the Warrior.",Time=0)
+
+[vo_ep13_pt4_01a_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What kind of person would do this to their own daughter?",Time=0)
+
+[vo_ep13_pt4_02_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="The kind of guy who deserves to die.",Time=0)
+
+[vo_ep13_pt4_03_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="ROLAND!",Time=0)
+
+[vo_ep13_pt4_04_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Sup.",Time=0)
+
+[vo_ep13_pt4_05_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="He's not coming back. You killed my little girl.",Time=0)
+
+[vo_ep13_pt4_08_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What's that saying? Don't pick a fight with a man with nothing left to lose? See, I'm going to show you just how much you have to lose - and I got the most powerful Siren on the planet to do it with. Lilith, kill the Vault Hunter. We've got a date to keep with the Warrior.",Time=0)
+
+[vo_ep13_pt4_09_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You bastard, I'm gonna --",Time=0)
+
+[vo_ep13_pt4_10_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="(screaming)",Time=0)
+
+[vo_ep13_pt4_11_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Language.",Time=0)
+
+[vo_ep13_pt4_12_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text=" ",Time=0)
+
+[vo_ep13_pt4_13_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel, unfortunately, wasn't strong enough to charge the Key. But Lilith here? Given how she phased your city, I'd say she's got a very interesting connection to Eridium that other Sirens don't.",Time=0)
+
+[vo_ep13_pt4_14_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="See you around.",Time=0)
+
+[vo_ep13_pt4_15_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Get out of here, kid!",Time=0)
+
+[vo_ep13_pt4_15a_echox_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What the - how the hell'd you get back there? Frigging Vault Hunters.",Time=0)
+
+[vo_ep13_pt4_15b_echox_marcus]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Son of a bitch - robbed me blind!",Time=0)
+
+[vo_ep13_pt4_16_live_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="We've got the Vault Key, but this isn't over yet. We've gotta find Jack and take him out. Lilith, take the Vault Key to Tannis. I'm going after Jack.",Time=0)
+
+[vo_ep13_pt5_01_echo_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="What happened? What the HELL JUST HAPPENED?! First Bloodwing, now THIS?! Vault Hunter, find me in Sanctuary - we gotta get Lilith back!",Time=0)
+
+[vo_ep13_pt5_02_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Roland... sonofabitch...",Time=0)
+
+[vo_ep13_pt5_03_echo_roland]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Good goin', Vault Hunter! I'm climbin' up the cliff face now! Push forward to the bunker!",Time=0)
+
+[vo_ep13_pt5_03_echox_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Hang on - I'm phasing you back to Sanctuary!",Time=0)
+
+[vo_ep13_pt5_04_echo_brick]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Be careful, slab - my boys seen a ton of bad guys between you and the bunker! I know you can do it!",Time=0)
+
+[vo_ep13_pt5_04_echox_mordecai]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="With Roland and Lilith... gone... the resistance needs a new leader. I'm a drunk and Brick's a maniac - there's only one option. You. ",Time=0)
+
+[vo_ep13_pt5_05_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I detect you're getting closer. Hurry and reach me - you must get the Vault Key and... deal with me.",Time=0)
+
+[vo_ep13_pt5_05_echox_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I gave you a chance, bandit. I told you to run, but you thought you could take on my bunker. But now? It's time for you to realize just how wrong you were.",Time=0)
+
+[vo_ep13_pt5_06_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Don't you know what you're DOING?! Who cares about the goddamn Key - you're gonna end the life of an innocent girl!",Time=0)
+
+[vo_ep13_pt5_07_echo_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack ended my life long ago. This has to end NOW, Vault Hunter.",Time=0)
+
+[vo_ep13_pt5_09_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="(screaming)",Time=0)
+
+[vo_ep13_pt5_10_live_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do it, Lilith.",Time=0)
+
+[vo_ep13_pt5_11_live_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="NO!",Time=0)
+
+[vo_ep13_pt5_12_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Are you okay? Did I get you to Sanctuary? I feel... wrong. This device Jack's using on me --",Time=0)
+
+[vo_ep13_pt5_13_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="It's the same technology I used with my daughter. But unlike you, she knew how to listen. It's time for you to learn who's in charge. The hard way.",Time=0)
+
+[vo_ep13_pt5_14_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Angel... I'm sorry I couldn't protect you.",Time=0)
+
+[vo_ep13_pt5_14_echo_lilith]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="(screaming)",Time=0)
+
+[vo_ep13_pt5_15_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Do you really think I'd protect Angel with nothing but a couple bots and some flimsy turrets? See, you're not at the bunker right now. The bunker isn't a place.",Time=0)
+
+[vo_ep13_pt5_15_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I'm sorry for lying, but if you knew I wasn't a machine, you might not have been willing to come here and... shut me down.",Time=0)
+
+[vo_ep13_pt5_16_echo_jack]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="THAT's the bunker. Meet the BNK-3R, the greatest defense bot ever built. Designed her myself. Now do me a favor and die.",Time=0)
+
+[vo_ep13_pt5_16_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="I can't stop Jack's defenses! Be careful!",Time=0)
+
+[vo_ep13_pt5_17_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Eridium alone could never charge the Vault Key. It needs a catalyst - something to awaken its power. It needs... a Siren.",Time=0)
+
+[vo_ep13_pt5_18_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack acquired his Siren catalyst a long time ago. He kept her hidden from the world for years, but finally - you will be able to set her free.",Time=0)
+
+[vo_ep13_pt5_19_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="To truly stop Jack from waking the Warrior, you cannot just steal the Vault Key - you must destroy his catalyst.",Time=0)
+
+[vo_ep13_pt5_20_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="You must destroy...",Time=0)
+
+[vo_ep13_pt5_20a_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="me.",Time=0)
+
+[vo_ep13_pt5_21_echox_angel]
+bManualWordWrap=False
+bMature=False
+Subtitles[0]=(Text="Jack's spent years pumping me full of Eridium, using me to charge his Key and manipulate his enemies. Destroying the Eridium injectors that keep me... alive... will stop the Key from charging. And it will end a lifetime of servitude. Now -- ",Time=0)
+
